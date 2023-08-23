@@ -1,0 +1,41 @@
+diseaseid,diseasename,Patients,Patients
+1,"Alzheimer's disease",95,173
+2,"Amyotrophic lateral sclerosis",106,165
+3,"Anorexia nervosa",96,177
+4,"Anxiety disorder",126,153
+5,Asthma,101,144
+6,Atherosclerosis,112,174
+7,"Attention deficit hyperactivity disorder",125,158
+8,Autism,94,156
+9,"Autoimmune diseases",102,165
+10,"Bipolar disorder",114,166
+11,Cancer,103,191
+12,"Chronic fatigue syndrome",107,158
+13,"Chronic obstructive pulmonary disease",97,152
+14,"Crohn's disease",102,182
+15,"Coronary heart disease",97,149
+16,Dementia,90,162
+17,Depression,82,170
+18,"Diabetes mellitus type 1",93,174
+19,"Diabetes mellitus type 2",99,178
+20,"Dilated cardiomyopathy",110,191
+21,Epilepsy,96,153
+22,"Guillain–Barré syndrome",124,169
+23,"Irritable bowel syndrome",104,184
+24,"Low back pain",111,159
+25,Lupus,88,158
+26,"Metabolic syndrome",127,161
+27,"Multiple sclerosis",88,173
+28,"Myocardial infarction",107,190
+29,Obesity,123,157
+30,"Obsessive–compulsive disorder",110,175
+31,"Panic disorder",110,158
+32,"Parkinson's disease",94,145
+33,Psoriasis,93,157
+34,"Rheumatoid arthritis",113,156
+35,Sarcoidosis,96,170
+36,Schizophrenia,117,190
+37,Stroke,112,183
+38,"Thromboangiitis obliterans",96,175
+39,"Tourette syndrome",125,153
+40,Vasculitis,121,175

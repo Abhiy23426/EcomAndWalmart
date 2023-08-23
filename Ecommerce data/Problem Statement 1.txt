@@ -1,0 +1,40 @@
+Problem Statement 1:
+
+Categorizing customers based on their spendings
+
+
+
+partition by average spending 
+
+
+create external table op1 (customer_id string, avg_spending double, spend_category string) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op1';
+
+
+with cte as 
+(select customer_id, avg(payment* quantity) as avg_spending from ecom_data_orc group by customer_id)
+insert overwrite table op1 select customer_id, avg_spending, concat(floor(avg_spending/1000)*1000,'-',floor(avg_spending/1000)*1000+1000) as spend_category from cte;
+
+
+
+
+
+
+
+
+
+
+
+
+as spendings are in range 0 to 13664.
+so we can create 14 partition
+
+
+set hive.exec.dynamic.partition = true;
+set hive.exec.dynamic.partition.mode = nonstrict;
+
+create table edp1 (customer_id string, payment float) partitioned by (spend_category string) stored as orc ;
+
+insert overwrite table edp1 partition(spend_category) select customer_id, payment, concat(round(payment, -3),'-',round(payment, -3)+1000) as spend_category from ecom_data;
+
+select spend_category, count(customer_id) from edp1 group by spend_category;
+

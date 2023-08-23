@@ -1,0 +1,8 @@
+Problem Statement 6:
+
+Where do most customers come from?
+
+create external table op6 (customer_state string, customer_city string, customer_count int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op6';
+
+insert overwrite table op6
+select customer_state, customer_city, count(distinct customer_id) from ecom_data_orc group by customer_state, customer_city;

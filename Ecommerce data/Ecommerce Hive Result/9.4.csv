@@ -1,0 +1,3197 @@
+pharmacyName,"coalesce(DiseaseName, 'Total')",Prescription_Count
+NULL,Total,3678
+"Absolute Care",Total,13
+"Absolute Care",Epilepsy,2
+"Absolute Care","Autoimmune diseases",2
+"Absolute Care",Asthma,1
+"Absolute Care",Depression,1
+"Absolute Care","Diabetes mellitus type 1",1
+"Absolute Care","Diabetes mellitus type 2",1
+"Absolute Care","Dilated cardiomyopathy",1
+"Absolute Care","Anorexia nervosa",1
+"Absolute Care","Guillain–Barré syndrome",1
+"Absolute Care","Irritable bowel syndrome",1
+"Absolute Care","Thromboangiitis obliterans",1
+"Acculife Drug Stores",Total,14
+"Acculife Drug Stores","Alzheimer's disease",2
+"Acculife Drug Stores","Autoimmune diseases",2
+"Acculife Drug Stores","Chronic obstructive pulmonary disease",2
+"Acculife Drug Stores",Atherosclerosis,1
+"Acculife Drug Stores","Bipolar disorder",1
+"Acculife Drug Stores",Cancer,1
+"Acculife Drug Stores","Chronic fatigue syndrome",1
+"Acculife Drug Stores","Irritable bowel syndrome",1
+"Acculife Drug Stores","Multiple sclerosis",1
+"Acculife Drug Stores",Psoriasis,1
+"Acculife Drug Stores",Vasculitis,1
+"Adams Drugs",Total,14
+"Adams Drugs","Diabetes mellitus type 1",2
+"Adams Drugs","Amyotrophic lateral sclerosis",2
+"Adams Drugs",Atherosclerosis,2
+"Adams Drugs","Myocardial infarction",2
+"Adams Drugs",Vasculitis,2
+"Adams Drugs","Parkinson's disease",1
+"Adams Drugs","Rheumatoid arthritis",1
+"Adams Drugs","Alzheimer's disease",1
+"Adams Drugs",Cancer,1
+"Alliance Community",Total,22
+"Alliance Community",Cancer,3
+"Alliance Community",Schizophrenia,3
+"Alliance Community","Tourette syndrome",3
+"Alliance Community","Rheumatoid arthritis",2
+"Alliance Community","Autoimmune diseases",1
+"Alliance Community","Bipolar disorder",1
+"Alliance Community","Chronic fatigue syndrome",1
+"Alliance Community","Diabetes mellitus type 1",1
+"Alliance Community","Diabetes mellitus type 2",1
+"Alliance Community",Epilepsy,1
+"Alliance Community","Low back pain",1
+"Alliance Community",Lupus,1
+"Alliance Community",Psoriasis,1
+"Alliance Community",Sarcoidosis,1
+"Alliance Community",Vasculitis,1
+"Ally Scripts",Total,11
+"Ally Scripts","Guillain–Barré syndrome",2
+"Ally Scripts","Thromboangiitis obliterans",2
+"Ally Scripts","Anorexia nervosa",1
+"Ally Scripts","Anxiety disorder",1
+"Ally Scripts",Autism,1
+"Ally Scripts",Depression,1
+"Ally Scripts",Psoriasis,1
+"Ally Scripts",Schizophrenia,1
+"Ally Scripts",Stroke,1
+Apotheco,Total,20
+Apotheco,"Crohn's disease",2
+Apotheco,"Tourette syndrome",2
+Apotheco,"Irritable bowel syndrome",2
+Apotheco,"Myocardial infarction",2
+Apotheco,Autism,1
+Apotheco,"Autoimmune diseases",1
+Apotheco,"Chronic obstructive pulmonary disease",1
+Apotheco,"Coronary heart disease",1
+Apotheco,Dementia,1
+Apotheco,"Diabetes mellitus type 1",1
+Apotheco,"Diabetes mellitus type 2",1
+Apotheco,"Dilated cardiomyopathy",1
+Apotheco,"Low back pain",1
+Apotheco,"Rheumatoid arthritis",1
+Apotheco,"Multiple sclerosis",1
+Apotheco,"Guillain–Barré syndrome",1
+"Assured Rx",Total,14
+"Assured Rx",Asthma,2
+"Assured Rx","Anorexia nervosa",1
+"Assured Rx","Attention deficit hyperactivity disorder",1
+"Assured Rx","Autoimmune diseases",1
+"Assured Rx","Crohn's disease",1
+"Assured Rx",Dementia,1
+"Assured Rx","Dilated cardiomyopathy",1
+"Assured Rx","Low back pain",1
+"Assured Rx","Metabolic syndrome",1
+"Assured Rx","Parkinson's disease",1
+"Assured Rx",Psoriasis,1
+"Assured Rx",Schizophrenia,1
+"Assured Rx",Vasculitis,1
+"Atlas Drugs",Total,16
+"Atlas Drugs",Lupus,2
+"Atlas Drugs","Guillain–Barré syndrome",2
+"Atlas Drugs","Anxiety disorder",1
+"Atlas Drugs",Atherosclerosis,1
+"Atlas Drugs","Coronary heart disease",1
+"Atlas Drugs",Dementia,1
+"Atlas Drugs","Low back pain",1
+"Atlas Drugs","Metabolic syndrome",1
+"Atlas Drugs","Myocardial infarction",1
+"Atlas Drugs","Obsessive–compulsive disorder",1
+"Atlas Drugs","Parkinson's disease",1
+"Atlas Drugs",Stroke,1
+"Atlas Drugs","Thromboangiitis obliterans",1
+"Atlas Drugs","Anorexia nervosa",1
+"Banks Apothecary",Total,20
+"Banks Apothecary","Diabetes mellitus type 1",2
+"Banks Apothecary","Low back pain",2
+"Banks Apothecary","Chronic fatigue syndrome",2
+"Banks Apothecary",Autism,1
+"Banks Apothecary","Bipolar disorder",1
+"Banks Apothecary","Chronic obstructive pulmonary disease",1
+"Banks Apothecary","Crohn's disease",1
+"Banks Apothecary","Diabetes mellitus type 2",1
+"Banks Apothecary","Irritable bowel syndrome",1
+"Banks Apothecary","Metabolic syndrome",1
+"Banks Apothecary","Multiple sclerosis",1
+"Banks Apothecary","Myocardial infarction",1
+"Banks Apothecary","Panic disorder",1
+"Banks Apothecary",Sarcoidosis,1
+"Banks Apothecary",Stroke,1
+"Banks Apothecary",Vasculitis,1
+"Banks Apothecary","Anxiety disorder",1
+"Bartell Drugs",Total,16
+"Bartell Drugs","Irritable bowel syndrome",3
+"Bartell Drugs","Multiple sclerosis",2
+"Bartell Drugs","Alzheimer's disease",1
+"Bartell Drugs","Anxiety disorder",1
+"Bartell Drugs",Asthma,1
+"Bartell Drugs",Cancer,1
+"Bartell Drugs","Coronary heart disease",1
+"Bartell Drugs","Diabetes mellitus type 1",1
+"Bartell Drugs",Epilepsy,1
+"Bartell Drugs",Lupus,1
+"Bartell Drugs","Metabolic syndrome",1
+"Bartell Drugs","Myocardial infarction",1
+"Bartell Drugs","Tourette syndrome",1
+"Be Well",Total,23
+"Be Well","Autoimmune diseases",3
+"Be Well",Asthma,2
+"Be Well","Parkinson's disease",2
+"Be Well","Bipolar disorder",1
+"Be Well",Cancer,1
+"Be Well","Chronic obstructive pulmonary disease",1
+"Be Well",Depression,1
+"Be Well","Diabetes mellitus type 2",1
+"Be Well","Dilated cardiomyopathy",1
+"Be Well",Epilepsy,1
+"Be Well","Guillain–Barré syndrome",1
+"Be Well","Irritable bowel syndrome",1
+"Be Well","Myocardial infarction",1
+"Be Well","Obsessive–compulsive disorder",1
+"Be Well","Anorexia nervosa",1
+"Be Well","Rheumatoid arthritis",1
+"Be Well",Sarcoidosis,1
+"Be Well",Schizophrenia,1
+"Be Well","Amyotrophic lateral sclerosis",1
+"Below Drug",Total,19
+"Below Drug","Amyotrophic lateral sclerosis",2
+"Below Drug","Anxiety disorder",2
+"Below Drug","Chronic obstructive pulmonary disease",2
+"Below Drug","Coronary heart disease",2
+"Below Drug","Crohn's disease",2
+"Below Drug","Autoimmune diseases",1
+"Below Drug","Bipolar disorder",1
+"Below Drug",Dementia,1
+"Below Drug","Diabetes mellitus type 1",1
+"Below Drug",Epilepsy,1
+"Below Drug","Multiple sclerosis",1
+"Below Drug","Myocardial infarction",1
+"Below Drug",Obesity,1
+"Below Drug","Thromboangiitis obliterans",1
+"Better Life",Total,3
+"Better Life","Bipolar disorder",1
+"Better Life",Psoriasis,1
+"Better Life","Attention deficit hyperactivity disorder",1
+"Better You",Total,13
+"Better You",Cancer,3
+"Better You",Asthma,1
+"Better You","Chronic obstructive pulmonary disease",1
+"Better You","Crohn's disease",1
+"Better You","Diabetes mellitus type 2",1
+"Better You","Metabolic syndrome",1
+"Better You","Myocardial infarction",1
+"Better You","Obsessive–compulsive disorder",1
+"Better You","Rheumatoid arthritis",1
+"Better You","Thromboangiitis obliterans",1
+"Better You",Vasculitis,1
+"Beyond Health",Total,14
+"Beyond Health","Alzheimer's disease",2
+"Beyond Health","Chronic obstructive pulmonary disease",2
+"Beyond Health","Amyotrophic lateral sclerosis",1
+"Beyond Health","Autoimmune diseases",1
+"Beyond Health","Chronic fatigue syndrome",1
+"Beyond Health",Depression,1
+"Beyond Health","Multiple sclerosis",1
+"Beyond Health",Psoriasis,1
+"Beyond Health",Schizophrenia,1
+"Beyond Health","Thromboangiitis obliterans",1
+"Beyond Health","Tourette syndrome",1
+"Beyond Health",Vasculitis,1
+"Bio Scrip",Total,25
+"Bio Scrip","Thromboangiitis obliterans",3
+"Bio Scrip","Myocardial infarction",2
+"Bio Scrip",Psoriasis,2
+"Bio Scrip","Diabetes mellitus type 1",2
+"Bio Scrip","Guillain–Barré syndrome",2
+"Bio Scrip","Anorexia nervosa",1
+"Bio Scrip",Asthma,1
+"Bio Scrip",Atherosclerosis,1
+"Bio Scrip",Cancer,1
+"Bio Scrip","Chronic fatigue syndrome",1
+"Bio Scrip","Crohn's disease",1
+"Bio Scrip","Multiple sclerosis",1
+"Bio Scrip","Low back pain",1
+"Bio Scrip",Lupus,1
+"Bio Scrip",Sarcoidosis,1
+"Bio Scrip",Stroke,1
+"Bio Scrip","Diabetes mellitus type 2",1
+"Bio Scrip",Vasculitis,1
+"Bio Scrip",Dementia,1
+"Bioplus Specialty",Total,13
+"Bioplus Specialty","Multiple sclerosis",2
+"Bioplus Specialty","Parkinson's disease",2
+"Bioplus Specialty",Autism,1
+"Bioplus Specialty","Coronary heart disease",1
+"Bioplus Specialty","Crohn's disease",1
+"Bioplus Specialty","Diabetes mellitus type 1",1
+"Bioplus Specialty","Alzheimer's disease",1
+"Bioplus Specialty",Obesity,1
+"Bioplus Specialty","Anorexia nervosa",1
+"Bioplus Specialty","Tourette syndrome",1
+"Bioplus Specialty","Attention deficit hyperactivity disorder",1
+"Blink Health",Total,11
+"Blink Health",Depression,2
+"Blink Health",Sarcoidosis,2
+"Blink Health","Anorexia nervosa",1
+"Blink Health","Attention deficit hyperactivity disorder",1
+"Blink Health","Diabetes mellitus type 2",1
+"Blink Health","Metabolic syndrome",1
+"Blink Health",Obesity,1
+"Blink Health","Panic disorder",1
+"Blink Health","Parkinson's disease",1
+"Brennen Drugs Co",Total,10
+"Brennen Drugs Co","Diabetes mellitus type 2",2
+"Brennen Drugs Co","Anxiety disorder",2
+"Brennen Drugs Co",Depression,1
+"Brennen Drugs Co","Autoimmune diseases",1
+"Brennen Drugs Co",Obesity,1
+"Brennen Drugs Co","Parkinson's disease",1
+"Brennen Drugs Co",Psoriasis,1
+"Brennen Drugs Co","Bipolar disorder",1
+"Cardinal Health",Total,12
+"Cardinal Health","Autoimmune diseases",2
+"Cardinal Health","Anxiety disorder",1
+"Cardinal Health",Autism,1
+"Cardinal Health","Chronic fatigue syndrome",1
+"Cardinal Health","Crohn's disease",1
+"Cardinal Health",Dementia,1
+"Cardinal Health",Depression,1
+"Cardinal Health","Dilated cardiomyopathy",1
+"Cardinal Health","Guillain–Barré syndrome",1
+"Cardinal Health","Myocardial infarction",1
+"Cardinal Health","Obsessive–compulsive disorder",1
+"Care Pharmacy",Total,24
+"Care Pharmacy","Metabolic syndrome",3
+"Care Pharmacy","Alzheimer's disease",2
+"Care Pharmacy","Anorexia nervosa",2
+"Care Pharmacy",Atherosclerosis,2
+"Care Pharmacy","Attention deficit hyperactivity disorder",2
+"Care Pharmacy","Guillain–Barré syndrome",2
+"Care Pharmacy","Low back pain",2
+"Care Pharmacy",Psoriasis,2
+"Care Pharmacy",Sarcoidosis,2
+"Care Pharmacy","Tourette syndrome",2
+"Care Pharmacy",Autism,1
+"Care Pharmacy",Lupus,1
+"Care Pharmacy","Multiple sclerosis",1
+CareFirst,Total,14
+CareFirst,"Obsessive–compulsive disorder",2
+CareFirst,"Bipolar disorder",1
+CareFirst,Dementia,1
+CareFirst,Depression,1
+CareFirst,"Diabetes mellitus type 1",1
+CareFirst,"Diabetes mellitus type 2",1
+CareFirst,"Irritable bowel syndrome",1
+CareFirst,Lupus,1
+CareFirst,"Metabolic syndrome",1
+CareFirst,Obesity,1
+CareFirst,"Alzheimer's disease",1
+CareFirst,"Thromboangiitis obliterans",1
+CareFirst,"Anorexia nervosa",1
+Caremark,Total,15
+Caremark,"Anorexia nervosa",2
+Caremark,"Attention deficit hyperactivity disorder",2
+Caremark,"Thromboangiitis obliterans",2
+Caremark,"Alzheimer's disease",1
+Caremark,"Bipolar disorder",1
+Caremark,Cancer,1
+Caremark,"Coronary heart disease",1
+Caremark,Depression,1
+Caremark,"Diabetes mellitus type 1",1
+Caremark,Epilepsy,1
+Caremark,"Parkinson's disease",1
+Caremark,"Rheumatoid arthritis",1
+Carepoint,Total,19
+Carepoint,"Chronic fatigue syndrome",3
+Carepoint,"Attention deficit hyperactivity disorder",1
+Carepoint,"Autoimmune diseases",1
+Carepoint,Cancer,1
+Carepoint,"Alzheimer's disease",1
+Carepoint,"Coronary heart disease",1
+Carepoint,"Guillain–Barré syndrome",1
+Carepoint,"Multiple sclerosis",1
+Carepoint,"Myocardial infarction",1
+Carepoint,Obesity,1
+Carepoint,"Panic disorder",1
+Carepoint,"Parkinson's disease",1
+Carepoint,"Rheumatoid arthritis",1
+Carepoint,Sarcoidosis,1
+Carepoint,Schizophrenia,1
+Carepoint,"Tourette syndrome",1
+Carepoint,Atherosclerosis,1
+"Cash Saver Pharmacy",Total,14
+"Cash Saver Pharmacy","Diabetes mellitus type 1",2
+"Cash Saver Pharmacy","Irritable bowel syndrome",2
+"Cash Saver Pharmacy","Panic disorder",2
+"Cash Saver Pharmacy","Chronic obstructive pulmonary disease",1
+"Cash Saver Pharmacy","Anxiety disorder",1
+"Cash Saver Pharmacy",Atherosclerosis,1
+"Cash Saver Pharmacy",Obesity,1
+"Cash Saver Pharmacy","Autoimmune diseases",1
+"Cash Saver Pharmacy",Schizophrenia,1
+"Cash Saver Pharmacy","Thromboangiitis obliterans",1
+"Cash Saver Pharmacy","Bipolar disorder",1
+"Cashway Pharmacy",Total,17
+"Cashway Pharmacy",Atherosclerosis,2
+"Cashway Pharmacy",Cancer,1
+"Cashway Pharmacy","Chronic fatigue syndrome",1
+"Cashway Pharmacy",Depression,1
+"Cashway Pharmacy","Diabetes mellitus type 1",1
+"Cashway Pharmacy","Dilated cardiomyopathy",1
+"Cashway Pharmacy",Epilepsy,1
+"Cashway Pharmacy","Guillain–Barré syndrome",1
+"Cashway Pharmacy","Irritable bowel syndrome",1
+"Cashway Pharmacy","Low back pain",1
+"Cashway Pharmacy","Metabolic syndrome",1
+"Cashway Pharmacy","Panic disorder",1
+"Cashway Pharmacy","Parkinson's disease",1
+"Cashway Pharmacy",Psoriasis,1
+"Cashway Pharmacy",Stroke,1
+"Cashway Pharmacy","Thromboangiitis obliterans",1
+"Cedra Pharmacy",Total,14
+"Cedra Pharmacy","Thromboangiitis obliterans",2
+"Cedra Pharmacy","Autoimmune diseases",1
+"Cedra Pharmacy",Cancer,1
+"Cedra Pharmacy","Chronic fatigue syndrome",1
+"Cedra Pharmacy","Chronic obstructive pulmonary disease",1
+"Cedra Pharmacy","Coronary heart disease",1
+"Cedra Pharmacy","Diabetes mellitus type 2",1
+"Cedra Pharmacy","Irritable bowel syndrome",1
+"Cedra Pharmacy",Lupus,1
+"Cedra Pharmacy","Metabolic syndrome",1
+"Cedra Pharmacy","Multiple sclerosis",1
+"Cedra Pharmacy","Amyotrophic lateral sclerosis",1
+"Cedra Pharmacy","Anorexia nervosa",1
+"Central Drug Store",Total,23
+"Central Drug Store","Anxiety disorder",2
+"Central Drug Store",Atherosclerosis,2
+"Central Drug Store","Bipolar disorder",2
+"Central Drug Store","Obsessive–compulsive disorder",2
+"Central Drug Store",Vasculitis,2
+"Central Drug Store","Chronic obstructive pulmonary disease",1
+"Central Drug Store","Coronary heart disease",1
+"Central Drug Store",Depression,1
+"Central Drug Store","Diabetes mellitus type 1",1
+"Central Drug Store","Diabetes mellitus type 2",1
+"Central Drug Store",Epilepsy,1
+"Central Drug Store","Irritable bowel syndrome",1
+"Central Drug Store",Lupus,1
+"Central Drug Store","Metabolic syndrome",1
+"Central Drug Store","Multiple sclerosis",1
+"Central Drug Store",Obesity,1
+"Central Drug Store","Panic disorder",1
+"Central Drug Store",Schizophrenia,1
+"Central Rx",Total,19
+"Central Rx",Schizophrenia,2
+"Central Rx","Guillain–Barré syndrome",2
+"Central Rx","Bipolar disorder",1
+"Central Rx","Crohn's disease",1
+"Central Rx",Dementia,1
+"Central Rx","Diabetes mellitus type 1",1
+"Central Rx","Diabetes mellitus type 2",1
+"Central Rx",Asthma,1
+"Central Rx","Alzheimer's disease",1
+"Central Rx","Irritable bowel syndrome",1
+"Central Rx",Lupus,1
+"Central Rx",Psoriasis,1
+"Central Rx","Rheumatoid arthritis",1
+"Central Rx","Dilated cardiomyopathy",1
+"Central Rx",Stroke,1
+"Central Rx","Tourette syndrome",1
+"Central Rx","Anxiety disorder",1
+Centrico,Total,19
+Centrico,"Crohn's disease",2
+Centrico,"Dilated cardiomyopathy",2
+Centrico,"Alzheimer's disease",1
+Centrico,Asthma,1
+Centrico,"Attention deficit hyperactivity disorder",1
+Centrico,Autism,1
+Centrico,"Bipolar disorder",1
+Centrico,"Coronary heart disease",1
+Centrico,"Diabetes mellitus type 2",1
+Centrico,"Guillain–Barré syndrome",1
+Centrico,"Metabolic syndrome",1
+Centrico,"Panic disorder",1
+Centrico,Psoriasis,1
+Centrico,"Rheumatoid arthritis",1
+Centrico,Schizophrenia,1
+Centrico,"Tourette syndrome",1
+Centrico,"Amyotrophic lateral sclerosis",1
+"Cherry Street Pharmacy",Total,11
+"Cherry Street Pharmacy","Amyotrophic lateral sclerosis",2
+"Cherry Street Pharmacy",Asthma,1
+"Cherry Street Pharmacy",Autism,1
+"Cherry Street Pharmacy","Diabetes mellitus type 2",1
+"Cherry Street Pharmacy","Low back pain",1
+"Cherry Street Pharmacy",Obesity,1
+"Cherry Street Pharmacy","Parkinson's disease",1
+"Cherry Street Pharmacy",Psoriasis,1
+"Cherry Street Pharmacy",Schizophrenia,1
+"Cherry Street Pharmacy","Tourette syndrome",1
+"City Drug",Total,15
+"City Drug",Autism,3
+"City Drug","Anxiety disorder",1
+"City Drug",Atherosclerosis,1
+"City Drug","Autoimmune diseases",1
+"City Drug","Bipolar disorder",1
+"City Drug",Cancer,1
+"City Drug","Coronary heart disease",1
+"City Drug",Dementia,1
+"City Drug","Guillain–Barré syndrome",1
+"City Drug","Myocardial infarction",1
+"City Drug","Obsessive–compulsive disorder",1
+"City Drug",Psoriasis,1
+"City Drug","Anorexia nervosa",1
+"Community Pharmacy",Total,15
+"Community Pharmacy","Tourette syndrome",2
+"Community Pharmacy",Vasculitis,2
+"Community Pharmacy","Amyotrophic lateral sclerosis",1
+"Community Pharmacy","Anxiety disorder",1
+"Community Pharmacy","Bipolar disorder",1
+"Community Pharmacy",Depression,1
+"Community Pharmacy","Diabetes mellitus type 1",1
+"Community Pharmacy","Diabetes mellitus type 2",1
+"Community Pharmacy",Lupus,1
+"Community Pharmacy",Obesity,1
+"Community Pharmacy","Obsessive–compulsive disorder",1
+"Community Pharmacy",Sarcoidosis,1
+"Community Pharmacy",Stroke,1
+"Compass Health Care",Total,16
+"Compass Health Care","Chronic obstructive pulmonary disease",2
+"Compass Health Care","Metabolic syndrome",2
+"Compass Health Care",Dementia,1
+"Compass Health Care","Diabetes mellitus type 1",1
+"Compass Health Care","Diabetes mellitus type 2",1
+"Compass Health Care","Guillain–Barré syndrome",1
+"Compass Health Care","Irritable bowel syndrome",1
+"Compass Health Care",Lupus,1
+"Compass Health Care",Autism,1
+"Compass Health Care","Myocardial infarction",1
+"Compass Health Care",Psoriasis,1
+"Compass Health Care",Sarcoidosis,1
+"Compass Health Care",Schizophrenia,1
+"Compass Health Care","Coronary heart disease",1
+"Concord Pharmacy",Total,24
+"Concord Pharmacy","Diabetes mellitus type 1",3
+"Concord Pharmacy","Crohn's disease",2
+"Concord Pharmacy","Multiple sclerosis",2
+"Concord Pharmacy","Alzheimer's disease",1
+"Concord Pharmacy","Anorexia nervosa",1
+"Concord Pharmacy",Asthma,1
+"Concord Pharmacy","Autoimmune diseases",1
+"Concord Pharmacy",Depression,1
+"Concord Pharmacy","Coronary heart disease",1
+"Concord Pharmacy","Dilated cardiomyopathy",1
+"Concord Pharmacy","Irritable bowel syndrome",1
+"Concord Pharmacy","Low back pain",1
+"Concord Pharmacy",Dementia,1
+"Concord Pharmacy","Myocardial infarction",1
+"Concord Pharmacy","Obsessive–compulsive disorder",1
+"Concord Pharmacy",Sarcoidosis,1
+"Concord Pharmacy",Schizophrenia,1
+"Concord Pharmacy",Stroke,1
+"Concord Pharmacy","Tourette syndrome",1
+"Concord Pharmacy","Chronic obstructive pulmonary disease",1
+"Confidential Drug",Total,15
+"Confidential Drug","Diabetes mellitus type 2",2
+"Confidential Drug",Obesity,2
+"Confidential Drug","Chronic obstructive pulmonary disease",1
+"Confidential Drug","Crohn's disease",1
+"Confidential Drug","Amyotrophic lateral sclerosis",1
+"Confidential Drug","Irritable bowel syndrome",1
+"Confidential Drug","Low back pain",1
+"Confidential Drug","Metabolic syndrome",1
+"Confidential Drug","Bipolar disorder",1
+"Confidential Drug","Parkinson's disease",1
+"Confidential Drug","Rheumatoid arthritis",1
+"Confidential Drug",Schizophrenia,1
+"Confidential Drug",Cancer,1
+"Covenant Pharmacy",Total,19
+"Covenant Pharmacy","Amyotrophic lateral sclerosis",2
+"Covenant Pharmacy",Lupus,2
+"Covenant Pharmacy","Panic disorder",2
+"Covenant Pharmacy",Sarcoidosis,2
+"Covenant Pharmacy","Anxiety disorder",1
+"Covenant Pharmacy",Atherosclerosis,1
+"Covenant Pharmacy","Attention deficit hyperactivity disorder",1
+"Covenant Pharmacy",Autism,1
+"Covenant Pharmacy","Bipolar disorder",1
+"Covenant Pharmacy","Crohn's disease",1
+"Covenant Pharmacy",Depression,1
+"Covenant Pharmacy","Diabetes mellitus type 1",1
+"Covenant Pharmacy","Irritable bowel syndrome",1
+"Covenant Pharmacy","Myocardial infarction",1
+"Covenant Pharmacy","Tourette syndrome",1
+Crossroads,Total,8
+Crossroads,Atherosclerosis,1
+Crossroads,"Autoimmune diseases",1
+Crossroads,"Crohn's disease",1
+Crossroads,"Diabetes mellitus type 1",1
+Crossroads,"Irritable bowel syndrome",1
+Crossroads,Lupus,1
+Crossroads,Obesity,1
+Crossroads,"Panic disorder",1
+"Customceutical Compounding",Total,16
+"Customceutical Compounding","Crohn's disease",2
+"Customceutical Compounding","Tourette syndrome",2
+"Customceutical Compounding","Bipolar disorder",1
+"Customceutical Compounding",Dementia,1
+"Customceutical Compounding","Diabetes mellitus type 1",1
+"Customceutical Compounding","Guillain–Barré syndrome",1
+"Customceutical Compounding","Low back pain",1
+"Customceutical Compounding","Metabolic syndrome",1
+"Customceutical Compounding",Obesity,1
+"Customceutical Compounding","Obsessive–compulsive disorder",1
+"Customceutical Compounding","Rheumatoid arthritis",1
+"Customceutical Compounding","Thromboangiitis obliterans",1
+"Customceutical Compounding","Anxiety disorder",1
+"Customceutical Compounding",Autism,1
+"Dakota Drug",Total,19
+"Dakota Drug","Anxiety disorder",3
+"Dakota Drug","Alzheimer's disease",2
+"Dakota Drug",Atherosclerosis,2
+"Dakota Drug","Anorexia nervosa",1
+"Dakota Drug",Asthma,1
+"Dakota Drug",Autism,1
+"Dakota Drug",Dementia,1
+"Dakota Drug",Depression,1
+"Dakota Drug","Diabetes mellitus type 2",1
+"Dakota Drug",Epilepsy,1
+"Dakota Drug","Metabolic syndrome",1
+"Dakota Drug",Psoriasis,1
+"Dakota Drug","Rheumatoid arthritis",1
+"Dakota Drug","Tourette syndrome",1
+"Dakota Drug",Vasculitis,1
+"DFW Wellness",Total,13
+"DFW Wellness","Crohn's disease",2
+"DFW Wellness",Stroke,2
+"DFW Wellness",Vasculitis,2
+"DFW Wellness","Alzheimer's disease",1
+"DFW Wellness",Obesity,1
+"DFW Wellness","Panic disorder",1
+"DFW Wellness",Sarcoidosis,1
+"DFW Wellness","Autoimmune diseases",1
+"DFW Wellness",Cancer,1
+"DFW Wellness","Chronic fatigue syndrome",1
+"Discount Drug Mart",Total,16
+"Discount Drug Mart","Guillain–Barré syndrome",2
+"Discount Drug Mart",Lupus,2
+"Discount Drug Mart","Thromboangiitis obliterans",2
+"Discount Drug Mart",Asthma,1
+"Discount Drug Mart","Attention deficit hyperactivity disorder",1
+"Discount Drug Mart",Epilepsy,1
+"Discount Drug Mart","Irritable bowel syndrome",1
+"Discount Drug Mart","Low back pain",1
+"Discount Drug Mart","Myocardial infarction",1
+"Discount Drug Mart",Obesity,1
+"Discount Drug Mart",Psoriasis,1
+"Discount Drug Mart","Rheumatoid arthritis",1
+"Discount Drug Mart","Tourette syndrome",1
+"Discount Drugs",Total,19
+"Discount Drugs",Asthma,3
+"Discount Drugs",Atherosclerosis,2
+"Discount Drugs","Crohn's disease",2
+"Discount Drugs","Myocardial infarction",2
+"Discount Drugs","Tourette syndrome",2
+"Discount Drugs","Amyotrophic lateral sclerosis",1
+"Discount Drugs","Anxiety disorder",1
+"Discount Drugs","Autoimmune diseases",1
+"Discount Drugs","Chronic obstructive pulmonary disease",1
+"Discount Drugs",Dementia,1
+"Discount Drugs",Epilepsy,1
+"Discount Drugs","Metabolic syndrome",1
+"Discount Drugs","Obsessive–compulsive disorder",1
+"Doc Your Dose Pharmacy",Total,21
+"Doc Your Dose Pharmacy",Atherosclerosis,3
+"Doc Your Dose Pharmacy","Anxiety disorder",1
+"Doc Your Dose Pharmacy","Bipolar disorder",1
+"Doc Your Dose Pharmacy","Coronary heart disease",1
+"Doc Your Dose Pharmacy","Crohn's disease",1
+"Doc Your Dose Pharmacy","Diabetes mellitus type 2",1
+"Doc Your Dose Pharmacy","Guillain–Barré syndrome",1
+"Doc Your Dose Pharmacy","Irritable bowel syndrome",1
+"Doc Your Dose Pharmacy",Lupus,1
+"Doc Your Dose Pharmacy","Metabolic syndrome",1
+"Doc Your Dose Pharmacy","Myocardial infarction",1
+"Doc Your Dose Pharmacy","Obsessive–compulsive disorder",1
+"Doc Your Dose Pharmacy","Panic disorder",1
+"Doc Your Dose Pharmacy","Parkinson's disease",1
+"Doc Your Dose Pharmacy",Psoriasis,1
+"Doc Your Dose Pharmacy","Rheumatoid arthritis",1
+"Doc Your Dose Pharmacy",Stroke,1
+"Doc Your Dose Pharmacy","Thromboangiitis obliterans",1
+"Doc Your Dose Pharmacy","Alzheimer's disease",1
+"Drug Blend",Total,19
+"Drug Blend",Sarcoidosis,2
+"Drug Blend",Depression,2
+"Drug Blend","Guillain–Barré syndrome",2
+"Drug Blend","Myocardial infarction",2
+"Drug Blend","Alzheimer's disease",1
+"Drug Blend","Amyotrophic lateral sclerosis",1
+"Drug Blend","Chronic obstructive pulmonary disease",1
+"Drug Blend","Dilated cardiomyopathy",1
+"Drug Blend","Metabolic syndrome",1
+"Drug Blend","Panic disorder",1
+"Drug Blend",Psoriasis,1
+"Drug Blend",Dementia,1
+"Drug Blend",Stroke,1
+"Drug Blend","Tourette syndrome",1
+"Drug Blend",Vasculitis,1
+"Dutchtown Pharmacy",Total,17
+"Dutchtown Pharmacy","Crohn's disease",2
+"Dutchtown Pharmacy",Obesity,2
+"Dutchtown Pharmacy",Stroke,2
+"Dutchtown Pharmacy","Alzheimer's disease",1
+"Dutchtown Pharmacy","Diabetes mellitus type 2",1
+"Dutchtown Pharmacy","Low back pain",1
+"Dutchtown Pharmacy",Asthma,1
+"Dutchtown Pharmacy","Panic disorder",1
+"Dutchtown Pharmacy",Psoriasis,1
+"Dutchtown Pharmacy",Sarcoidosis,1
+"Dutchtown Pharmacy","Autoimmune diseases",1
+"Dutchtown Pharmacy","Tourette syndrome",1
+"Dutchtown Pharmacy",Vasculitis,1
+"Dutchtown Pharmacy",Cancer,1
+"Eastlake Pharmacy",Total,19
+"Eastlake Pharmacy","Alzheimer's disease",2
+"Eastlake Pharmacy","Rheumatoid arthritis",2
+"Eastlake Pharmacy",Schizophrenia,2
+"Eastlake Pharmacy",Vasculitis,2
+"Eastlake Pharmacy","Anorexia nervosa",1
+"Eastlake Pharmacy",Atherosclerosis,1
+"Eastlake Pharmacy",Cancer,1
+"Eastlake Pharmacy","Chronic fatigue syndrome",1
+"Eastlake Pharmacy","Crohn's disease",1
+"Eastlake Pharmacy",Dementia,1
+"Eastlake Pharmacy","Diabetes mellitus type 2",1
+"Eastlake Pharmacy",Epilepsy,1
+"Eastlake Pharmacy","Metabolic syndrome",1
+"Eastlake Pharmacy","Parkinson's disease",1
+"Eastlake Pharmacy",Sarcoidosis,1
+"Eastside Pharmacy and Compounding",Total,20
+"Eastside Pharmacy and Compounding","Tourette syndrome",2
+"Eastside Pharmacy and Compounding","Coronary heart disease",2
+"Eastside Pharmacy and Compounding",Sarcoidosis,2
+"Eastside Pharmacy and Compounding","Anorexia nervosa",1
+"Eastside Pharmacy and Compounding","Anxiety disorder",1
+"Eastside Pharmacy and Compounding",Cancer,1
+"Eastside Pharmacy and Compounding","Chronic obstructive pulmonary disease",1
+"Eastside Pharmacy and Compounding",Dementia,1
+"Eastside Pharmacy and Compounding",Depression,1
+"Eastside Pharmacy and Compounding","Attention deficit hyperactivity disorder",1
+"Eastside Pharmacy and Compounding","Dilated cardiomyopathy",1
+"Eastside Pharmacy and Compounding","Low back pain",1
+"Eastside Pharmacy and Compounding","Rheumatoid arthritis",1
+"Eastside Pharmacy and Compounding","Alzheimer's disease",1
+"Eastside Pharmacy and Compounding",Schizophrenia,1
+"Eastside Pharmacy and Compounding","Diabetes mellitus type 2",1
+"Eastside Pharmacy and Compounding","Amyotrophic lateral sclerosis",1
+"Envolve Health",Total,14
+"Envolve Health","Amyotrophic lateral sclerosis",2
+"Envolve Health",Vasculitis,2
+"Envolve Health","Attention deficit hyperactivity disorder",1
+"Envolve Health","Autoimmune diseases",1
+"Envolve Health",Cancer,1
+"Envolve Health","Crohn's disease",1
+"Envolve Health",Depression,1
+"Envolve Health","Irritable bowel syndrome",1
+"Envolve Health","Metabolic syndrome",1
+"Envolve Health","Panic disorder",1
+"Envolve Health","Thromboangiitis obliterans",1
+"Envolve Health","Diabetes mellitus type 1",1
+"Essential Pharmacy",Total,21
+"Essential Pharmacy","Irritable bowel syndrome",3
+"Essential Pharmacy","Amyotrophic lateral sclerosis",2
+"Essential Pharmacy","Metabolic syndrome",2
+"Essential Pharmacy",Atherosclerosis,2
+"Essential Pharmacy",Autism,2
+"Essential Pharmacy","Anxiety disorder",1
+"Essential Pharmacy","Chronic obstructive pulmonary disease",1
+"Essential Pharmacy","Coronary heart disease",1
+"Essential Pharmacy",Depression,1
+"Essential Pharmacy","Diabetes mellitus type 1",1
+"Essential Pharmacy","Low back pain",1
+"Essential Pharmacy","Multiple sclerosis",1
+"Essential Pharmacy","Obsessive–compulsive disorder",1
+"Essential Pharmacy",Schizophrenia,1
+"Essential Pharmacy","Alzheimer's disease",1
+"Essura Pharmacy",Total,13
+"Essura Pharmacy","Anorexia nervosa",3
+"Essura Pharmacy","Autoimmune diseases",2
+"Essura Pharmacy",Asthma,1
+"Essura Pharmacy",Autism,1
+"Essura Pharmacy",Depression,1
+"Essura Pharmacy","Diabetes mellitus type 2",1
+"Essura Pharmacy","Guillain–Barré syndrome",1
+"Essura Pharmacy","Obsessive–compulsive disorder",1
+"Essura Pharmacy","Parkinson's disease",1
+"Essura Pharmacy",Vasculitis,1
+"Everyday Drugs",Total,22
+"Everyday Drugs","Chronic fatigue syndrome",3
+"Everyday Drugs",Asthma,2
+"Everyday Drugs","Alzheimer's disease",1
+"Everyday Drugs","Anxiety disorder",1
+"Everyday Drugs",Atherosclerosis,1
+"Everyday Drugs","Attention deficit hyperactivity disorder",1
+"Everyday Drugs","Coronary heart disease",1
+"Everyday Drugs","Crohn's disease",1
+"Everyday Drugs",Dementia,1
+"Everyday Drugs","Diabetes mellitus type 1",1
+"Everyday Drugs","Low back pain",1
+"Everyday Drugs",Lupus,1
+"Everyday Drugs","Multiple sclerosis",1
+"Everyday Drugs","Myocardial infarction",1
+"Everyday Drugs",Obesity,1
+"Everyday Drugs",Psoriasis,1
+"Everyday Drugs","Rheumatoid arthritis",1
+"Everyday Drugs",Schizophrenia,1
+"Everyday Drugs",Stroke,1
+"Express Food & Pharmacy",Total,11
+"Express Food & Pharmacy","Anxiety disorder",1
+"Express Food & Pharmacy","Bipolar disorder",1
+"Express Food & Pharmacy","Chronic obstructive pulmonary disease",1
+"Express Food & Pharmacy","Crohn's disease",1
+"Express Food & Pharmacy","Low back pain",1
+"Express Food & Pharmacy",Obesity,1
+"Express Food & Pharmacy","Obsessive–compulsive disorder",1
+"Express Food & Pharmacy",Psoriasis,1
+"Express Food & Pharmacy","Thromboangiitis obliterans",1
+"Express Food & Pharmacy",Vasculitis,1
+"Express Food & Pharmacy","Alzheimer's disease",1
+"Express Scripts",Total,23
+"Express Scripts",Autism,3
+"Express Scripts","Chronic fatigue syndrome",2
+"Express Scripts","Metabolic syndrome",2
+"Express Scripts","Myocardial infarction",2
+"Express Scripts","Amyotrophic lateral sclerosis",1
+"Express Scripts","Anxiety disorder",1
+"Express Scripts",Atherosclerosis,1
+"Express Scripts","Attention deficit hyperactivity disorder",1
+"Express Scripts","Chronic obstructive pulmonary disease",1
+"Express Scripts","Diabetes mellitus type 2",1
+"Express Scripts","Dilated cardiomyopathy",1
+"Express Scripts",Epilepsy,1
+"Express Scripts",Obesity,1
+"Express Scripts","Panic disorder",1
+"Express Scripts",Schizophrenia,1
+"Express Scripts","Thromboangiitis obliterans",1
+"Express Scripts","Tourette syndrome",1
+"Express Scripts",Vasculitis,1
+"Family Drug Mart",Total,18
+"Family Drug Mart","Autoimmune diseases",2
+"Family Drug Mart","Anorexia nervosa",2
+"Family Drug Mart",Cancer,1
+"Family Drug Mart","Chronic obstructive pulmonary disease",1
+"Family Drug Mart","Diabetes mellitus type 1",1
+"Family Drug Mart","Diabetes mellitus type 2",1
+"Family Drug Mart","Dilated cardiomyopathy",1
+"Family Drug Mart",Epilepsy,1
+"Family Drug Mart","Irritable bowel syndrome",1
+"Family Drug Mart","Low back pain",1
+"Family Drug Mart","Multiple sclerosis",1
+"Family Drug Mart",Obesity,1
+"Family Drug Mart","Obsessive–compulsive disorder",1
+"Family Drug Mart","Panic disorder",1
+"Family Drug Mart","Rheumatoid arthritis",1
+"Family Drug Mart","Alzheimer's disease",1
+"Family Fare",Total,18
+"Family Fare","Parkinson's disease",2
+"Family Fare","Rheumatoid arthritis",2
+"Family Fare",Autism,1
+"Family Fare","Bipolar disorder",1
+"Family Fare",Cancer,1
+"Family Fare","Chronic fatigue syndrome",1
+"Family Fare","Chronic obstructive pulmonary disease",1
+"Family Fare","Attention deficit hyperactivity disorder",1
+"Family Fare",Dementia,1
+"Family Fare","Diabetes mellitus type 1",1
+"Family Fare",Lupus,1
+"Family Fare","Metabolic syndrome",1
+"Family Fare","Multiple sclerosis",1
+"Family Fare","Crohn's disease",1
+"Family Fare",Stroke,1
+"Family Fare","Thromboangiitis obliterans",1
+"First Care Rx",Total,12
+"First Care Rx","Panic disorder",3
+"First Care Rx","Chronic obstructive pulmonary disease",2
+"First Care Rx","Anorexia nervosa",1
+"First Care Rx","Autoimmune diseases",1
+"First Care Rx",Cancer,1
+"First Care Rx","Coronary heart disease",1
+"First Care Rx","Diabetes mellitus type 1",1
+"First Care Rx","Irritable bowel syndrome",1
+"First Care Rx","Tourette syndrome",1
+"First Hill Pharmacy",Total,19
+"First Hill Pharmacy","Diabetes mellitus type 2",2
+"First Hill Pharmacy","Parkinson's disease",2
+"First Hill Pharmacy","Rheumatoid arthritis",2
+"First Hill Pharmacy","Thromboangiitis obliterans",2
+"First Hill Pharmacy","Coronary heart disease",1
+"First Hill Pharmacy",Depression,1
+"First Hill Pharmacy","Diabetes mellitus type 1",1
+"First Hill Pharmacy","Anorexia nervosa",1
+"First Hill Pharmacy","Dilated cardiomyopathy",1
+"First Hill Pharmacy",Epilepsy,1
+"First Hill Pharmacy","Myocardial infarction",1
+"First Hill Pharmacy","Anxiety disorder",1
+"First Hill Pharmacy","Autoimmune diseases",1
+"First Hill Pharmacy","Bipolar disorder",1
+"First Hill Pharmacy",Cancer,1
+"First Pharmacy",Total,13
+"First Pharmacy",Epilepsy,3
+"First Pharmacy","Crohn's disease",2
+"First Pharmacy",Sarcoidosis,2
+"First Pharmacy",Schizophrenia,2
+"First Pharmacy",Atherosclerosis,1
+"First Pharmacy","Attention deficit hyperactivity disorder",1
+"First Pharmacy","Coronary heart disease",1
+"First Pharmacy",Dementia,1
+"Fisher Pharmacy & Gifts",Total,15
+"Fisher Pharmacy & Gifts","Multiple sclerosis",2
+"Fisher Pharmacy & Gifts",Vasculitis,2
+"Fisher Pharmacy & Gifts","Crohn's disease",1
+"Fisher Pharmacy & Gifts","Dilated cardiomyopathy",1
+"Fisher Pharmacy & Gifts","Irritable bowel syndrome",1
+"Fisher Pharmacy & Gifts","Low back pain",1
+"Fisher Pharmacy & Gifts","Anxiety disorder",1
+"Fisher Pharmacy & Gifts",Obesity,1
+"Fisher Pharmacy & Gifts","Panic disorder",1
+"Fisher Pharmacy & Gifts","Parkinson's disease",1
+"Fisher Pharmacy & Gifts",Schizophrenia,1
+"Fisher Pharmacy & Gifts",Atherosclerosis,1
+"Fisher Pharmacy & Gifts","Coronary heart disease",1
+"Foundation Care",Total,16
+"Foundation Care","Myocardial infarction",3
+"Foundation Care","Alzheimer's disease",1
+"Foundation Care","Amyotrophic lateral sclerosis",1
+"Foundation Care","Attention deficit hyperactivity disorder",1
+"Foundation Care","Bipolar disorder",1
+"Foundation Care","Chronic fatigue syndrome",1
+"Foundation Care","Coronary heart disease",1
+"Foundation Care","Crohn's disease",1
+"Foundation Care",Epilepsy,1
+"Foundation Care","Low back pain",1
+"Foundation Care","Metabolic syndrome",1
+"Foundation Care","Panic disorder",1
+"Foundation Care",Sarcoidosis,1
+"Foundation Care",Stroke,1
+"Friends & Family Pharmacy",Total,14
+"Friends & Family Pharmacy","Amyotrophic lateral sclerosis",2
+"Friends & Family Pharmacy","Thromboangiitis obliterans",2
+"Friends & Family Pharmacy",Asthma,1
+"Friends & Family Pharmacy","Attention deficit hyperactivity disorder",1
+"Friends & Family Pharmacy","Bipolar disorder",1
+"Friends & Family Pharmacy","Chronic obstructive pulmonary disease",1
+"Friends & Family Pharmacy","Metabolic syndrome",1
+"Friends & Family Pharmacy","Obsessive–compulsive disorder",1
+"Friends & Family Pharmacy","Rheumatoid arthritis",1
+"Friends & Family Pharmacy",Stroke,1
+"Friends & Family Pharmacy","Chronic fatigue syndrome",1
+"Friends & Family Pharmacy","Anorexia nervosa",1
+"Frost Medical Pharmacy",Total,23
+"Frost Medical Pharmacy","Alzheimer's disease",3
+"Frost Medical Pharmacy","Panic disorder",2
+"Frost Medical Pharmacy","Amyotrophic lateral sclerosis",1
+"Frost Medical Pharmacy","Anorexia nervosa",1
+"Frost Medical Pharmacy",Atherosclerosis,1
+"Frost Medical Pharmacy","Attention deficit hyperactivity disorder",1
+"Frost Medical Pharmacy",Autism,1
+"Frost Medical Pharmacy","Chronic fatigue syndrome",1
+"Frost Medical Pharmacy","Coronary heart disease",1
+"Frost Medical Pharmacy",Dementia,1
+"Frost Medical Pharmacy","Diabetes mellitus type 1",1
+"Frost Medical Pharmacy","Diabetes mellitus type 2",1
+"Frost Medical Pharmacy","Guillain–Barré syndrome",1
+"Frost Medical Pharmacy",Lupus,1
+"Frost Medical Pharmacy","Metabolic syndrome",1
+"Frost Medical Pharmacy","Myocardial infarction",1
+"Frost Medical Pharmacy","Parkinson's disease",1
+"Frost Medical Pharmacy",Psoriasis,1
+"Frost Medical Pharmacy","Rheumatoid arthritis",1
+"Frost Medical Pharmacy","Tourette syndrome",1
+"Fry’s Pharmacy",Total,22
+"Fry’s Pharmacy",Vasculitis,4
+"Fry’s Pharmacy","Chronic fatigue syndrome",2
+"Fry’s Pharmacy","Irritable bowel syndrome",2
+"Fry’s Pharmacy",Depression,1
+"Fry’s Pharmacy","Diabetes mellitus type 2",1
+"Fry’s Pharmacy","Dilated cardiomyopathy",1
+"Fry’s Pharmacy","Guillain–Barré syndrome",1
+"Fry’s Pharmacy","Low back pain",1
+"Fry’s Pharmacy",Lupus,1
+"Fry’s Pharmacy","Metabolic syndrome",1
+"Fry’s Pharmacy","Myocardial infarction",1
+"Fry’s Pharmacy","Parkinson's disease",1
+"Fry’s Pharmacy",Psoriasis,1
+"Fry’s Pharmacy",Sarcoidosis,1
+"Fry’s Pharmacy",Stroke,1
+"Fry’s Pharmacy","Autoimmune diseases",1
+"Fry’s Pharmacy",Cancer,1
+"Gateway Medical",Total,15
+"Gateway Medical","Metabolic syndrome",2
+"Gateway Medical","Bipolar disorder",2
+"Gateway Medical","Diabetes mellitus type 1",2
+"Gateway Medical","Autoimmune diseases",1
+"Gateway Medical","Coronary heart disease",1
+"Gateway Medical","Crohn's disease",1
+"Gateway Medical",Epilepsy,1
+"Gateway Medical",Autism,1
+"Gateway Medical","Multiple sclerosis",1
+"Gateway Medical","Obsessive–compulsive disorder",1
+"Gateway Medical",Sarcoidosis,1
+"Gateway Medical","Tourette syndrome",1
+"Gem Drugs",Total,28
+"Gem Drugs","Alzheimer's disease",2
+"Gem Drugs","Crohn's disease",2
+"Gem Drugs","Anxiety disorder",1
+"Gem Drugs",Asthma,1
+"Gem Drugs","Attention deficit hyperactivity disorder",1
+"Gem Drugs",Autism,1
+"Gem Drugs","Chronic obstructive pulmonary disease",1
+"Gem Drugs","Coronary heart disease",1
+"Gem Drugs","Diabetes mellitus type 1",1
+"Gem Drugs","Diabetes mellitus type 2",1
+"Gem Drugs","Low back pain",1
+"Gem Drugs","Metabolic syndrome",1
+"Gem Drugs","Multiple sclerosis",1
+"Gem Drugs","Myocardial infarction",1
+"Gem Drugs",Obesity,1
+"Gem Drugs","Obsessive–compulsive disorder",1
+"Gem Drugs","Panic disorder",1
+"Gem Drugs","Parkinson's disease",1
+"Gem Drugs",Psoriasis,1
+"Gem Drugs","Rheumatoid arthritis",1
+"Gem Drugs",Sarcoidosis,1
+"Gem Drugs",Schizophrenia,1
+"Gem Drugs",Stroke,1
+"Gem Drugs","Thromboangiitis obliterans",1
+"Gem Drugs","Tourette syndrome",1
+"Gem Drugs","Anorexia nervosa",1
+"Geneva Woods",Total,19
+"Geneva Woods","Bipolar disorder",2
+"Geneva Woods","Diabetes mellitus type 1",2
+"Geneva Woods",Epilepsy,2
+"Geneva Woods","Multiple sclerosis",2
+"Geneva Woods","Autoimmune diseases",1
+"Geneva Woods","Chronic fatigue syndrome",1
+"Geneva Woods","Guillain–Barré syndrome",1
+"Geneva Woods","Low back pain",1
+"Geneva Woods","Metabolic syndrome",1
+"Geneva Woods","Obsessive–compulsive disorder",1
+"Geneva Woods","Panic disorder",1
+"Geneva Woods",Psoriasis,1
+"Geneva Woods",Schizophrenia,1
+"Geneva Woods","Thromboangiitis obliterans",1
+"Geneva Woods",Vasculitis,1
+GenScripts,Total,19
+GenScripts,"Anorexia nervosa",2
+GenScripts,"Bipolar disorder",2
+GenScripts,"Guillain–Barré syndrome",2
+GenScripts,Stroke,2
+GenScripts,"Crohn's disease",1
+GenScripts,"Diabetes mellitus type 1",1
+GenScripts,Lupus,1
+GenScripts,"Metabolic syndrome",1
+GenScripts,Obesity,1
+GenScripts,"Panic disorder",1
+GenScripts,"Rheumatoid arthritis",1
+GenScripts,Schizophrenia,1
+GenScripts,Atherosclerosis,1
+GenScripts,"Thromboangiitis obliterans",1
+GenScripts,"Autoimmune diseases",1
+"Globe Pharmacy",Total,14
+"Globe Pharmacy","Diabetes mellitus type 2",2
+"Globe Pharmacy",Sarcoidosis,2
+"Globe Pharmacy","Anxiety disorder",1
+"Globe Pharmacy","Attention deficit hyperactivity disorder",1
+"Globe Pharmacy",Cancer,1
+"Globe Pharmacy","Chronic obstructive pulmonary disease",1
+"Globe Pharmacy","Crohn's disease",1
+"Globe Pharmacy","Diabetes mellitus type 1",1
+"Globe Pharmacy","Amyotrophic lateral sclerosis",1
+"Globe Pharmacy","Myocardial infarction",1
+"Globe Pharmacy","Obsessive–compulsive disorder",1
+"Globe Pharmacy",Psoriasis,1
+"GoGo Meds",Total,12
+"GoGo Meds","Dilated cardiomyopathy",2
+"GoGo Meds","Amyotrophic lateral sclerosis",1
+"GoGo Meds","Diabetes mellitus type 2",1
+"GoGo Meds","Guillain–Barré syndrome",1
+"GoGo Meds","Low back pain",1
+"GoGo Meds","Multiple sclerosis",1
+"GoGo Meds",Obesity,1
+"GoGo Meds","Obsessive–compulsive disorder",1
+"GoGo Meds","Panic disorder",1
+"GoGo Meds",Sarcoidosis,1
+"GoGo Meds","Tourette syndrome",1
+"Good Life Rx",Total,14
+"Good Life Rx","Diabetes mellitus type 1",2
+"Good Life Rx","Attention deficit hyperactivity disorder",1
+"Good Life Rx","Autoimmune diseases",1
+"Good Life Rx","Chronic obstructive pulmonary disease",1
+"Good Life Rx",Dementia,1
+"Good Life Rx","Alzheimer's disease",1
+"Good Life Rx","Low back pain",1
+"Good Life Rx","Obsessive–compulsive disorder",1
+"Good Life Rx","Panic disorder",1
+"Good Life Rx","Parkinson's disease",1
+"Good Life Rx",Psoriasis,1
+"Good Life Rx",Sarcoidosis,1
+"Good Life Rx","Anorexia nervosa",1
+"Good Neighbor Pharmacy",Total,19
+"Good Neighbor Pharmacy","Low back pain",3
+"Good Neighbor Pharmacy","Anorexia nervosa",2
+"Good Neighbor Pharmacy","Rheumatoid arthritis",2
+"Good Neighbor Pharmacy","Metabolic syndrome",2
+"Good Neighbor Pharmacy","Attention deficit hyperactivity disorder",1
+"Good Neighbor Pharmacy",Cancer,1
+"Good Neighbor Pharmacy","Coronary heart disease",1
+"Good Neighbor Pharmacy","Diabetes mellitus type 1",1
+"Good Neighbor Pharmacy","Diabetes mellitus type 2",1
+"Good Neighbor Pharmacy","Multiple sclerosis",1
+"Good Neighbor Pharmacy",Psoriasis,1
+"Good Neighbor Pharmacy",Depression,1
+"Good Neighbor Pharmacy",Sarcoidosis,1
+"Good Neighbor Pharmacy","Tourette syndrome",1
+"Good RX",Total,39
+"Good RX",Sarcoidosis,3
+"Good RX",Cancer,3
+"Good RX","Dilated cardiomyopathy",3
+"Good RX","Amyotrophic lateral sclerosis",2
+"Good RX",Lupus,2
+"Good RX",Stroke,2
+"Good RX","Autoimmune diseases",2
+"Good RX","Bipolar disorder",2
+"Good RX","Chronic fatigue syndrome",2
+"Good RX","Chronic obstructive pulmonary disease",2
+"Good RX",Dementia,2
+"Good RX","Anxiety disorder",1
+"Good RX",Asthma,1
+"Good RX","Diabetes mellitus type 2",1
+"Good RX","Crohn's disease",1
+"Good RX","Guillain–Barré syndrome",1
+"Good RX","Low back pain",1
+"Good RX",Depression,1
+"Good RX","Obsessive–compulsive disorder",1
+"Good RX","Parkinson's disease",1
+"Good RX","Rheumatoid arthritis",1
+"Good RX","Attention deficit hyperactivity disorder",1
+"Good RX",Schizophrenia,1
+"Good RX","Diabetes mellitus type 1",1
+"Good RX",Atherosclerosis,1
+Goodness,Total,23
+Goodness,Cancer,2
+Goodness,"Dilated cardiomyopathy",2
+Goodness,"Irritable bowel syndrome",2
+Goodness,"Low back pain",2
+Goodness,Obesity,2
+Goodness,"Tourette syndrome",2
+Goodness,"Anorexia nervosa",1
+Goodness,"Coronary heart disease",1
+Goodness,"Metabolic syndrome",1
+Goodness,"Myocardial infarction",1
+Goodness,"Crohn's disease",1
+Goodness,"Obsessive–compulsive disorder",1
+Goodness,"Rheumatoid arthritis",1
+Goodness,Stroke,1
+Goodness,"Diabetes mellitus type 2",1
+Goodness,Vasculitis,1
+Goodness,"Amyotrophic lateral sclerosis",1
+Goodstart,Total,16
+Goodstart,Atherosclerosis,2
+Goodstart,Dementia,2
+Goodstart,"Crohn's disease",1
+Goodstart,"Anorexia nervosa",1
+Goodstart,"Dilated cardiomyopathy",1
+Goodstart,Lupus,1
+Goodstart,"Parkinson's disease",1
+Goodstart,Psoriasis,1
+Goodstart,"Rheumatoid arthritis",1
+Goodstart,Schizophrenia,1
+Goodstart,"Thromboangiitis obliterans",1
+Goodstart,"Tourette syndrome",1
+Goodstart,Vasculitis,1
+Goodstart,"Coronary heart disease",1
+"Grand Medicine",Total,16
+"Grand Medicine",Obesity,2
+"Grand Medicine","Thromboangiitis obliterans",2
+"Grand Medicine","Alzheimer's disease",1
+"Grand Medicine","Anxiety disorder",1
+"Grand Medicine",Dementia,1
+"Grand Medicine","Diabetes mellitus type 1",1
+"Grand Medicine","Diabetes mellitus type 2",1
+"Grand Medicine","Dilated cardiomyopathy",1
+"Grand Medicine",Epilepsy,1
+"Grand Medicine","Irritable bowel syndrome",1
+"Grand Medicine","Low back pain",1
+"Grand Medicine",Lupus,1
+"Grand Medicine","Metabolic syndrome",1
+"Grand Medicine","Myocardial infarction",1
+"Greensburg Family Pharmacy",Total,15
+"Greensburg Family Pharmacy",Atherosclerosis,2
+"Greensburg Family Pharmacy","Attention deficit hyperactivity disorder",2
+"Greensburg Family Pharmacy",Asthma,1
+"Greensburg Family Pharmacy","Autoimmune diseases",1
+"Greensburg Family Pharmacy",Dementia,1
+"Greensburg Family Pharmacy","Diabetes mellitus type 2",1
+"Greensburg Family Pharmacy","Dilated cardiomyopathy",1
+"Greensburg Family Pharmacy","Low back pain",1
+"Greensburg Family Pharmacy",Obesity,1
+"Greensburg Family Pharmacy","Obsessive–compulsive disorder",1
+"Greensburg Family Pharmacy","Parkinson's disease",1
+"Greensburg Family Pharmacy",Sarcoidosis,1
+"Greensburg Family Pharmacy","Alzheimer's disease",1
+"Guardian Pharmacy",Total,14
+"Guardian Pharmacy","Attention deficit hyperactivity disorder",2
+"Guardian Pharmacy",Epilepsy,2
+"Guardian Pharmacy","Anxiety disorder",1
+"Guardian Pharmacy",Autism,1
+"Guardian Pharmacy","Autoimmune diseases",1
+"Guardian Pharmacy",Cancer,1
+"Guardian Pharmacy","Alzheimer's disease",1
+"Guardian Pharmacy","Diabetes mellitus type 1",1
+"Guardian Pharmacy","Low back pain",1
+"Guardian Pharmacy","Parkinson's disease",1
+"Guardian Pharmacy",Psoriasis,1
+"Guardian Pharmacy",Dementia,1
+Heallergy,Total,23
+Heallergy,"Autoimmune diseases",3
+Heallergy,"Coronary heart disease",2
+Heallergy,Cancer,2
+Heallergy,Obesity,2
+Heallergy,Schizophrenia,2
+Heallergy,Atherosclerosis,1
+Heallergy,"Bipolar disorder",1
+Heallergy,"Chronic fatigue syndrome",1
+Heallergy,"Guillain–Barré syndrome",1
+Heallergy,"Irritable bowel syndrome",1
+Heallergy,"Multiple sclerosis",1
+Heallergy,"Myocardial infarction",1
+Heallergy,"Amyotrophic lateral sclerosis",1
+Heallergy,"Panic disorder",1
+Heallergy,"Anxiety disorder",1
+Heallergy,Stroke,1
+Heallergy,Asthma,1
+"Health Aura",Total,18
+"Health Aura","Attention deficit hyperactivity disorder",2
+"Health Aura","Autoimmune diseases",2
+"Health Aura","Guillain–Barré syndrome",2
+"Health Aura",Schizophrenia,2
+"Health Aura","Anxiety disorder",1
+"Health Aura","Bipolar disorder",1
+"Health Aura",Cancer,1
+"Health Aura","Myocardial infarction",1
+"Health Aura","Panic disorder",1
+"Health Aura","Parkinson's disease",1
+"Health Aura",Psoriasis,1
+"Health Aura","Rheumatoid arthritis",1
+"Health Aura",Lupus,1
+"Health Aura",Stroke,1
+"Health Corner",Total,21
+"Health Corner",Stroke,3
+"Health Corner","Metabolic syndrome",2
+"Health Corner",Lupus,2
+"Health Corner","Attention deficit hyperactivity disorder",1
+"Health Corner","Autoimmune diseases",1
+"Health Corner","Chronic fatigue syndrome",1
+"Health Corner",Depression,1
+"Health Corner","Diabetes mellitus type 2",1
+"Health Corner",Epilepsy,1
+"Health Corner","Guillain–Barré syndrome",1
+"Health Corner","Multiple sclerosis",1
+"Health Corner","Myocardial infarction",1
+"Health Corner",Obesity,1
+"Health Corner",Psoriasis,1
+"Health Corner","Thromboangiitis obliterans",1
+"Health Corner",Vasculitis,1
+"Health Corner",Asthma,1
+"Health Element",Total,18
+"Health Element","Guillain–Barré syndrome",2
+"Health Element",Cancer,2
+"Health Element","Chronic fatigue syndrome",2
+"Health Element",Depression,2
+"Health Element",Schizophrenia,2
+"Health Element","Autoimmune diseases",1
+"Health Element","Diabetes mellitus type 1",1
+"Health Element","Dilated cardiomyopathy",1
+"Health Element","Anorexia nervosa",1
+"Health Element","Myocardial infarction",1
+"Health Element",Psoriasis,1
+"Health Element","Thromboangiitis obliterans",1
+"Health Element",Vasculitis,1
+"Health Harvest",Total,19
+"Health Harvest",Asthma,2
+"Health Harvest","Bipolar disorder",2
+"Health Harvest",Dementia,2
+"Health Harvest","Metabolic syndrome",2
+"Health Harvest","Panic disorder",2
+"Health Harvest",Cancer,1
+"Health Harvest","Crohn's disease",1
+"Health Harvest",Atherosclerosis,1
+"Health Harvest","Low back pain",1
+"Health Harvest","Attention deficit hyperactivity disorder",1
+"Health Harvest","Myocardial infarction",1
+"Health Harvest","Autoimmune diseases",1
+"Health Harvest",Vasculitis,1
+"Health Harvest","Anxiety disorder",1
+"Health Hexa Drugs",Total,18
+"Health Hexa Drugs","Crohn's disease",2
+"Health Hexa Drugs","Dilated cardiomyopathy",2
+"Health Hexa Drugs","Irritable bowel syndrome",2
+"Health Hexa Drugs","Low back pain",2
+"Health Hexa Drugs","Obsessive–compulsive disorder",2
+"Health Hexa Drugs","Diabetes mellitus type 2",1
+"Health Hexa Drugs","Metabolic syndrome",1
+"Health Hexa Drugs",Obesity,1
+"Health Hexa Drugs","Coronary heart disease",1
+"Health Hexa Drugs","Parkinson's disease",1
+"Health Hexa Drugs",Sarcoidosis,1
+"Health Hexa Drugs","Tourette syndrome",1
+"Health Hexa Drugs",Cancer,1
+"Health Hub",Total,19
+"Health Hub","Attention deficit hyperactivity disorder",2
+"Health Hub","Chronic fatigue syndrome",2
+"Health Hub","Anxiety disorder",1
+"Health Hub",Atherosclerosis,1
+"Health Hub","Autoimmune diseases",1
+"Health Hub","Bipolar disorder",1
+"Health Hub","Chronic obstructive pulmonary disease",1
+"Health Hub","Crohn's disease",1
+"Health Hub",Depression,1
+"Health Hub",Autism,1
+"Health Hub","Guillain–Barré syndrome",1
+"Health Hub",Lupus,1
+"Health Hub","Metabolic syndrome",1
+"Health Hub","Panic disorder",1
+"Health Hub",Sarcoidosis,1
+"Health Hub",Vasculitis,1
+"Health Hub","Diabetes mellitus type 1",1
+"Health Mart",Total,12
+"Health Mart","Alzheimer's disease",2
+"Health Mart","Amyotrophic lateral sclerosis",2
+"Health Mart",Atherosclerosis,2
+"Health Mart","Chronic fatigue syndrome",2
+"Health Mart","Diabetes mellitus type 1",1
+"Health Mart","Guillain–Barré syndrome",1
+"Health Mart","Metabolic syndrome",1
+"Health Mart","Myocardial infarction",1
+"Health Warehouse",Total,21
+"Health Warehouse",Cancer,2
+"Health Warehouse","Crohn's disease",2
+"Health Warehouse",Lupus,2
+"Health Warehouse","Alzheimer's disease",1
+"Health Warehouse","Amyotrophic lateral sclerosis",1
+"Health Warehouse","Anxiety disorder",1
+"Health Warehouse",Atherosclerosis,1
+"Health Warehouse",Autism,1
+"Health Warehouse","Bipolar disorder",1
+"Health Warehouse","Coronary heart disease",1
+"Health Warehouse","Diabetes mellitus type 1",1
+"Health Warehouse",Epilepsy,1
+"Health Warehouse","Guillain–Barré syndrome",1
+"Health Warehouse","Low back pain",1
+"Health Warehouse","Multiple sclerosis",1
+"Health Warehouse",Psoriasis,1
+"Health Warehouse","Rheumatoid arthritis",1
+"Health Warehouse",Sarcoidosis,1
+Healthbest,Total,18
+Healthbest,"Anxiety disorder",3
+Healthbest,Atherosclerosis,2
+Healthbest,Dementia,2
+Healthbest,"Diabetes mellitus type 1",2
+Healthbest,"Chronic fatigue syndrome",1
+Healthbest,"Amyotrophic lateral sclerosis",1
+Healthbest,Autism,1
+Healthbest,"Diabetes mellitus type 2",1
+Healthbest,"Dilated cardiomyopathy",1
+Healthbest,"Panic disorder",1
+Healthbest,Sarcoidosis,1
+Healthbest,"Thromboangiitis obliterans",1
+Healthbest,"Autoimmune diseases",1
+HealthDirect,Total,17
+HealthDirect,Epilepsy,2
+HealthDirect,"Multiple sclerosis",2
+HealthDirect,"Anorexia nervosa",1
+HealthDirect,Asthma,1
+HealthDirect,Cancer,1
+HealthDirect,Dementia,1
+HealthDirect,"Diabetes mellitus type 1",1
+HealthDirect,"Diabetes mellitus type 2",1
+HealthDirect,"Guillain–Barré syndrome",1
+HealthDirect,"Low back pain",1
+HealthDirect,Lupus,1
+HealthDirect,"Myocardial infarction",1
+HealthDirect,"Obsessive–compulsive disorder",1
+HealthDirect,Stroke,1
+HealthDirect,"Tourette syndrome",1
+Healthlink,Total,18
+Healthlink,"Low back pain",2
+Healthlink,"Chronic fatigue syndrome",2
+Healthlink,"Panic disorder",2
+Healthlink,Depression,2
+Healthlink,"Crohn's disease",1
+Healthlink,Epilepsy,1
+Healthlink,"Irritable bowel syndrome",1
+Healthlink,Lupus,1
+Healthlink,"Obsessive–compulsive disorder",1
+Healthlink,"Parkinson's disease",1
+Healthlink,Psoriasis,1
+Healthlink,"Rheumatoid arthritis",1
+Healthlink,Vasculitis,1
+Healthlink,Autism,1
+HealthMart,Total,13
+HealthMart,Psoriasis,3
+HealthMart,"Anorexia nervosa",1
+HealthMart,Atherosclerosis,1
+HealthMart,"Crohn's disease",1
+HealthMart,Epilepsy,1
+HealthMart,"Irritable bowel syndrome",1
+HealthMart,"Low back pain",1
+HealthMart,"Obsessive–compulsive disorder",1
+HealthMart,Sarcoidosis,1
+HealthMart,"Tourette syndrome",1
+HealthMart,Vasculitis,1
+"Healthy Floyds",Total,14
+"Healthy Floyds","Diabetes mellitus type 2",2
+"Healthy Floyds","Alzheimer's disease",1
+"Healthy Floyds","Anorexia nervosa",1
+"Healthy Floyds",Atherosclerosis,1
+"Healthy Floyds","Autoimmune diseases",1
+"Healthy Floyds","Chronic obstructive pulmonary disease",1
+"Healthy Floyds","Low back pain",1
+"Healthy Floyds",Lupus,1
+"Healthy Floyds","Metabolic syndrome",1
+"Healthy Floyds","Panic disorder",1
+"Healthy Floyds","Parkinson's disease",1
+"Healthy Floyds","Rheumatoid arthritis",1
+"Healthy Floyds","Thromboangiitis obliterans",1
+"Heartland Pharmacy",Total,18
+"Heartland Pharmacy","Diabetes mellitus type 2",3
+"Heartland Pharmacy","Amyotrophic lateral sclerosis",2
+"Heartland Pharmacy","Crohn's disease",2
+"Heartland Pharmacy",Atherosclerosis,2
+"Heartland Pharmacy",Asthma,1
+"Heartland Pharmacy","Chronic fatigue syndrome",1
+"Heartland Pharmacy","Diabetes mellitus type 1",1
+"Heartland Pharmacy","Irritable bowel syndrome",1
+"Heartland Pharmacy","Multiple sclerosis",1
+"Heartland Pharmacy","Parkinson's disease",1
+"Heartland Pharmacy","Rheumatoid arthritis",1
+"Heartland Pharmacy",Vasculitis,1
+"Heartland Pharmacy","Alzheimer's disease",1
+"Hearty Mart",Total,15
+"Hearty Mart","Coronary heart disease",3
+"Hearty Mart","Metabolic syndrome",3
+"Hearty Mart","Amyotrophic lateral sclerosis",1
+"Hearty Mart",Asthma,1
+"Hearty Mart",Atherosclerosis,1
+"Hearty Mart","Bipolar disorder",1
+"Hearty Mart","Dilated cardiomyopathy",1
+"Hearty Mart","Irritable bowel syndrome",1
+"Hearty Mart",Obesity,1
+"Hearty Mart","Tourette syndrome",1
+"Hearty Mart",Vasculitis,1
+"Holloway Pharmacy",Total,19
+"Holloway Pharmacy","Irritable bowel syndrome",2
+"Holloway Pharmacy","Chronic obstructive pulmonary disease",2
+"Holloway Pharmacy","Diabetes mellitus type 2",2
+"Holloway Pharmacy","Guillain–Barré syndrome",2
+"Holloway Pharmacy",Autism,1
+"Holloway Pharmacy","Chronic fatigue syndrome",1
+"Holloway Pharmacy","Crohn's disease",1
+"Holloway Pharmacy","Diabetes mellitus type 1",1
+"Holloway Pharmacy","Anorexia nervosa",1
+"Holloway Pharmacy","Low back pain",1
+"Holloway Pharmacy","Multiple sclerosis",1
+"Holloway Pharmacy","Myocardial infarction",1
+"Holloway Pharmacy","Panic disorder",1
+"Holloway Pharmacy",Schizophrenia,1
+"Holloway Pharmacy","Tourette syndrome",1
+"Hometown Pharmacy Services",Total,18
+"Hometown Pharmacy Services",Schizophrenia,2
+"Hometown Pharmacy Services","Anorexia nervosa",2
+"Hometown Pharmacy Services",Lupus,2
+"Hometown Pharmacy Services","Alzheimer's disease",1
+"Hometown Pharmacy Services",Asthma,1
+"Hometown Pharmacy Services",Autism,1
+"Hometown Pharmacy Services","Bipolar disorder",1
+"Hometown Pharmacy Services",Cancer,1
+"Hometown Pharmacy Services","Coronary heart disease",1
+"Hometown Pharmacy Services","Crohn's disease",1
+"Hometown Pharmacy Services","Diabetes mellitus type 2",1
+"Hometown Pharmacy Services","Irritable bowel syndrome",1
+"Hometown Pharmacy Services","Metabolic syndrome",1
+"Hometown Pharmacy Services",Vasculitis,1
+"Hometown Pharmacy Services","Parkinson's disease",1
+"IDL Drug Stores",Total,12
+"IDL Drug Stores","Bipolar disorder",3
+"IDL Drug Stores","Amyotrophic lateral sclerosis",1
+"IDL Drug Stores","Autoimmune diseases",1
+"IDL Drug Stores","Crohn's disease",1
+"IDL Drug Stores",Epilepsy,1
+"IDL Drug Stores","Guillain–Barré syndrome",1
+"IDL Drug Stores","Irritable bowel syndrome",1
+"IDL Drug Stores",Psoriasis,1
+"IDL Drug Stores",Schizophrenia,1
+"IDL Drug Stores",Stroke,1
+"Innovia Drug Stores",Total,16
+"Innovia Drug Stores","Panic disorder",2
+"Innovia Drug Stores","Crohn's disease",2
+"Innovia Drug Stores",Autism,2
+"Innovia Drug Stores",Atherosclerosis,1
+"Innovia Drug Stores","Autoimmune diseases",1
+"Innovia Drug Stores",Dementia,1
+"Innovia Drug Stores",Depression,1
+"Innovia Drug Stores",Epilepsy,1
+"Innovia Drug Stores","Irritable bowel syndrome",1
+"Innovia Drug Stores","Parkinson's disease",1
+"Innovia Drug Stores","Rheumatoid arthritis",1
+"Innovia Drug Stores",Schizophrenia,1
+"Innovia Drug Stores",Asthma,1
+"Jack’s Discount Pharmacy",Total,28
+"Jack’s Discount Pharmacy","Thromboangiitis obliterans",4
+"Jack’s Discount Pharmacy","Chronic obstructive pulmonary disease",4
+"Jack’s Discount Pharmacy","Attention deficit hyperactivity disorder",3
+"Jack’s Discount Pharmacy","Anorexia nervosa",2
+"Jack’s Discount Pharmacy","Diabetes mellitus type 2",2
+"Jack’s Discount Pharmacy","Tourette syndrome",2
+"Jack’s Discount Pharmacy","Anxiety disorder",1
+"Jack’s Discount Pharmacy","Crohn's disease",1
+"Jack’s Discount Pharmacy","Dilated cardiomyopathy",1
+"Jack’s Discount Pharmacy","Low back pain",1
+"Jack’s Discount Pharmacy","Metabolic syndrome",1
+"Jack’s Discount Pharmacy","Myocardial infarction",1
+"Jack’s Discount Pharmacy","Obsessive–compulsive disorder",1
+"Jack’s Discount Pharmacy","Panic disorder",1
+"Jack’s Discount Pharmacy","Parkinson's disease",1
+"Jack’s Discount Pharmacy",Psoriasis,1
+"Jack’s Discount Pharmacy","Rheumatoid arthritis",1
+"Kerr Drug",Total,11
+"Kerr Drug","Attention deficit hyperactivity disorder",1
+"Kerr Drug",Autism,1
+"Kerr Drug","Bipolar disorder",1
+"Kerr Drug","Chronic fatigue syndrome",1
+"Kerr Drug","Chronic obstructive pulmonary disease",1
+"Kerr Drug","Diabetes mellitus type 2",1
+"Kerr Drug",Lupus,1
+"Kerr Drug","Multiple sclerosis",1
+"Kerr Drug",Obesity,1
+"Kerr Drug","Parkinson's disease",1
+"Kerr Drug","Thromboangiitis obliterans",1
+"Keystone Pharmacy",Total,15
+"Keystone Pharmacy",Dementia,3
+"Keystone Pharmacy","Alzheimer's disease",2
+"Keystone Pharmacy",Autism,1
+"Keystone Pharmacy","Autoimmune diseases",1
+"Keystone Pharmacy","Bipolar disorder",1
+"Keystone Pharmacy","Chronic fatigue syndrome",1
+"Keystone Pharmacy","Anxiety disorder",1
+"Keystone Pharmacy","Dilated cardiomyopathy",1
+"Keystone Pharmacy","Parkinson's disease",1
+"Keystone Pharmacy",Psoriasis,1
+"Keystone Pharmacy",Stroke,1
+"Keystone Pharmacy",Atherosclerosis,1
+"Lakeside Pharmacy",Total,19
+"Lakeside Pharmacy","Amyotrophic lateral sclerosis",2
+"Lakeside Pharmacy","Anxiety disorder",2
+"Lakeside Pharmacy","Coronary heart disease",2
+"Lakeside Pharmacy",Epilepsy,2
+"Lakeside Pharmacy","Alzheimer's disease",1
+"Lakeside Pharmacy","Attention deficit hyperactivity disorder",1
+"Lakeside Pharmacy","Chronic obstructive pulmonary disease",1
+"Lakeside Pharmacy",Dementia,1
+"Lakeside Pharmacy","Dilated cardiomyopathy",1
+"Lakeside Pharmacy","Irritable bowel syndrome",1
+"Lakeside Pharmacy","Metabolic syndrome",1
+"Lakeside Pharmacy","Rheumatoid arthritis",1
+"Lakeside Pharmacy",Stroke,1
+"Lakeside Pharmacy","Thromboangiitis obliterans",1
+"Lakeside Pharmacy",Vasculitis,1
+Lifechek,Total,14
+Lifechek,"Autoimmune diseases",3
+Lifechek,"Chronic fatigue syndrome",2
+Lifechek,Lupus,2
+Lifechek,Schizophrenia,2
+Lifechek,"Bipolar disorder",1
+Lifechek,Dementia,1
+Lifechek,"Rheumatoid arthritis",1
+Lifechek,Stroke,1
+Lifechek,Vasculitis,1
+"Lifeshave Pharmacy",Total,20
+"Lifeshave Pharmacy",Vasculitis,2
+"Lifeshave Pharmacy","Anorexia nervosa",1
+"Lifeshave Pharmacy",Asthma,1
+"Lifeshave Pharmacy","Autoimmune diseases",1
+"Lifeshave Pharmacy","Bipolar disorder",1
+"Lifeshave Pharmacy",Cancer,1
+"Lifeshave Pharmacy","Crohn's disease",1
+"Lifeshave Pharmacy",Depression,1
+"Lifeshave Pharmacy","Dilated cardiomyopathy",1
+"Lifeshave Pharmacy","Metabolic syndrome",1
+"Lifeshave Pharmacy",Obesity,1
+"Lifeshave Pharmacy","Obsessive–compulsive disorder",1
+"Lifeshave Pharmacy",Psoriasis,1
+"Lifeshave Pharmacy","Rheumatoid arthritis",1
+"Lifeshave Pharmacy",Sarcoidosis,1
+"Lifeshave Pharmacy","Thromboangiitis obliterans",1
+"Lifeshave Pharmacy","Tourette syndrome",1
+"Lifeshave Pharmacy","Alzheimer's disease",1
+"Lifeshave Pharmacy","Amyotrophic lateral sclerosis",1
+Lifezest,Total,13
+Lifezest,"Alzheimer's disease",2
+Lifezest,Stroke,2
+Lifezest,"Amyotrophic lateral sclerosis",1
+Lifezest,Autism,1
+Lifezest,"Chronic obstructive pulmonary disease",1
+Lifezest,"Diabetes mellitus type 1",1
+Lifezest,Epilepsy,1
+Lifezest,"Guillain–Barré syndrome",1
+Lifezest,"Metabolic syndrome",1
+Lifezest,Psoriasis,1
+Lifezest,Vasculitis,1
+"Longhorn Pharmacy",Total,16
+"Longhorn Pharmacy",Depression,2
+"Longhorn Pharmacy","Low back pain",2
+"Longhorn Pharmacy","Alzheimer's disease",1
+"Longhorn Pharmacy","Attention deficit hyperactivity disorder",1
+"Longhorn Pharmacy","Autoimmune diseases",1
+"Longhorn Pharmacy","Crohn's disease",1
+"Longhorn Pharmacy","Multiple sclerosis",1
+"Longhorn Pharmacy","Myocardial infarction",1
+"Longhorn Pharmacy",Obesity,1
+"Longhorn Pharmacy","Parkinson's disease",1
+"Longhorn Pharmacy","Rheumatoid arthritis",1
+"Longhorn Pharmacy",Stroke,1
+"Longhorn Pharmacy","Thromboangiitis obliterans",1
+"Longhorn Pharmacy","Diabetes mellitus type 1",1
+"Louis And Clark Drug",Total,20
+"Louis And Clark Drug","Crohn's disease",2
+"Louis And Clark Drug",Depression,2
+"Louis And Clark Drug",Stroke,2
+"Louis And Clark Drug","Chronic fatigue syndrome",1
+"Louis And Clark Drug","Chronic obstructive pulmonary disease",1
+"Louis And Clark Drug","Anxiety disorder",1
+"Louis And Clark Drug",Dementia,1
+"Louis And Clark Drug",Atherosclerosis,1
+"Louis And Clark Drug","Dilated cardiomyopathy",1
+"Louis And Clark Drug",Epilepsy,1
+"Louis And Clark Drug","Multiple sclerosis",1
+"Louis And Clark Drug","Myocardial infarction",1
+"Louis And Clark Drug","Parkinson's disease",1
+"Louis And Clark Drug","Rheumatoid arthritis",1
+"Louis And Clark Drug",Sarcoidosis,1
+"Louis And Clark Drug","Attention deficit hyperactivity disorder",1
+"Louis And Clark Drug","Autoimmune diseases",1
+"Lowry’s Prescriptions",Total,18
+"Lowry’s Prescriptions","Panic disorder",3
+"Lowry’s Prescriptions","Dilated cardiomyopathy",2
+"Lowry’s Prescriptions","Metabolic syndrome",2
+"Lowry’s Prescriptions","Obsessive–compulsive disorder",2
+"Lowry’s Prescriptions","Alzheimer's disease",1
+"Lowry’s Prescriptions","Bipolar disorder",1
+"Lowry’s Prescriptions","Multiple sclerosis",1
+"Lowry’s Prescriptions","Myocardial infarction",1
+"Lowry’s Prescriptions","Chronic fatigue syndrome",1
+"Lowry’s Prescriptions","Coronary heart disease",1
+"Lowry’s Prescriptions",Psoriasis,1
+"Lowry’s Prescriptions",Schizophrenia,1
+"Lowry’s Prescriptions","Crohn's disease",1
+"Lyfe Pharmacy",Total,22
+"Lyfe Pharmacy","Myocardial infarction",5
+"Lyfe Pharmacy",Atherosclerosis,2
+"Lyfe Pharmacy","Crohn's disease",2
+"Lyfe Pharmacy","Alzheimer's disease",1
+"Lyfe Pharmacy","Anorexia nervosa",1
+"Lyfe Pharmacy",Dementia,1
+"Lyfe Pharmacy",Depression,1
+"Lyfe Pharmacy",Epilepsy,1
+"Lyfe Pharmacy","Guillain–Barré syndrome",1
+"Lyfe Pharmacy","Irritable bowel syndrome",1
+"Lyfe Pharmacy","Low back pain",1
+"Lyfe Pharmacy",Lupus,1
+"Lyfe Pharmacy","Multiple sclerosis",1
+"Lyfe Pharmacy",Obesity,1
+"Lyfe Pharmacy","Panic disorder",1
+"Lyfe Pharmacy",Stroke,1
+"Maplewood Pharmacy",Total,20
+"Maplewood Pharmacy","Diabetes mellitus type 2",3
+"Maplewood Pharmacy","Anorexia nervosa",2
+"Maplewood Pharmacy","Myocardial infarction",2
+"Maplewood Pharmacy","Bipolar disorder",2
+"Maplewood Pharmacy","Chronic fatigue syndrome",2
+"Maplewood Pharmacy","Anxiety disorder",1
+"Maplewood Pharmacy",Epilepsy,1
+"Maplewood Pharmacy","Guillain–Barré syndrome",1
+"Maplewood Pharmacy","Low back pain",1
+"Maplewood Pharmacy","Panic disorder",1
+"Maplewood Pharmacy","Parkinson's disease",1
+"Maplewood Pharmacy","Thromboangiitis obliterans",1
+"Maplewood Pharmacy",Vasculitis,1
+"Maplewood Pharmacy","Alzheimer's disease",1
+"Max Health",Total,16
+"Max Health","Alzheimer's disease",2
+"Max Health",Autism,2
+"Max Health",Schizophrenia,2
+"Max Health","Autoimmune diseases",1
+"Max Health","Chronic fatigue syndrome",1
+"Max Health","Chronic obstructive pulmonary disease",1
+"Max Health","Coronary heart disease",1
+"Max Health","Multiple sclerosis",1
+"Max Health","Myocardial infarction",1
+"Max Health",Obesity,1
+"Max Health","Rheumatoid arthritis",1
+"Max Health",Sarcoidosis,1
+"Max Health","Tourette syndrome",1
+"Med-X Drug",Total,14
+"Med-X Drug","Anxiety disorder",1
+"Med-X Drug",Autism,1
+"Med-X Drug","Bipolar disorder",1
+"Med-X Drug","Chronic obstructive pulmonary disease",1
+"Med-X Drug","Coronary heart disease",1
+"Med-X Drug",Depression,1
+"Med-X Drug","Diabetes mellitus type 2",1
+"Med-X Drug","Guillain–Barré syndrome",1
+"Med-X Drug",Lupus,1
+"Med-X Drug","Metabolic syndrome",1
+"Med-X Drug","Obsessive–compulsive disorder",1
+"Med-X Drug","Panic disorder",1
+"Med-X Drug",Psoriasis,1
+"Med-X Drug","Thromboangiitis obliterans",1
+MedImpact,Total,12
+MedImpact,"Anxiety disorder",2
+MedImpact,"Attention deficit hyperactivity disorder",1
+MedImpact,"Chronic obstructive pulmonary disease",1
+MedImpact,"Coronary heart disease",1
+MedImpact,Dementia,1
+MedImpact,Depression,1
+MedImpact,"Diabetes mellitus type 2",1
+MedImpact,"Multiple sclerosis",1
+MedImpact,Obesity,1
+MedImpact,"Obsessive–compulsive disorder",1
+MedImpact,Asthma,1
+Mediserv,Total,20
+Mediserv,Asthma,2
+Mediserv,"Diabetes mellitus type 2",2
+Mediserv,Obesity,2
+Mediserv,"Autoimmune diseases",1
+Mediserv,"Chronic fatigue syndrome",1
+Mediserv,"Chronic obstructive pulmonary disease",1
+Mediserv,"Dilated cardiomyopathy",1
+Mediserv,Epilepsy,1
+Mediserv,"Guillain–Barré syndrome",1
+Mediserv,"Low back pain",1
+Mediserv,"Metabolic syndrome",1
+Mediserv,"Obsessive–compulsive disorder",1
+Mediserv,"Panic disorder",1
+Mediserv,Psoriasis,1
+Mediserv,"Rheumatoid arthritis",1
+Mediserv,Sarcoidosis,1
+Mediserv,Vasculitis,1
+Medisuite,Total,11
+Medisuite,Atherosclerosis,2
+Medisuite,Depression,2
+Medisuite,Epilepsy,1
+Medisuite,Lupus,1
+Medisuite,"Metabolic syndrome",1
+Medisuite,"Panic disorder",1
+Medisuite,"Rheumatoid arthritis",1
+Medisuite,"Thromboangiitis obliterans",1
+Medisuite,"Tourette syndrome",1
+Medlife,Total,18
+Medlife,Lupus,3
+Medlife,"Chronic fatigue syndrome",2
+Medlife,"Anorexia nervosa",2
+Medlife,"Amyotrophic lateral sclerosis",1
+Medlife,"Crohn's disease",1
+Medlife,Dementia,1
+Medlife,"Diabetes mellitus type 1",1
+Medlife,"Diabetes mellitus type 2",1
+Medlife,"Dilated cardiomyopathy",1
+Medlife,"Autoimmune diseases",1
+Medlife,"Multiple sclerosis",1
+Medlife,"Obsessive–compulsive disorder",1
+Medlife,"Thromboangiitis obliterans",1
+Medlife,Asthma,1
+MedMinder,Total,11
+MedMinder,"Attention deficit hyperactivity disorder",2
+MedMinder,"Anorexia nervosa",1
+MedMinder,Asthma,1
+MedMinder,"Coronary heart disease",1
+MedMinder,"Crohn's disease",1
+MedMinder,"Diabetes mellitus type 2",1
+MedMinder,Epilepsy,1
+MedMinder,"Parkinson's disease",1
+MedMinder,"Tourette syndrome",1
+MedMinder,Vasculitis,1
+MedOne,Total,18
+MedOne,"Obsessive–compulsive disorder",2
+MedOne,"Diabetes mellitus type 1",2
+MedOne,Atherosclerosis,2
+MedOne,"Anxiety disorder",1
+MedOne,"Autoimmune diseases",1
+MedOne,"Bipolar disorder",1
+MedOne,Cancer,1
+MedOne,"Low back pain",1
+MedOne,"Metabolic syndrome",1
+MedOne,Obesity,1
+MedOne,"Myocardial infarction",1
+MedOne,Psoriasis,1
+MedOne,"Rheumatoid arthritis",1
+MedOne,"Tourette syndrome",1
+MedOne,"Multiple sclerosis",1
+MedSavvy,Total,23
+MedSavvy,"Crohn's disease",2
+MedSavvy,Depression,2
+MedSavvy,"Diabetes mellitus type 2",2
+MedSavvy,"Dilated cardiomyopathy",2
+MedSavvy,Lupus,2
+MedSavvy,"Metabolic syndrome",2
+MedSavvy,Sarcoidosis,2
+MedSavvy,Autism,1
+MedSavvy,"Guillain–Barré syndrome",1
+MedSavvy,"Low back pain",1
+MedSavvy,Cancer,1
+MedSavvy,Dementia,1
+MedSavvy,Psoriasis,1
+MedSavvy,"Alzheimer's disease",1
+MedSavvy,Stroke,1
+MedSavvy,Atherosclerosis,1
+MedShoppe,Total,23
+MedShoppe,Sarcoidosis,3
+MedShoppe,"Dilated cardiomyopathy",3
+MedShoppe,Cancer,2
+MedShoppe,Vasculitis,2
+MedShoppe,Atherosclerosis,1
+MedShoppe,"Autoimmune diseases",1
+MedShoppe,"Coronary heart disease",1
+MedShoppe,"Diabetes mellitus type 2",1
+MedShoppe,Epilepsy,1
+MedShoppe,Lupus,1
+MedShoppe,"Multiple sclerosis",1
+MedShoppe,Obesity,1
+MedShoppe,Schizophrenia,1
+MedShoppe,"Thromboangiitis obliterans",1
+MedShoppe,"Tourette syndrome",1
+MedShoppe,"Anorexia nervosa",1
+MedShoppe,"Anxiety disorder",1
+"Midtown Express",Total,15
+"Midtown Express",Autism,3
+"Midtown Express","Autoimmune diseases",1
+"Midtown Express",Cancer,1
+"Midtown Express","Coronary heart disease",1
+"Midtown Express","Crohn's disease",1
+"Midtown Express","Diabetes mellitus type 1",1
+"Midtown Express","Low back pain",1
+"Midtown Express",Lupus,1
+"Midtown Express","Myocardial infarction",1
+"Midtown Express","Obsessive–compulsive disorder",1
+"Midtown Express",Psoriasis,1
+"Midtown Express",Schizophrenia,1
+"Midtown Express","Thromboangiitis obliterans",1
+MobiMeds,Total,17
+MobiMeds,"Multiple sclerosis",2
+MobiMeds,"Amyotrophic lateral sclerosis",1
+MobiMeds,Autism,1
+MobiMeds,"Chronic fatigue syndrome",1
+MobiMeds,"Chronic obstructive pulmonary disease",1
+MobiMeds,Depression,1
+MobiMeds,"Diabetes mellitus type 1",1
+MobiMeds,"Diabetes mellitus type 2",1
+MobiMeds,"Dilated cardiomyopathy",1
+MobiMeds,Epilepsy,1
+MobiMeds,"Guillain–Barré syndrome",1
+MobiMeds,"Irritable bowel syndrome",1
+MobiMeds,"Low back pain",1
+MobiMeds,"Metabolic syndrome",1
+MobiMeds,"Myocardial infarction",1
+MobiMeds,Obesity,1
+"Modern Health",Total,18
+"Modern Health",Atherosclerosis,2
+"Modern Health","Obsessive–compulsive disorder",2
+"Modern Health",Sarcoidosis,2
+"Modern Health",Schizophrenia,2
+"Modern Health","Anxiety disorder",2
+"Modern Health","Low back pain",1
+"Modern Health","Autoimmune diseases",1
+"Modern Health","Panic disorder",1
+"Modern Health","Parkinson's disease",1
+"Modern Health",Depression,1
+"Modern Health",Epilepsy,1
+"Modern Health","Thromboangiitis obliterans",1
+"Modern Health","Irritable bowel syndrome",1
+Neighborcare,Total,16
+Neighborcare,"Alzheimer's disease",1
+Neighborcare,"Amyotrophic lateral sclerosis",1
+Neighborcare,"Anorexia nervosa",1
+Neighborcare,"Anxiety disorder",1
+Neighborcare,Asthma,1
+Neighborcare,"Bipolar disorder",1
+Neighborcare,"Coronary heart disease",1
+Neighborcare,Dementia,1
+Neighborcare,Depression,1
+Neighborcare,"Diabetes mellitus type 2",1
+Neighborcare,"Guillain–Barré syndrome",1
+Neighborcare,"Metabolic syndrome",1
+Neighborcare,"Obsessive–compulsive disorder",1
+Neighborcare,Psoriasis,1
+Neighborcare,Stroke,1
+Neighborcare,Vasculitis,1
+Neighbors,Total,18
+Neighbors,Atherosclerosis,2
+Neighbors,"Chronic obstructive pulmonary disease",2
+Neighbors,"Crohn's disease",2
+Neighbors,Depression,1
+Neighbors,"Diabetes mellitus type 1",1
+Neighbors,Epilepsy,1
+Neighbors,"Guillain–Barré syndrome",1
+Neighbors,"Irritable bowel syndrome",1
+Neighbors,"Metabolic syndrome",1
+Neighbors,"Multiple sclerosis",1
+Neighbors,"Myocardial infarction",1
+Neighbors,Psoriasis,1
+Neighbors,"Rheumatoid arthritis",1
+Neighbors,"Tourette syndrome",1
+Neighbors,"Anxiety disorder",1
+"New Era",Total,15
+"New Era","Myocardial infarction",2
+"New Era","Parkinson's disease",2
+"New Era",Vasculitis,2
+"New Era","Anorexia nervosa",1
+"New Era",Asthma,1
+"New Era","Attention deficit hyperactivity disorder",1
+"New Era","Autoimmune diseases",1
+"New Era",Cancer,1
+"New Era",Dementia,1
+"New Era",Lupus,1
+"New Era",Sarcoidosis,1
+"New Era","Thromboangiitis obliterans",1
+"Newday Drug Store",Total,17
+"Newday Drug Store","Diabetes mellitus type 1",4
+"Newday Drug Store","Amyotrophic lateral sclerosis",2
+"Newday Drug Store",Cancer,2
+"Newday Drug Store","Alzheimer's disease",2
+"Newday Drug Store",Asthma,1
+"Newday Drug Store","Attention deficit hyperactivity disorder",1
+"Newday Drug Store",Autism,1
+"Newday Drug Store","Autoimmune diseases",1
+"Newday Drug Store",Obesity,1
+"Newday Drug Store",Vasculitis,1
+"Newday Drug Store","Bipolar disorder",1
+"North East Pharmacy",Total,14
+"North East Pharmacy",Cancer,2
+"North East Pharmacy",Atherosclerosis,1
+"North East Pharmacy","Attention deficit hyperactivity disorder",1
+"North East Pharmacy","Autoimmune diseases",1
+"North East Pharmacy","Coronary heart disease",1
+"North East Pharmacy","Crohn's disease",1
+"North East Pharmacy",Dementia,1
+"North East Pharmacy",Depression,1
+"North East Pharmacy","Multiple sclerosis",1
+"North East Pharmacy","Obsessive–compulsive disorder",1
+"North East Pharmacy",Sarcoidosis,1
+"North East Pharmacy",Vasculitis,1
+"North East Pharmacy","Amyotrophic lateral sclerosis",1
+"Northport Pharmacy",Total,12
+"Northport Pharmacy","Bipolar disorder",2
+"Northport Pharmacy",Dementia,2
+"Northport Pharmacy","Amyotrophic lateral sclerosis",1
+"Northport Pharmacy","Anorexia nervosa",1
+"Northport Pharmacy","Anxiety disorder",1
+"Northport Pharmacy",Asthma,1
+"Northport Pharmacy",Atherosclerosis,1
+"Northport Pharmacy","Autoimmune diseases",1
+"Northport Pharmacy",Cancer,1
+"Northport Pharmacy","Parkinson's disease",1
+"Northwest Medication Management",Total,25
+"Northwest Medication Management","Metabolic syndrome",3
+"Northwest Medication Management","Rheumatoid arthritis",3
+"Northwest Medication Management","Chronic obstructive pulmonary disease",2
+"Northwest Medication Management","Myocardial infarction",2
+"Northwest Medication Management",Dementia,1
+"Northwest Medication Management","Diabetes mellitus type 1",1
+"Northwest Medication Management",Epilepsy,1
+"Northwest Medication Management","Guillain–Barré syndrome",1
+"Northwest Medication Management","Irritable bowel syndrome",1
+"Northwest Medication Management","Anorexia nervosa",1
+"Northwest Medication Management","Anxiety disorder",1
+"Northwest Medication Management","Obsessive–compulsive disorder",1
+"Northwest Medication Management","Panic disorder",1
+"Northwest Medication Management",Psoriasis,1
+"Northwest Medication Management",Cancer,1
+"Northwest Medication Management",Sarcoidosis,1
+"Northwest Medication Management",Stroke,1
+"Northwest Medication Management",Vasculitis,1
+"Northwest Medication Management","Chronic fatigue syndrome",1
+"Northwest Pharmacy",Total,19
+"Northwest Pharmacy","Attention deficit hyperactivity disorder",2
+"Northwest Pharmacy","Alzheimer's disease",1
+"Northwest Pharmacy","Anxiety disorder",1
+"Northwest Pharmacy",Autism,1
+"Northwest Pharmacy","Chronic obstructive pulmonary disease",1
+"Northwest Pharmacy",Epilepsy,1
+"Northwest Pharmacy","Metabolic syndrome",1
+"Northwest Pharmacy","Multiple sclerosis",1
+"Northwest Pharmacy",Obesity,1
+"Northwest Pharmacy","Panic disorder",1
+"Northwest Pharmacy","Parkinson's disease",1
+"Northwest Pharmacy",Psoriasis,1
+"Northwest Pharmacy","Rheumatoid arthritis",1
+"Northwest Pharmacy",Sarcoidosis,1
+"Northwest Pharmacy",Schizophrenia,1
+"Northwest Pharmacy",Stroke,1
+"Northwest Pharmacy","Tourette syndrome",1
+"Northwest Pharmacy",Vasculitis,1
+Omnicare,Total,18
+Omnicare,"Attention deficit hyperactivity disorder",2
+Omnicare,Dementia,2
+Omnicare,Stroke,2
+Omnicare,Asthma,1
+Omnicare,Atherosclerosis,1
+Omnicare,"Chronic obstructive pulmonary disease",1
+Omnicare,"Dilated cardiomyopathy",1
+Omnicare,"Irritable bowel syndrome",1
+Omnicare,"Low back pain",1
+Omnicare,"Multiple sclerosis",1
+Omnicare,"Obsessive–compulsive disorder",1
+Omnicare,"Parkinson's disease",1
+Omnicare,Schizophrenia,1
+Omnicare,"Amyotrophic lateral sclerosis",1
+Omnicare,"Anxiety disorder",1
+OptumRx,Total,23
+OptumRx,Autism,3
+OptumRx,Dementia,3
+OptumRx,Epilepsy,3
+OptumRx,Lupus,3
+OptumRx,"Autoimmune diseases",2
+OptumRx,"Alzheimer's disease",1
+OptumRx,"Attention deficit hyperactivity disorder",1
+OptumRx,Cancer,1
+OptumRx,Depression,1
+OptumRx,"Dilated cardiomyopathy",1
+OptumRx,"Guillain–Barré syndrome",1
+OptumRx,"Parkinson's disease",1
+OptumRx,Schizophrenia,1
+OptumRx,"Thromboangiitis obliterans",1
+"Outpatient Pharmacy",Total,26
+"Outpatient Pharmacy","Rheumatoid arthritis",4
+"Outpatient Pharmacy","Parkinson's disease",3
+"Outpatient Pharmacy","Bipolar disorder",2
+"Outpatient Pharmacy","Dilated cardiomyopathy",2
+"Outpatient Pharmacy","Multiple sclerosis",2
+"Outpatient Pharmacy",Dementia,1
+"Outpatient Pharmacy","Diabetes mellitus type 2",1
+"Outpatient Pharmacy",Epilepsy,1
+"Outpatient Pharmacy","Irritable bowel syndrome",1
+"Outpatient Pharmacy","Low back pain",1
+"Outpatient Pharmacy","Alzheimer's disease",1
+"Outpatient Pharmacy","Anorexia nervosa",1
+"Outpatient Pharmacy",Psoriasis,1
+"Outpatient Pharmacy",Cancer,1
+"Outpatient Pharmacy",Schizophrenia,1
+"Outpatient Pharmacy",Stroke,1
+"Outpatient Pharmacy","Tourette syndrome",1
+"Outpatient Pharmacy","Coronary heart disease",1
+"Pacific Medical",Total,24
+"Pacific Medical",Depression,2
+"Pacific Medical","Chronic obstructive pulmonary disease",2
+"Pacific Medical","Myocardial infarction",2
+"Pacific Medical",Psoriasis,2
+"Pacific Medical","Attention deficit hyperactivity disorder",1
+"Pacific Medical",Autism,1
+"Pacific Medical","Coronary heart disease",1
+"Pacific Medical","Crohn's disease",1
+"Pacific Medical","Amyotrophic lateral sclerosis",1
+"Pacific Medical","Diabetes mellitus type 2",1
+"Pacific Medical",Epilepsy,1
+"Pacific Medical","Metabolic syndrome",1
+"Pacific Medical",Obesity,1
+"Pacific Medical","Obsessive–compulsive disorder",1
+"Pacific Medical","Parkinson's disease",1
+"Pacific Medical",Sarcoidosis,1
+"Pacific Medical",Schizophrenia,1
+"Pacific Medical",Stroke,1
+"Pacific Medical","Thromboangiitis obliterans",1
+"Pacific Medical",Atherosclerosis,1
+"Pavilions Pharmacy",Total,9
+"Pavilions Pharmacy","Autoimmune diseases",1
+"Pavilions Pharmacy","Chronic fatigue syndrome",1
+"Pavilions Pharmacy","Crohn's disease",1
+"Pavilions Pharmacy",Depression,1
+"Pavilions Pharmacy","Irritable bowel syndrome",1
+"Pavilions Pharmacy","Low back pain",1
+"Pavilions Pharmacy",Lupus,1
+"Pavilions Pharmacy","Obsessive–compulsive disorder",1
+"Pavilions Pharmacy","Tourette syndrome",1
+"Pearl River Pharmacy",Total,14
+"Pearl River Pharmacy","Diabetes mellitus type 2",2
+"Pearl River Pharmacy","Panic disorder",2
+"Pearl River Pharmacy",Sarcoidosis,2
+"Pearl River Pharmacy","Low back pain",1
+"Pearl River Pharmacy","Metabolic syndrome",1
+"Pearl River Pharmacy","Multiple sclerosis",1
+"Pearl River Pharmacy",Obesity,1
+"Pearl River Pharmacy","Coronary heart disease",1
+"Pearl River Pharmacy",Depression,1
+"Pearl River Pharmacy",Vasculitis,1
+"Pearl River Pharmacy",Asthma,1
+PersonalRX,Total,19
+PersonalRX,"Crohn's disease",2
+PersonalRX,Dementia,2
+PersonalRX,"Low back pain",2
+PersonalRX,"Metabolic syndrome",2
+PersonalRX,"Anorexia nervosa",1
+PersonalRX,"Chronic obstructive pulmonary disease",1
+PersonalRX,"Coronary heart disease",1
+PersonalRX,Depression,1
+PersonalRX,"Diabetes mellitus type 1",1
+PersonalRX,"Diabetes mellitus type 2",1
+PersonalRX,"Dilated cardiomyopathy",1
+PersonalRX,"Irritable bowel syndrome",1
+PersonalRX,"Multiple sclerosis",1
+PersonalRX,"Parkinson's disease",1
+PersonalRX,Schizophrenia,1
+"Pharma Best",Total,13
+"Pharma Best","Crohn's disease",2
+"Pharma Best",Vasculitis,2
+"Pharma Best","Chronic fatigue syndrome",1
+"Pharma Best","Diabetes mellitus type 1",1
+"Pharma Best",Obesity,1
+"Pharma Best","Obsessive–compulsive disorder",1
+"Pharma Best","Panic disorder",1
+"Pharma Best",Psoriasis,1
+"Pharma Best","Thromboangiitis obliterans",1
+"Pharma Best","Anxiety disorder",1
+"Pharma Best","Attention deficit hyperactivity disorder",1
+"Pharma First",Total,16
+"Pharma First","Multiple sclerosis",2
+"Pharma First","Rheumatoid arthritis",2
+"Pharma First","Bipolar disorder",1
+"Pharma First",Cancer,1
+"Pharma First",Dementia,1
+"Pharma First","Dilated cardiomyopathy",1
+"Pharma First","Guillain–Barré syndrome",1
+"Pharma First","Irritable bowel syndrome",1
+"Pharma First",Obesity,1
+"Pharma First","Parkinson's disease",1
+"Pharma First",Psoriasis,1
+"Pharma First",Stroke,1
+"Pharma First","Tourette syndrome",1
+"Pharma First",Autism,1
+"Pharma Street",Total,15
+"Pharma Street","Anorexia nervosa",3
+"Pharma Street",Epilepsy,2
+"Pharma Street","Low back pain",2
+"Pharma Street","Amyotrophic lateral sclerosis",1
+"Pharma Street","Diabetes mellitus type 1",1
+"Pharma Street","Dilated cardiomyopathy",1
+"Pharma Street","Guillain–Barré syndrome",1
+"Pharma Street","Irritable bowel syndrome",1
+"Pharma Street","Metabolic syndrome",1
+"Pharma Street","Obsessive–compulsive disorder",1
+"Pharma Street","Thromboangiitis obliterans",1
+"Pharmaca Integrative",Total,14
+"Pharmaca Integrative","Chronic fatigue syndrome",2
+"Pharmaca Integrative",Atherosclerosis,1
+"Pharmaca Integrative",Dementia,1
+"Pharmaca Integrative","Diabetes mellitus type 1",1
+"Pharmaca Integrative","Dilated cardiomyopathy",1
+"Pharmaca Integrative",Lupus,1
+"Pharmaca Integrative","Metabolic syndrome",1
+"Pharmaca Integrative","Obsessive–compulsive disorder",1
+"Pharmaca Integrative","Parkinson's disease",1
+"Pharmaca Integrative",Psoriasis,1
+"Pharmaca Integrative",Stroke,1
+"Pharmaca Integrative",Vasculitis,1
+"Pharmaca Integrative","Anorexia nervosa",1
+"Pharmacy Alliance",Total,22
+"Pharmacy Alliance",Autism,3
+"Pharmacy Alliance","Amyotrophic lateral sclerosis",2
+"Pharmacy Alliance","Bipolar disorder",2
+"Pharmacy Alliance","Chronic fatigue syndrome",2
+"Pharmacy Alliance","Autoimmune diseases",1
+"Pharmacy Alliance",Cancer,1
+"Pharmacy Alliance","Coronary heart disease",1
+"Pharmacy Alliance",Depression,1
+"Pharmacy Alliance","Diabetes mellitus type 1",1
+"Pharmacy Alliance","Diabetes mellitus type 2",1
+"Pharmacy Alliance","Dilated cardiomyopathy",1
+"Pharmacy Alliance","Guillain–Barré syndrome",1
+"Pharmacy Alliance","Multiple sclerosis",1
+"Pharmacy Alliance","Myocardial infarction",1
+"Pharmacy Alliance","Obsessive–compulsive disorder",1
+"Pharmacy Alliance",Stroke,1
+"Pharmacy Alliance","Thromboangiitis obliterans",1
+"Pharmacy Express",Total,16
+"Pharmacy Express",Schizophrenia,2
+"Pharmacy Express",Asthma,2
+"Pharmacy Express","Chronic fatigue syndrome",2
+"Pharmacy Express","Anorexia nervosa",1
+"Pharmacy Express","Autoimmune diseases",1
+"Pharmacy Express","Bipolar disorder",1
+"Pharmacy Express","Guillain–Barré syndrome",1
+"Pharmacy Express","Metabolic syndrome",1
+"Pharmacy Express","Obsessive–compulsive disorder",1
+"Pharmacy Express","Panic disorder",1
+"Pharmacy Express",Psoriasis,1
+"Pharmacy Express",Epilepsy,1
+"Pharmacy Express",Cancer,1
+"Pharmacy Partners",Total,14
+"Pharmacy Partners","Attention deficit hyperactivity disorder",2
+"Pharmacy Partners","Coronary heart disease",2
+"Pharmacy Partners","Amyotrophic lateral sclerosis",1
+"Pharmacy Partners","Anorexia nervosa",1
+"Pharmacy Partners",Cancer,1
+"Pharmacy Partners",Dementia,1
+"Pharmacy Partners","Diabetes mellitus type 1",1
+"Pharmacy Partners",Obesity,1
+"Pharmacy Partners","Panic disorder",1
+"Pharmacy Partners",Psoriasis,1
+"Pharmacy Partners",Sarcoidosis,1
+"Pharmacy Partners","Thromboangiitis obliterans",1
+PharmaMed,Total,20
+PharmaMed,"Crohn's disease",2
+PharmaMed,"Thromboangiitis obliterans",2
+PharmaMed,"Attention deficit hyperactivity disorder",1
+PharmaMed,Autism,1
+PharmaMed,"Chronic obstructive pulmonary disease",1
+PharmaMed,Depression,1
+PharmaMed,"Diabetes mellitus type 1",1
+PharmaMed,"Dilated cardiomyopathy",1
+PharmaMed,"Low back pain",1
+PharmaMed,"Metabolic syndrome",1
+PharmaMed,"Multiple sclerosis",1
+PharmaMed,"Myocardial infarction",1
+PharmaMed,"Parkinson's disease",1
+PharmaMed,"Rheumatoid arthritis",1
+PharmaMed,Stroke,1
+PharmaMed,"Anxiety disorder",1
+PharmaMed,Vasculitis,1
+PharmaMed,Atherosclerosis,1
+Pharmanic,Total,16
+Pharmanic,"Amyotrophic lateral sclerosis",2
+Pharmanic,"Anorexia nervosa",2
+Pharmanic,"Metabolic syndrome",2
+Pharmanic,Obesity,2
+Pharmanic,"Anxiety disorder",1
+Pharmanic,Autism,1
+Pharmanic,"Chronic obstructive pulmonary disease",1
+Pharmanic,"Coronary heart disease",1
+Pharmanic,Dementia,1
+Pharmanic,"Diabetes mellitus type 1",1
+Pharmanic,Stroke,1
+Pharmanic,"Thromboangiitis obliterans",1
+"Pill Pack",Total,18
+"Pill Pack","Bipolar disorder",2
+"Pill Pack","Dilated cardiomyopathy",2
+"Pill Pack","Autoimmune diseases",1
+"Pill Pack",Cancer,1
+"Pill Pack","Chronic obstructive pulmonary disease",1
+"Pill Pack","Crohn's disease",1
+"Pill Pack",Dementia,1
+"Pill Pack",Depression,1
+"Pill Pack",Epilepsy,1
+"Pill Pack","Irritable bowel syndrome",1
+"Pill Pack",Lupus,1
+"Pill Pack","Multiple sclerosis",1
+"Pill Pack","Rheumatoid arthritis",1
+"Pill Pack",Sarcoidosis,1
+"Pill Pack","Thromboangiitis obliterans",1
+"Pill Pack",Asthma,1
+"Planet Health",Total,14
+"Planet Health",Atherosclerosis,2
+"Planet Health","Amyotrophic lateral sclerosis",1
+"Planet Health",Asthma,1
+"Planet Health",Autism,1
+"Planet Health","Bipolar disorder",1
+"Planet Health",Dementia,1
+"Planet Health",Depression,1
+"Planet Health","Irritable bowel syndrome",1
+"Planet Health",Lupus,1
+"Planet Health",Psoriasis,1
+"Planet Health","Rheumatoid arthritis",1
+"Planet Health",Schizophrenia,1
+"Planet Health",Stroke,1
+Pocketpills,Total,23
+Pocketpills,"Tourette syndrome",3
+Pocketpills,"Crohn's disease",2
+Pocketpills,Depression,2
+Pocketpills,"Guillain–Barré syndrome",2
+Pocketpills,"Multiple sclerosis",2
+Pocketpills,"Coronary heart disease",1
+Pocketpills,"Anorexia nervosa",1
+Pocketpills,"Attention deficit hyperactivity disorder",1
+Pocketpills,"Diabetes mellitus type 1",1
+Pocketpills,Autism,1
+Pocketpills,"Low back pain",1
+Pocketpills,"Metabolic syndrome",1
+Pocketpills,"Autoimmune diseases",1
+Pocketpills,"Myocardial infarction",1
+Pocketpills,Stroke,1
+Pocketpills,Cancer,1
+Pocketpills,"Chronic obstructive pulmonary disease",1
+Postmeds,Total,19
+Postmeds,"Chronic fatigue syndrome",2
+Postmeds,"Guillain–Barré syndrome",2
+Postmeds,"Bipolar disorder",1
+Postmeds,Atherosclerosis,1
+Postmeds,"Dilated cardiomyopathy",1
+Postmeds,Autism,1
+Postmeds,"Irritable bowel syndrome",1
+Postmeds,"Low back pain",1
+Postmeds,Lupus,1
+Postmeds,"Metabolic syndrome",1
+Postmeds,"Panic disorder",1
+Postmeds,Sarcoidosis,1
+Postmeds,Schizophrenia,1
+Postmeds,"Thromboangiitis obliterans",1
+Postmeds,"Tourette syndrome",1
+Postmeds,Vasculitis,1
+Postmeds,"Autoimmune diseases",1
+"Powerhouse Pharmacy",Total,16
+"Powerhouse Pharmacy",Autism,3
+"Powerhouse Pharmacy","Tourette syndrome",2
+"Powerhouse Pharmacy","Amyotrophic lateral sclerosis",1
+"Powerhouse Pharmacy",Cancer,1
+"Powerhouse Pharmacy","Chronic fatigue syndrome",1
+"Powerhouse Pharmacy","Diabetes mellitus type 1",1
+"Powerhouse Pharmacy","Guillain–Barré syndrome",1
+"Powerhouse Pharmacy","Metabolic syndrome",1
+"Powerhouse Pharmacy","Multiple sclerosis",1
+"Powerhouse Pharmacy","Panic disorder",1
+"Powerhouse Pharmacy","Parkinson's disease",1
+"Powerhouse Pharmacy",Schizophrenia,1
+"Powerhouse Pharmacy","Thromboangiitis obliterans",1
+PrecisionMed,Total,16
+PrecisionMed,"Metabolic syndrome",3
+PrecisionMed,Asthma,2
+PrecisionMed,"Autoimmune diseases",1
+PrecisionMed,Cancer,1
+PrecisionMed,"Chronic fatigue syndrome",1
+PrecisionMed,"Chronic obstructive pulmonary disease",1
+PrecisionMed,Epilepsy,1
+PrecisionMed,"Irritable bowel syndrome",1
+PrecisionMed,"Low back pain",1
+PrecisionMed,"Panic disorder",1
+PrecisionMed,"Parkinson's disease",1
+PrecisionMed,Psoriasis,1
+PrecisionMed,"Thromboangiitis obliterans",1
+"Premier Long Term Care Pharm",Total,17
+"Premier Long Term Care Pharm","Multiple sclerosis",2
+"Premier Long Term Care Pharm",Dementia,2
+"Premier Long Term Care Pharm","Attention deficit hyperactivity disorder",1
+"Premier Long Term Care Pharm",Autism,1
+"Premier Long Term Care Pharm",Cancer,1
+"Premier Long Term Care Pharm","Crohn's disease",1
+"Premier Long Term Care Pharm",Depression,1
+"Premier Long Term Care Pharm","Diabetes mellitus type 1",1
+"Premier Long Term Care Pharm","Chronic fatigue syndrome",1
+"Premier Long Term Care Pharm",Lupus,1
+"Premier Long Term Care Pharm","Metabolic syndrome",1
+"Premier Long Term Care Pharm","Anorexia nervosa",1
+"Premier Long Term Care Pharm",Stroke,1
+"Premier Long Term Care Pharm","Guillain–Barré syndrome",1
+"Premier Long Term Care Pharm",Atherosclerosis,1
+"Prescription Hope",Total,16
+"Prescription Hope",Psoriasis,3
+"Prescription Hope","Anxiety disorder",2
+"Prescription Hope","Autoimmune diseases",2
+"Prescription Hope","Multiple sclerosis",2
+"Prescription Hope",Asthma,1
+"Prescription Hope","Crohn's disease",1
+"Prescription Hope","Guillain–Barré syndrome",1
+"Prescription Hope","Anorexia nervosa",1
+"Prescription Hope",Stroke,1
+"Prescription Hope","Thromboangiitis obliterans",1
+"Prescription Hope","Tourette syndrome",1
+"Prescription Lifeline",Total,19
+"Prescription Lifeline","Dilated cardiomyopathy",2
+"Prescription Lifeline",Stroke,2
+"Prescription Lifeline",Schizophrenia,2
+"Prescription Lifeline",Lupus,1
+"Prescription Lifeline","Metabolic syndrome",1
+"Prescription Lifeline","Myocardial infarction",1
+"Prescription Lifeline",Obesity,1
+"Prescription Lifeline","Panic disorder",1
+"Prescription Lifeline","Parkinson's disease",1
+"Prescription Lifeline",Psoriasis,1
+"Prescription Lifeline","Rheumatoid arthritis",1
+"Prescription Lifeline",Sarcoidosis,1
+"Prescription Lifeline","Attention deficit hyperactivity disorder",1
+"Prescription Lifeline","Thromboangiitis obliterans",1
+"Prescription Lifeline","Amyotrophic lateral sclerosis",1
+"Prescription Lifeline","Chronic fatigue syndrome",1
+"Pride Pharmacy",Total,19
+"Pride Pharmacy",Cancer,2
+"Pride Pharmacy","Chronic obstructive pulmonary disease",2
+"Pride Pharmacy","Coronary heart disease",2
+"Pride Pharmacy",Stroke,2
+"Pride Pharmacy","Anorexia nervosa",1
+"Pride Pharmacy",Asthma,1
+"Pride Pharmacy","Attention deficit hyperactivity disorder",1
+"Pride Pharmacy","Autoimmune diseases",1
+"Pride Pharmacy","Bipolar disorder",1
+"Pride Pharmacy","Chronic fatigue syndrome",1
+"Pride Pharmacy","Guillain–Barré syndrome",1
+"Pride Pharmacy","Irritable bowel syndrome",1
+"Pride Pharmacy","Myocardial infarction",1
+"Pride Pharmacy","Obsessive–compulsive disorder",1
+"Pride Pharmacy","Alzheimer's disease",1
+"Priority Pharmacy",Total,18
+"Priority Pharmacy","Amyotrophic lateral sclerosis",2
+"Priority Pharmacy","Chronic obstructive pulmonary disease",2
+"Priority Pharmacy","Anxiety disorder",1
+"Priority Pharmacy","Attention deficit hyperactivity disorder",1
+"Priority Pharmacy","Autoimmune diseases",1
+"Priority Pharmacy","Coronary heart disease",1
+"Priority Pharmacy","Diabetes mellitus type 2",1
+"Priority Pharmacy","Dilated cardiomyopathy",1
+"Priority Pharmacy","Guillain–Barré syndrome",1
+"Priority Pharmacy","Myocardial infarction",1
+"Priority Pharmacy",Obesity,1
+"Priority Pharmacy",Sarcoidosis,1
+"Priority Pharmacy","Tourette syndrome",1
+"Priority Pharmacy",Vasculitis,1
+"Priority Pharmacy","Multiple sclerosis",1
+"Priority Pharmacy",Lupus,1
+Protowell,Total,13
+Protowell,"Guillain–Barré syndrome",2
+Protowell,"Alzheimer's disease",1
+Protowell,"Amyotrophic lateral sclerosis",1
+Protowell,Atherosclerosis,1
+Protowell,"Attention deficit hyperactivity disorder",1
+Protowell,Depression,1
+Protowell,"Low back pain",1
+Protowell,"Metabolic syndrome",1
+Protowell,Obesity,1
+Protowell,"Obsessive–compulsive disorder",1
+Protowell,Epilepsy,1
+Protowell,"Dilated cardiomyopathy",1
+"Providence Plaza",Total,24
+"Providence Plaza","Amyotrophic lateral sclerosis",2
+"Providence Plaza","Autoimmune diseases",2
+"Providence Plaza",Obesity,2
+"Providence Plaza","Obsessive–compulsive disorder",2
+"Providence Plaza",Cancer,1
+"Providence Plaza","Chronic fatigue syndrome",1
+"Providence Plaza","Chronic obstructive pulmonary disease",1
+"Providence Plaza","Coronary heart disease",1
+"Providence Plaza","Crohn's disease",1
+"Providence Plaza",Depression,1
+"Providence Plaza","Diabetes mellitus type 1",1
+"Providence Plaza","Guillain–Barré syndrome",1
+"Providence Plaza","Low back pain",1
+"Providence Plaza","Anorexia nervosa",1
+"Providence Plaza","Anxiety disorder",1
+"Providence Plaza",Psoriasis,1
+"Providence Plaza",Sarcoidosis,1
+"Providence Plaza",Vasculitis,1
+"Providence Plaza",Autism,1
+"Providence Plaza","Bipolar disorder",1
+"Publix Pharmacy",Total,19
+"Publix Pharmacy",Atherosclerosis,2
+"Publix Pharmacy","Diabetes mellitus type 2",2
+"Publix Pharmacy",Lupus,2
+"Publix Pharmacy","Alzheimer's disease",2
+"Publix Pharmacy","Anorexia nervosa",1
+"Publix Pharmacy","Autoimmune diseases",1
+"Publix Pharmacy",Cancer,1
+"Publix Pharmacy","Chronic fatigue syndrome",1
+"Publix Pharmacy","Crohn's disease",1
+"Publix Pharmacy","Diabetes mellitus type 1",1
+"Publix Pharmacy",Epilepsy,1
+"Publix Pharmacy","Myocardial infarction",1
+"Publix Pharmacy","Parkinson's disease",1
+"Publix Pharmacy","Rheumatoid arthritis",1
+"Publix Pharmacy","Thromboangiitis obliterans",1
+"Pure Care Pharmacy",Total,14
+"Pure Care Pharmacy","Obsessive–compulsive disorder",3
+"Pure Care Pharmacy","Alzheimer's disease",2
+"Pure Care Pharmacy",Psoriasis,2
+"Pure Care Pharmacy",Dementia,1
+"Pure Care Pharmacy","Metabolic syndrome",1
+"Pure Care Pharmacy","Multiple sclerosis",1
+"Pure Care Pharmacy",Sarcoidosis,1
+"Pure Care Pharmacy",Stroke,1
+"Pure Care Pharmacy","Thromboangiitis obliterans",1
+"Pure Care Pharmacy",Vasculitis,1
+"Pure Life",Total,13
+"Pure Life","Autoimmune diseases",2
+"Pure Life","Panic disorder",2
+"Pure Life","Anxiety disorder",1
+"Pure Life",Cancer,1
+"Pure Life","Coronary heart disease",1
+"Pure Life","Low back pain",1
+"Pure Life",Lupus,1
+"Pure Life","Multiple sclerosis",1
+"Pure Life",Sarcoidosis,1
+"Pure Life",Stroke,1
+"Pure Life","Tourette syndrome",1
+RefillWise,Total,9
+RefillWise,"Chronic obstructive pulmonary disease",2
+RefillWise,"Anxiety disorder",1
+RefillWise,"Chronic fatigue syndrome",1
+RefillWise,"Diabetes mellitus type 2",1
+RefillWise,Lupus,1
+RefillWise,"Myocardial infarction",1
+RefillWise,Schizophrenia,1
+RefillWise,"Diabetes mellitus type 1",1
+"Rejuvva Drugs",Total,21
+"Rejuvva Drugs","Tourette syndrome",2
+"Rejuvva Drugs","Bipolar disorder",1
+"Rejuvva Drugs","Chronic fatigue syndrome",1
+"Rejuvva Drugs",Dementia,1
+"Rejuvva Drugs","Diabetes mellitus type 1",1
+"Rejuvva Drugs",Epilepsy,1
+"Rejuvva Drugs","Irritable bowel syndrome",1
+"Rejuvva Drugs","Low back pain",1
+"Rejuvva Drugs","Metabolic syndrome",1
+"Rejuvva Drugs","Myocardial infarction",1
+"Rejuvva Drugs",Obesity,1
+"Rejuvva Drugs","Obsessive–compulsive disorder",1
+"Rejuvva Drugs","Parkinson's disease",1
+"Rejuvva Drugs","Rheumatoid arthritis",1
+"Rejuvva Drugs",Sarcoidosis,1
+"Rejuvva Drugs",Stroke,1
+"Rejuvva Drugs","Anxiety disorder",1
+"Rejuvva Drugs",Vasculitis,1
+"Rejuvva Drugs",Asthma,1
+"Rejuvva Drugs","Attention deficit hyperactivity disorder",1
+"Reliable Pharmacy",Total,14
+"Reliable Pharmacy","Diabetes mellitus type 2",2
+"Reliable Pharmacy",Epilepsy,2
+"Reliable Pharmacy","Rheumatoid arthritis",2
+"Reliable Pharmacy","Attention deficit hyperactivity disorder",1
+"Reliable Pharmacy","Chronic obstructive pulmonary disease",1
+"Reliable Pharmacy","Diabetes mellitus type 1",1
+"Reliable Pharmacy","Irritable bowel syndrome",1
+"Reliable Pharmacy",Lupus,1
+"Reliable Pharmacy","Parkinson's disease",1
+"Reliable Pharmacy",Schizophrenia,1
+"Reliable Pharmacy","Autoimmune diseases",1
+"Reliable Rexall",Total,15
+"Reliable Rexall",Atherosclerosis,2
+"Reliable Rexall","Autoimmune diseases",2
+"Reliable Rexall",Dementia,2
+"Reliable Rexall","Rheumatoid arthritis",2
+"Reliable Rexall","Guillain–Barré syndrome",2
+"Reliable Rexall","Attention deficit hyperactivity disorder",1
+"Reliable Rexall","Chronic obstructive pulmonary disease",1
+"Reliable Rexall","Irritable bowel syndrome",1
+"Reliable Rexall",Psoriasis,1
+"Reliable Rexall",Sarcoidosis,1
+"Revco Discount Drugs",Total,19
+"Revco Discount Drugs",Depression,2
+"Revco Discount Drugs","Parkinson's disease",2
+"Revco Discount Drugs","Diabetes mellitus type 2",2
+"Revco Discount Drugs",Lupus,2
+"Revco Discount Drugs",Vasculitis,2
+"Revco Discount Drugs","Coronary heart disease",1
+"Revco Discount Drugs","Diabetes mellitus type 1",1
+"Revco Discount Drugs","Myocardial infarction",1
+"Revco Discount Drugs",Obesity,1
+"Revco Discount Drugs","Panic disorder",1
+"Revco Discount Drugs",Psoriasis,1
+"Revco Discount Drugs","Anxiety disorder",1
+"Revco Discount Drugs","Autoimmune diseases",1
+"Revco Discount Drugs","Chronic obstructive pulmonary disease",1
+"Right Drugs",Total,22
+"Right Drugs","Anxiety disorder",2
+"Right Drugs","Autoimmune diseases",2
+"Right Drugs","Diabetes mellitus type 2",2
+"Right Drugs","Tourette syndrome",2
+"Right Drugs","Anorexia nervosa",1
+"Right Drugs",Asthma,1
+"Right Drugs",Autism,1
+"Right Drugs","Chronic obstructive pulmonary disease",1
+"Right Drugs",Depression,1
+"Right Drugs","Diabetes mellitus type 1",1
+"Right Drugs","Irritable bowel syndrome",1
+"Right Drugs",Lupus,1
+"Right Drugs","Metabolic syndrome",1
+"Right Drugs","Myocardial infarction",1
+"Right Drugs","Rheumatoid arthritis",1
+"Right Drugs",Sarcoidosis,1
+"Right Drugs",Vasculitis,1
+"Right Drugs","Alzheimer's disease",1
+"Rite Aid",Total,21
+"Rite Aid","Low back pain",3
+"Rite Aid","Thromboangiitis obliterans",3
+"Rite Aid","Metabolic syndrome",2
+"Rite Aid",Cancer,1
+"Rite Aid","Chronic fatigue syndrome",1
+"Rite Aid",Dementia,1
+"Rite Aid","Diabetes mellitus type 1",1
+"Rite Aid",Epilepsy,1
+"Rite Aid","Myocardial infarction",1
+"Rite Aid",Obesity,1
+"Rite Aid","Rheumatoid arthritis",1
+"Rite Aid",Stroke,1
+"Rite Aid","Alzheimer's disease",1
+"Rite Aid","Tourette syndrome",1
+"Rite Aid",Asthma,1
+"Rite Aid",Atherosclerosis,1
+"Rocky’s Drug",Total,23
+"Rocky’s Drug","Rheumatoid arthritis",3
+"Rocky’s Drug",Cancer,2
+"Rocky’s Drug","Chronic fatigue syndrome",2
+"Rocky’s Drug","Anorexia nervosa",1
+"Rocky’s Drug","Anxiety disorder",1
+"Rocky’s Drug",Asthma,1
+"Rocky’s Drug",Atherosclerosis,1
+"Rocky’s Drug","Attention deficit hyperactivity disorder",1
+"Rocky’s Drug","Chronic obstructive pulmonary disease",1
+"Rocky’s Drug","Crohn's disease",1
+"Rocky’s Drug","Alzheimer's disease",1
+"Rocky’s Drug",Depression,1
+"Rocky’s Drug",Epilepsy,1
+"Rocky’s Drug","Metabolic syndrome",1
+"Rocky’s Drug",Obesity,1
+"Rocky’s Drug","Parkinson's disease",1
+"Rocky’s Drug",Dementia,1
+"Rocky’s Drug","Thromboangiitis obliterans",1
+"Rocky’s Drug",Schizophrenia,1
+"Roosevelt Clinic",Total,16
+"Roosevelt Clinic","Chronic fatigue syndrome",2
+"Roosevelt Clinic","Myocardial infarction",2
+"Roosevelt Clinic","Obsessive–compulsive disorder",2
+"Roosevelt Clinic","Alzheimer's disease",1
+"Roosevelt Clinic","Diabetes mellitus type 2",1
+"Roosevelt Clinic","Guillain–Barré syndrome",1
+"Roosevelt Clinic",Lupus,1
+"Roosevelt Clinic","Metabolic syndrome",1
+"Roosevelt Clinic","Anxiety disorder",1
+"Roosevelt Clinic",Atherosclerosis,1
+"Roosevelt Clinic",Stroke,1
+"Roosevelt Clinic",Autism,1
+"Roosevelt Clinic",Cancer,1
+"RX Express",Total,24
+"RX Express","Chronic obstructive pulmonary disease",2
+"RX Express",Asthma,2
+"RX Express","Low back pain",2
+"RX Express",Psoriasis,2
+"RX Express","Rheumatoid arthritis",2
+"RX Express",Autism,1
+"RX Express","Autoimmune diseases",1
+"RX Express","Bipolar disorder",1
+"RX Express","Crohn's disease",1
+"RX Express","Diabetes mellitus type 2",1
+"RX Express",Epilepsy,1
+"RX Express","Irritable bowel syndrome",1
+"RX Express","Anxiety disorder",1
+"RX Express",Obesity,1
+"RX Express",Sarcoidosis,1
+"RX Express",Schizophrenia,1
+"RX Express","Thromboangiitis obliterans",1
+"RX Express","Tourette syndrome",1
+"RX Express","Alzheimer's disease",1
+"RX Universal",Total,20
+"RX Universal",Dementia,2
+"RX Universal","Chronic obstructive pulmonary disease",2
+"RX Universal",Stroke,2
+"RX Universal","Bipolar disorder",1
+"RX Universal","Coronary heart disease",1
+"RX Universal","Attention deficit hyperactivity disorder",1
+"RX Universal",Depression,1
+"RX Universal","Diabetes mellitus type 1",1
+"RX Universal","Diabetes mellitus type 2",1
+"RX Universal","Irritable bowel syndrome",1
+"RX Universal",Lupus,1
+"RX Universal","Anxiety disorder",1
+"RX Universal","Rheumatoid arthritis",1
+"RX Universal",Schizophrenia,1
+"RX Universal","Chronic fatigue syndrome",1
+"RX Universal","Alzheimer's disease",1
+"RX Universal","Myocardial infarction",1
+RxToMe,Total,19
+RxToMe,"Crohn's disease",3
+RxToMe,Vasculitis,3
+RxToMe,"Panic disorder",2
+RxToMe,Dementia,2
+RxToMe,"Diabetes mellitus type 1",1
+RxToMe,"Dilated cardiomyopathy",1
+RxToMe,Epilepsy,1
+RxToMe,"Myocardial infarction",1
+RxToMe,Obesity,1
+RxToMe,"Attention deficit hyperactivity disorder",1
+RxToMe,Cancer,1
+RxToMe,"Chronic fatigue syndrome",1
+RxToMe,Depression,1
+Rxtra,Total,20
+Rxtra,Depression,2
+Rxtra,"Irritable bowel syndrome",2
+Rxtra,"Amyotrophic lateral sclerosis",2
+Rxtra,"Anorexia nervosa",1
+Rxtra,Asthma,1
+Rxtra,"Autoimmune diseases",1
+Rxtra,"Chronic obstructive pulmonary disease",1
+Rxtra,"Crohn's disease",1
+Rxtra,"Diabetes mellitus type 2",1
+Rxtra,"Metabolic syndrome",1
+Rxtra,"Myocardial infarction",1
+Rxtra,Obesity,1
+Rxtra,"Panic disorder",1
+Rxtra,"Parkinson's disease",1
+Rxtra,"Rheumatoid arthritis",1
+Rxtra,Sarcoidosis,1
+Rxtra,Stroke,1
+"Sand Point Pharmacy",Total,20
+"Sand Point Pharmacy","Irritable bowel syndrome",3
+"Sand Point Pharmacy","Attention deficit hyperactivity disorder",2
+"Sand Point Pharmacy","Bipolar disorder",2
+"Sand Point Pharmacy","Guillain–Barré syndrome",2
+"Sand Point Pharmacy","Obsessive–compulsive disorder",2
+"Sand Point Pharmacy",Atherosclerosis,1
+"Sand Point Pharmacy","Alzheimer's disease",1
+"Sand Point Pharmacy","Metabolic syndrome",1
+"Sand Point Pharmacy","Myocardial infarction",1
+"Sand Point Pharmacy","Anorexia nervosa",1
+"Sand Point Pharmacy","Panic disorder",1
+"Sand Point Pharmacy",Schizophrenia,1
+"Sand Point Pharmacy","Chronic obstructive pulmonary disease",1
+"Sand Point Pharmacy",Epilepsy,1
+Sav-On,Total,26
+Sav-On,"Myocardial infarction",3
+Sav-On,"Tourette syndrome",2
+Sav-On,"Diabetes mellitus type 2",2
+Sav-On,"Parkinson's disease",2
+Sav-On,"Amyotrophic lateral sclerosis",1
+Sav-On,"Anxiety disorder",1
+Sav-On,Asthma,1
+Sav-On,"Attention deficit hyperactivity disorder",1
+Sav-On,"Autoimmune diseases",1
+Sav-On,Cancer,1
+Sav-On,Epilepsy,1
+Sav-On,"Irritable bowel syndrome",1
+Sav-On,"Low back pain",1
+Sav-On,"Multiple sclerosis",1
+Sav-On,"Obsessive–compulsive disorder",1
+Sav-On,Psoriasis,1
+Sav-On,Schizophrenia,1
+Sav-On,"Thromboangiitis obliterans",1
+Sav-On,"Chronic fatigue syndrome",1
+Sav-On,"Alzheimer's disease",1
+Sav-On,Obesity,1
+ScriptSave,Total,15
+ScriptSave,"Myocardial infarction",2
+ScriptSave,"Anxiety disorder",2
+ScriptSave,Autism,1
+ScriptSave,"Bipolar disorder",1
+ScriptSave,Cancer,1
+ScriptSave,"Diabetes mellitus type 1",1
+ScriptSave,"Diabetes mellitus type 2",1
+ScriptSave,"Attention deficit hyperactivity disorder",1
+ScriptSave,"Panic disorder",1
+ScriptSave,Psoriasis,1
+ScriptSave,Schizophrenia,1
+ScriptSave,"Thromboangiitis obliterans",1
+ScriptSave,"Irritable bowel syndrome",1
+"ScriptSite Specialty",Total,20
+"ScriptSite Specialty","Metabolic syndrome",3
+"ScriptSite Specialty",Vasculitis,2
+"ScriptSite Specialty","Amyotrophic lateral sclerosis",1
+"ScriptSite Specialty","Anorexia nervosa",1
+"ScriptSite Specialty",Asthma,1
+"ScriptSite Specialty","Attention deficit hyperactivity disorder",1
+"ScriptSite Specialty","Chronic fatigue syndrome",1
+"ScriptSite Specialty",Depression,1
+"ScriptSite Specialty",Epilepsy,1
+"ScriptSite Specialty","Irritable bowel syndrome",1
+"ScriptSite Specialty","Low back pain",1
+"ScriptSite Specialty",Obesity,1
+"ScriptSite Specialty",Psoriasis,1
+"ScriptSite Specialty",Stroke,1
+"ScriptSite Specialty","Thromboangiitis obliterans",1
+"ScriptSite Specialty",Dementia,1
+"ScriptSite Specialty","Diabetes mellitus type 2",1
+"Sharp Specialty Pharmacy",Total,16
+"Sharp Specialty Pharmacy",Atherosclerosis,2
+"Sharp Specialty Pharmacy","Thromboangiitis obliterans",2
+"Sharp Specialty Pharmacy","Autoimmune diseases",2
+"Sharp Specialty Pharmacy","Anxiety disorder",1
+"Sharp Specialty Pharmacy","Coronary heart disease",1
+"Sharp Specialty Pharmacy","Crohn's disease",1
+"Sharp Specialty Pharmacy","Diabetes mellitus type 1",1
+"Sharp Specialty Pharmacy","Rheumatoid arthritis",1
+"Sharp Specialty Pharmacy",Schizophrenia,1
+"Sharp Specialty Pharmacy","Alzheimer's disease",1
+"Sharp Specialty Pharmacy","Tourette syndrome",1
+"Sharp Specialty Pharmacy","Anorexia nervosa",1
+"Sharp Specialty Pharmacy","Chronic fatigue syndrome",1
+"Simple Meds",Total,15
+"Simple Meds","Multiple sclerosis",3
+"Simple Meds","Thromboangiitis obliterans",2
+"Simple Meds",Cancer,1
+"Simple Meds","Coronary heart disease",1
+"Simple Meds",Dementia,1
+"Simple Meds",Lupus,1
+"Simple Meds","Myocardial infarction",1
+"Simple Meds",Obesity,1
+"Simple Meds",Psoriasis,1
+"Simple Meds","Anorexia nervosa",1
+"Simple Meds","Attention deficit hyperactivity disorder",1
+"Simple Meds","Bipolar disorder",1
+"Smart Pharmacy",Total,17
+"Smart Pharmacy",Depression,2
+"Smart Pharmacy",Vasculitis,2
+"Smart Pharmacy","Irritable bowel syndrome",2
+"Smart Pharmacy","Chronic fatigue syndrome",1
+"Smart Pharmacy","Chronic obstructive pulmonary disease",1
+"Smart Pharmacy","Crohn's disease",1
+"Smart Pharmacy","Diabetes mellitus type 1",1
+"Smart Pharmacy","Guillain–Barré syndrome",1
+"Smart Pharmacy","Parkinson's disease",1
+"Smart Pharmacy",Schizophrenia,1
+"Smart Pharmacy","Thromboangiitis obliterans",1
+"Smart Pharmacy",Epilepsy,1
+"Smart Pharmacy",Atherosclerosis,1
+"Smart Pharmacy","Amyotrophic lateral sclerosis",1
+"Southside Family Pharmacy",Total,21
+"Southside Family Pharmacy","Multiple sclerosis",3
+"Southside Family Pharmacy","Alzheimer's disease",2
+"Southside Family Pharmacy","Chronic fatigue syndrome",2
+"Southside Family Pharmacy",Depression,2
+"Southside Family Pharmacy",Autism,1
+"Southside Family Pharmacy","Coronary heart disease",1
+"Southside Family Pharmacy","Crohn's disease",1
+"Southside Family Pharmacy","Dilated cardiomyopathy",1
+"Southside Family Pharmacy","Guillain–Barré syndrome",1
+"Southside Family Pharmacy","Metabolic syndrome",1
+"Southside Family Pharmacy","Amyotrophic lateral sclerosis",1
+"Southside Family Pharmacy","Panic disorder",1
+"Southside Family Pharmacy",Psoriasis,1
+"Southside Family Pharmacy",Stroke,1
+"Southside Family Pharmacy","Anxiety disorder",1
+"Southside Family Pharmacy","Attention deficit hyperactivity disorder",1
+"Southwest Pharmacy",Total,18
+"Southwest Pharmacy","Autoimmune diseases",3
+"Southwest Pharmacy","Dilated cardiomyopathy",2
+"Southwest Pharmacy","Metabolic syndrome",2
+"Southwest Pharmacy",Vasculitis,2
+"Southwest Pharmacy",Asthma,1
+"Southwest Pharmacy",Autism,1
+"Southwest Pharmacy","Crohn's disease",1
+"Southwest Pharmacy","Alzheimer's disease",1
+"Southwest Pharmacy",Lupus,1
+"Southwest Pharmacy","Myocardial infarction",1
+"Southwest Pharmacy",Psoriasis,1
+"Southwest Pharmacy","Thromboangiitis obliterans",1
+"Southwest Pharmacy","Low back pain",1
+"Spot Rx",Total,20
+"Spot Rx","Amyotrophic lateral sclerosis",3
+"Spot Rx",Obesity,2
+"Spot Rx","Myocardial infarction",2
+"Spot Rx",Cancer,1
+"Spot Rx","Chronic obstructive pulmonary disease",1
+"Spot Rx",Depression,1
+"Spot Rx","Diabetes mellitus type 1",1
+"Spot Rx",Lupus,1
+"Spot Rx","Obsessive–compulsive disorder",1
+"Spot Rx",Psoriasis,1
+"Spot Rx",Sarcoidosis,1
+"Spot Rx",Schizophrenia,1
+"Spot Rx",Stroke,1
+"Spot Rx","Thromboangiitis obliterans",1
+"Spot Rx","Autoimmune diseases",1
+"Spot Rx","Bipolar disorder",1
+Sunwest,Total,20
+Sunwest,Psoriasis,4
+Sunwest,"Autoimmune diseases",2
+Sunwest,"Multiple sclerosis",2
+Sunwest,"Amyotrophic lateral sclerosis",1
+Sunwest,"Anxiety disorder",1
+Sunwest,"Bipolar disorder",1
+Sunwest,Cancer,1
+Sunwest,"Chronic obstructive pulmonary disease",1
+Sunwest,Depression,1
+Sunwest,"Diabetes mellitus type 1",1
+Sunwest,Epilepsy,1
+Sunwest,"Myocardial infarction",1
+Sunwest,Obesity,1
+Sunwest,"Rheumatoid arthritis",1
+Sunwest,"Alzheimer's disease",1
+"Sure Save",Total,13
+"Sure Save","Thromboangiitis obliterans",3
+"Sure Save","Autoimmune diseases",2
+"Sure Save",Dementia,1
+"Sure Save","Guillain–Barré syndrome",1
+"Sure Save",Lupus,1
+"Sure Save",Psoriasis,1
+"Sure Save","Dilated cardiomyopathy",1
+"Sure Save","Tourette syndrome",1
+"Sure Save","Chronic fatigue syndrome",1
+"Sure Save","Low back pain",1
+"The Chemist",Total,17
+"The Chemist","Anorexia nervosa",2
+"The Chemist","Anxiety disorder",1
+"The Chemist","Attention deficit hyperactivity disorder",1
+"The Chemist","Autoimmune diseases",1
+"The Chemist","Chronic fatigue syndrome",1
+"The Chemist","Crohn's disease",1
+"The Chemist",Dementia,1
+"The Chemist","Multiple sclerosis",1
+"The Chemist","Myocardial infarction",1
+"The Chemist",Obesity,1
+"The Chemist","Obsessive–compulsive disorder",1
+"The Chemist","Parkinson's disease",1
+"The Chemist","Rheumatoid arthritis",1
+"The Chemist",Schizophrenia,1
+"The Chemist","Tourette syndrome",1
+"The Chemist","Irritable bowel syndrome",1
+"The Compounding Pharmacy",Total,15
+"The Compounding Pharmacy",Autism,2
+"The Compounding Pharmacy",Schizophrenia,2
+"The Compounding Pharmacy","Crohn's disease",1
+"The Compounding Pharmacy",Dementia,1
+"The Compounding Pharmacy","Irritable bowel syndrome",1
+"The Compounding Pharmacy","Metabolic syndrome",1
+"The Compounding Pharmacy","Panic disorder",1
+"The Compounding Pharmacy","Parkinson's disease",1
+"The Compounding Pharmacy",Sarcoidosis,1
+"The Compounding Pharmacy","Anorexia nervosa",1
+"The Compounding Pharmacy","Tourette syndrome",1
+"The Compounding Pharmacy",Asthma,1
+"The Compounding Pharmacy","Chronic fatigue syndrome",1
+"The Downtown Dispensary",Total,12
+"The Downtown Dispensary",Schizophrenia,2
+"The Downtown Dispensary","Tourette syndrome",2
+"The Downtown Dispensary",Autism,1
+"The Downtown Dispensary","Autoimmune diseases",1
+"The Downtown Dispensary","Diabetes mellitus type 1",1
+"The Downtown Dispensary","Low back pain",1
+"The Downtown Dispensary","Multiple sclerosis",1
+"The Downtown Dispensary",Obesity,1
+"The Downtown Dispensary",Sarcoidosis,1
+"The Downtown Dispensary","Attention deficit hyperactivity disorder",1
+"The Pill Club",Total,14
+"The Pill Club","Rheumatoid arthritis",2
+"The Pill Club",Atherosclerosis,2
+"The Pill Club",Asthma,1
+"The Pill Club","Attention deficit hyperactivity disorder",1
+"The Pill Club","Bipolar disorder",1
+"The Pill Club",Cancer,1
+"The Pill Club","Chronic obstructive pulmonary disease",1
+"The Pill Club",Epilepsy,1
+"The Pill Club",Lupus,1
+"The Pill Club","Tourette syndrome",1
+"The Pill Club","Diabetes mellitus type 2",1
+"The Pill Club","Anxiety disorder",1
+"The Rx Advocates",Total,23
+"The Rx Advocates",Autism,4
+"The Rx Advocates","Dilated cardiomyopathy",2
+"The Rx Advocates",Stroke,2
+"The Rx Advocates","Tourette syndrome",2
+"The Rx Advocates","Anxiety disorder",1
+"The Rx Advocates",Atherosclerosis,1
+"The Rx Advocates","Attention deficit hyperactivity disorder",1
+"The Rx Advocates","Autoimmune diseases",1
+"The Rx Advocates","Chronic obstructive pulmonary disease",1
+"The Rx Advocates","Coronary heart disease",1
+"The Rx Advocates",Depression,1
+"The Rx Advocates","Diabetes mellitus type 2",1
+"The Rx Advocates","Amyotrophic lateral sclerosis",1
+"The Rx Advocates",Obesity,1
+"The Rx Advocates","Parkinson's disease",1
+"The Rx Advocates","Rheumatoid arthritis",1
+"The Rx Advocates","Low back pain",1
+"Thrifty Way Pharmacy",Total,18
+"Thrifty Way Pharmacy","Diabetes mellitus type 2",2
+"Thrifty Way Pharmacy","Tourette syndrome",2
+"Thrifty Way Pharmacy","Bipolar disorder",1
+"Thrifty Way Pharmacy",Cancer,1
+"Thrifty Way Pharmacy","Chronic fatigue syndrome",1
+"Thrifty Way Pharmacy","Chronic obstructive pulmonary disease",1
+"Thrifty Way Pharmacy","Crohn's disease",1
+"Thrifty Way Pharmacy",Epilepsy,1
+"Thrifty Way Pharmacy","Guillain–Barré syndrome",1
+"Thrifty Way Pharmacy",Obesity,1
+"Thrifty Way Pharmacy","Panic disorder",1
+"Thrifty Way Pharmacy",Sarcoidosis,1
+"Thrifty Way Pharmacy",Schizophrenia,1
+"Thrifty Way Pharmacy",Autism,1
+"Thrifty Way Pharmacy",Asthma,1
+"Thrifty Way Pharmacy","Autoimmune diseases",1
+"Trinity Pharmacy",Total,18
+"Trinity Pharmacy",Atherosclerosis,2
+"Trinity Pharmacy","Dilated cardiomyopathy",2
+"Trinity Pharmacy","Amyotrophic lateral sclerosis",1
+"Trinity Pharmacy","Anxiety disorder",1
+"Trinity Pharmacy","Attention deficit hyperactivity disorder",1
+"Trinity Pharmacy",Autism,1
+"Trinity Pharmacy","Autoimmune diseases",1
+"Trinity Pharmacy",Cancer,1
+"Trinity Pharmacy","Coronary heart disease",1
+"Trinity Pharmacy","Crohn's disease",1
+"Trinity Pharmacy","Multiple sclerosis",1
+"Trinity Pharmacy","Obsessive–compulsive disorder",1
+"Trinity Pharmacy",Psoriasis,1
+"Trinity Pharmacy","Rheumatoid arthritis",1
+"Trinity Pharmacy","Tourette syndrome",1
+"Trinity Pharmacy","Alzheimer's disease",1
+"Tru Script",Total,12
+"Tru Script",Asthma,2
+"Tru Script","Rheumatoid arthritis",2
+"Tru Script","Crohn's disease",1
+"Tru Script","Diabetes mellitus type 1",1
+"Tru Script","Dilated cardiomyopathy",1
+"Tru Script","Myocardial infarction",1
+"Tru Script","Parkinson's disease",1
+"Tru Script","Thromboangiitis obliterans",1
+"Tru Script","Diabetes mellitus type 2",1
+"Tru Script",Autism,1
+"True Pill",Total,24
+"True Pill","Crohn's disease",2
+"True Pill","Diabetes mellitus type 1",2
+"True Pill",Epilepsy,2
+"True Pill","Thromboangiitis obliterans",2
+"True Pill","Alzheimer's disease",2
+"True Pill",Atherosclerosis,1
+"True Pill","Attention deficit hyperactivity disorder",1
+"True Pill",Autism,1
+"True Pill","Bipolar disorder",1
+"True Pill",Cancer,1
+"True Pill","Chronic obstructive pulmonary disease",1
+"True Pill","Coronary heart disease",1
+"True Pill","Dilated cardiomyopathy",1
+"True Pill","Irritable bowel syndrome",1
+"True Pill","Parkinson's disease",1
+"True Pill","Rheumatoid arthritis",1
+"True Pill",Stroke,1
+"True Pill",Vasculitis,1
+"True Pill",Obesity,1
+"Union Center Pharmacy",Total,19
+"Union Center Pharmacy","Irritable bowel syndrome",2
+"Union Center Pharmacy","Obsessive–compulsive disorder",2
+"Union Center Pharmacy",Vasculitis,2
+"Union Center Pharmacy","Amyotrophic lateral sclerosis",2
+"Union Center Pharmacy","Dilated cardiomyopathy",1
+"Union Center Pharmacy","Anxiety disorder",1
+"Union Center Pharmacy","Metabolic syndrome",1
+"Union Center Pharmacy",Autism,1
+"Union Center Pharmacy","Parkinson's disease",1
+"Union Center Pharmacy",Psoriasis,1
+"Union Center Pharmacy",Sarcoidosis,1
+"Union Center Pharmacy","Thromboangiitis obliterans",1
+"Union Center Pharmacy","Autoimmune diseases",1
+"Union Center Pharmacy","Coronary heart disease",1
+"Union Center Pharmacy","Diabetes mellitus type 2",1
+"University Pharmacy",Total,15
+"University Pharmacy","Diabetes mellitus type 2",2
+"University Pharmacy",Cancer,1
+"University Pharmacy","Chronic obstructive pulmonary disease",1
+"University Pharmacy","Coronary heart disease",1
+"University Pharmacy","Crohn's disease",1
+"University Pharmacy","Diabetes mellitus type 1",1
+"University Pharmacy","Metabolic syndrome",1
+"University Pharmacy",Obesity,1
+"University Pharmacy","Obsessive–compulsive disorder",1
+"University Pharmacy",Psoriasis,1
+"University Pharmacy","Thromboangiitis obliterans",1
+"University Pharmacy","Tourette syndrome",1
+"University Pharmacy","Bipolar disorder",1
+"University Pharmacy","Autoimmune diseases",1
+"Vista Pharmacy",Total,17
+"Vista Pharmacy","Myocardial infarction",3
+"Vista Pharmacy",Epilepsy,2
+"Vista Pharmacy","Thromboangiitis obliterans",2
+"Vista Pharmacy","Anorexia nervosa",1
+"Vista Pharmacy",Atherosclerosis,1
+"Vista Pharmacy","Bipolar disorder",1
+"Vista Pharmacy","Coronary heart disease",1
+"Vista Pharmacy","Diabetes mellitus type 2",1
+"Vista Pharmacy","Guillain–Barré syndrome",1
+"Vista Pharmacy","Parkinson's disease",1
+"Vista Pharmacy",Psoriasis,1
+"Vista Pharmacy","Rheumatoid arthritis",1
+"Vista Pharmacy",Schizophrenia,1
+Vitasource,Total,16
+Vitasource,"Multiple sclerosis",3
+Vitasource,"Anorexia nervosa",2
+Vitasource,Lupus,2
+Vitasource,"Alzheimer's disease",1
+Vitasource,"Attention deficit hyperactivity disorder",1
+Vitasource,Autism,1
+Vitasource,"Crohn's disease",1
+Vitasource,"Myocardial infarction",1
+Vitasource,"Obsessive–compulsive disorder",1
+Vitasource,"Parkinson's disease",1
+Vitasource,"Rheumatoid arthritis",1
+Vitasource,Depression,1
+Wellcare,Total,12
+Wellcare,"Thromboangiitis obliterans",2
+Wellcare,Asthma,1
+Wellcare,"Autoimmune diseases",1
+Wellcare,"Bipolar disorder",1
+Wellcare,"Chronic obstructive pulmonary disease",1
+Wellcare,"Coronary heart disease",1
+Wellcare,"Anxiety disorder",1
+Wellcare,"Metabolic syndrome",1
+Wellcare,"Myocardial infarction",1
+Wellcare,Vasculitis,1
+Wellcare,"Irritable bowel syndrome",1
+Wellfresh,Total,14
+Wellfresh,"Coronary heart disease",2
+Wellfresh,Atherosclerosis,1
+Wellfresh,"Bipolar disorder",1
+Wellfresh,Dementia,1
+Wellfresh,"Diabetes mellitus type 1",1
+Wellfresh,Epilepsy,1
+Wellfresh,"Guillain–Barré syndrome",1
+Wellfresh,Obesity,1
+Wellfresh,"Panic disorder",1
+Wellfresh,"Tourette syndrome",1
+Wellfresh,Vasculitis,1
+Wellfresh,"Alzheimer's disease",1
+Wellfresh,Asthma,1
+"Wellman’s Pharmacy",Total,17
+"Wellman’s Pharmacy",Atherosclerosis,2
+"Wellman’s Pharmacy","Diabetes mellitus type 1",2
+"Wellman’s Pharmacy","Bipolar disorder",1
+"Wellman’s Pharmacy",Cancer,1
+"Wellman’s Pharmacy",Dementia,1
+"Wellman’s Pharmacy","Dilated cardiomyopathy",1
+"Wellman’s Pharmacy","Metabolic syndrome",1
+"Wellman’s Pharmacy","Multiple sclerosis",1
+"Wellman’s Pharmacy","Myocardial infarction",1
+"Wellman’s Pharmacy","Panic disorder",1
+"Wellman’s Pharmacy",Psoriasis,1
+"Wellman’s Pharmacy",Schizophrenia,1
+"Wellman’s Pharmacy",Vasculitis,1
+"Wellman’s Pharmacy","Alzheimer's disease",1
+"Wellman’s Pharmacy","Amyotrophic lateral sclerosis",1
+"Wellness Craft",Total,19
+"Wellness Craft","Coronary heart disease",3
+"Wellness Craft","Diabetes mellitus type 1",3
+"Wellness Craft","Chronic obstructive pulmonary disease",2
+"Wellness Craft","Panic disorder",2
+"Wellness Craft","Rheumatoid arthritis",2
+"Wellness Craft","Low back pain",1
+"Wellness Craft","Multiple sclerosis",1
+"Wellness Craft","Parkinson's disease",1
+"Wellness Craft",Schizophrenia,1
+"Wellness Craft","Attention deficit hyperactivity disorder",1
+"Wellness Craft","Tourette syndrome",1
+"Wellness Craft","Thromboangiitis obliterans",1
+"Wellness RX",Total,25
+"Wellness RX",Atherosclerosis,3
+"Wellness RX",Lupus,3
+"Wellness RX","Panic disorder",2
+"Wellness RX","Attention deficit hyperactivity disorder",2
+"Wellness RX","Bipolar disorder",2
+"Wellness RX","Diabetes mellitus type 1",2
+"Wellness RX","Diabetes mellitus type 2",2
+"Wellness RX","Rheumatoid arthritis",2
+"Wellness RX","Guillain–Barré syndrome",1
+"Wellness RX","Metabolic syndrome",1
+"Wellness RX","Parkinson's disease",1
+"Wellness RX","Anxiety disorder",1
+"Wellness RX","Tourette syndrome",1
+"Wellness RX","Coronary heart disease",1
+"Wellness RX",Autism,1
+Wellocity,Total,20
+Wellocity,"Diabetes mellitus type 1",2
+Wellocity,"Diabetes mellitus type 2",2
+Wellocity,"Anorexia nervosa",2
+Wellocity,"Anxiety disorder",1
+Wellocity,Asthma,1
+Wellocity,Atherosclerosis,1
+Wellocity,"Attention deficit hyperactivity disorder",1
+Wellocity,"Autoimmune diseases",1
+Wellocity,"Bipolar disorder",1
+Wellocity,"Chronic fatigue syndrome",1
+Wellocity,"Crohn's disease",1
+Wellocity,"Guillain–Barré syndrome",1
+Wellocity,"Multiple sclerosis",1
+Wellocity,"Myocardial infarction",1
+Wellocity,Stroke,1
+Wellocity,"Thromboangiitis obliterans",1
+Wellocity,"Tourette syndrome",1
+Wellpharma,Total,18
+Wellpharma,"Bipolar disorder",2
+Wellpharma,Asthma,1
+Wellpharma,Atherosclerosis,1
+Wellpharma,Autism,1
+Wellpharma,"Autoimmune diseases",1
+Wellpharma,Depression,1
+Wellpharma,"Irritable bowel syndrome",1
+Wellpharma,"Low back pain",1
+Wellpharma,Lupus,1
+Wellpharma,"Multiple sclerosis",1
+Wellpharma,"Rheumatoid arthritis",1
+Wellpharma,Schizophrenia,1
+Wellpharma,"Thromboangiitis obliterans",1
+Wellpharma,"Tourette syndrome",1
+Wellpharma,Vasculitis,1
+Wellpharma,"Anorexia nervosa",1
+Wellpharma,"Anxiety disorder",1
+"Wellport Drugs",Total,16
+"Wellport Drugs","Crohn's disease",3
+"Wellport Drugs",Epilepsy,2
+"Wellport Drugs","Parkinson's disease",2
+"Wellport Drugs","Autoimmune diseases",1
+"Wellport Drugs","Bipolar disorder",1
+"Wellport Drugs","Dilated cardiomyopathy",1
+"Wellport Drugs","Multiple sclerosis",1
+"Wellport Drugs","Rheumatoid arthritis",1
+"Wellport Drugs",Stroke,1
+"Wellport Drugs","Anorexia nervosa",1
+"Wellport Drugs",Vasculitis,1
+"Wellport Drugs","Thromboangiitis obliterans",1
+Welltrack,Total,20
+Welltrack,"Low back pain",3
+Welltrack,"Chronic obstructive pulmonary disease",2
+Welltrack,"Diabetes mellitus type 1",2
+Welltrack,Sarcoidosis,2
+Welltrack,"Tourette syndrome",2
+Welltrack,Cancer,1
+Welltrack,"Chronic fatigue syndrome",1
+Welltrack,"Panic disorder",1
+Welltrack,"Anxiety disorder",1
+Welltrack,Stroke,1
+Welltrack,"Thromboangiitis obliterans",1
+Welltrack,"Coronary heart disease",1
+Welltrack,Depression,1
+Welltrack,"Anorexia nervosa",1
+Wellwise,Total,15
+Wellwise,Atherosclerosis,2
+Wellwise,"Attention deficit hyperactivity disorder",2
+Wellwise,"Chronic obstructive pulmonary disease",2
+Wellwise,Asthma,1
+Wellwise,"Crohn's disease",1
+Wellwise,Dementia,1
+Wellwise,"Dilated cardiomyopathy",1
+Wellwise,Lupus,1
+Wellwise,"Multiple sclerosis",1
+Wellwise,"Myocardial infarction",1
+Wellwise,Vasculitis,1
+Wellwise,"Anorexia nervosa",1
+"White Pigeon Pharmacy",Total,18
+"White Pigeon Pharmacy",Stroke,2
+"White Pigeon Pharmacy",Vasculitis,2
+"White Pigeon Pharmacy","Diabetes mellitus type 2",1
+"White Pigeon Pharmacy","Guillain–Barré syndrome",1
+"White Pigeon Pharmacy","Irritable bowel syndrome",1
+"White Pigeon Pharmacy","Low back pain",1
+"White Pigeon Pharmacy","Multiple sclerosis",1
+"White Pigeon Pharmacy","Panic disorder",1
+"White Pigeon Pharmacy","Parkinson's disease",1
+"White Pigeon Pharmacy","Rheumatoid arthritis",1
+"White Pigeon Pharmacy",Sarcoidosis,1
+"White Pigeon Pharmacy",Schizophrenia,1
+"White Pigeon Pharmacy","Anxiety disorder",1
+"White Pigeon Pharmacy","Autoimmune diseases",1
+"White Pigeon Pharmacy","Chronic fatigue syndrome",1
+"White Pigeon Pharmacy",Cancer,1
+Zenrx,Total,8
+Zenrx,"Autoimmune diseases",1
+Zenrx,"Crohn's disease",1
+Zenrx,Depression,1
+Zenrx,"Diabetes mellitus type 2",1
+Zenrx,"Multiple sclerosis",1
+Zenrx,Psoriasis,1
+Zenrx,Schizophrenia,1
+Zenrx,Autism,1

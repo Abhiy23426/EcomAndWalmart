@@ -1,0 +1,36 @@
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op1 --export-dir '/user/hive/warehouse/ecom_op/op1'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op2 --export-dir '/user/hive/warehouse/ecom_op/op2'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op3 --export-dir '/user/hive/warehouse/ecom_op/op3	'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op4_1 --export-dir '/user/hive/warehouse/ecom_op/op4_1'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op4_3 --export-dir '/user/hive/warehouse/ecom_op/op4_3'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op4_5 --export-dir '/user/hive/warehouse/ecom_op/op4_5'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op5_1 --export-dir '/user/hive/warehouse/ecom_op/op5_1'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op5_2 --export-dir '/user/hive/warehouse/ecom_op/op5_2' --input-null-string '\\N' --input-null-non-string '\\N'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op6 --export-dir '/user/hive/warehouse/ecom_op/op6'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op7_1 --export-dir '/user/hive/warehouse/ecom_op/op7_1'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op7_2 --export-dir '/user/hive/warehouse/ecom_op/op7_2'
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op8_1 --export-dir '/user/hive/warehouse/ecom_op/op8_1'
+
+
+sqoop export --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --table op8_2 --export-dir '/user/hive/warehouse/ecom_op/op8_2'

@@ -1,0 +1,17 @@
+state,count(personID),"count( distinct patientID)"
+AK,144,52
+AL,182,79
+AR,159,67
+AZ,165,63
+CA,254,115
+CO,185,76
+CT,173,66
+DC,181,76
+FL,170,75
+GA,173,73
+KY,140,57
+MA,155,57
+MD,142,60
+OK,140,65
+TN,149,79
+VT,166,66

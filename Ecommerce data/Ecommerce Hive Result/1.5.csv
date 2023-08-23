@@ -1,0 +1,214 @@
+pharmacyID,pharmacyName,Min_Prescribe,Max_Prescribe,Avg_Prescribe
+9403,"Pharmaca Integrative",2,12,5
+1891,Welltrack,1,12,5
+2426,"Lifeshave Pharmacy",3,11,5
+2449,"Simple Meds",1,11,5
+2836,"Discount Drug Mart",1,11,5
+5947,"Union Center Pharmacy",1,11,5
+5976,"Pride Pharmacy",1,11,5
+8549,"Cash Saver Pharmacy",1,11,5
+9239,ScriptSave,1,11,5
+4137,MedOne,1,10,5
+4922,Crossroads,1,10,5
+5564,"Publix Pharmacy",1,10,5
+6717,"DFW Wellness",1,10,5
+4025,"Keystone Pharmacy",2,9,5
+1293,"Fry’s Pharmacy",1,9,5
+3628,"Midtown Express",1,9,5
+4251,Sav-On,1,9,5
+5834,"Vista Pharmacy",1,9,5
+7182,"Health Hexa Drugs",1,9,5
+1008,MobiMeds,1,13,4
+7357,MedShoppe,1,13,4
+9517,"Pharmacy Partners",1,13,4
+3563,Vitasource,1,12,4
+3570,"Pill Pack",1,12,4
+3651,"Good RX",1,12,4
+5929,"Alliance Community",1,12,4
+6931,Wellpharma,1,12,4
+7016,"Southside Family Pharmacy",1,12,4
+8891,Neighbors,1,12,4
+1731,"Thrifty Way Pharmacy",1,11,4
+1795,"Pure Life",1,11,4
+2218,Heallergy,1,11,4
+2245,Rxtra,1,11,4
+2593,"Health Harvest",1,11,4
+3176,"Essential Pharmacy",1,11,4
+3253,Omnicare,1,11,4
+4269,"Cardinal Health",1,11,4
+4636,"Hometown Pharmacy Services",1,11,4
+4827,"Northwest Pharmacy",1,11,4
+5058,"Bio Scrip",1,11,4
+5531,Wellocity,1,11,4
+5565,"Health Hub",1,11,4
+5658,Goodness,1,11,4
+7637,"City Drug",1,11,4
+7985,Centrico,1,11,4
+8265,"Pharmacy Alliance",1,11,4
+8442,"Wellman’s Pharmacy",1,11,4
+8795,"Rejuvva Drugs",1,11,4
+8852,"Envolve Health",1,11,4
+9139,"Revco Discount Drugs",1,11,4
+9169,"Lowry’s Prescriptions",1,11,4
+9296,"Gem Drugs",1,11,4
+9405,"Priority Pharmacy",1,11,4
+9647,"Covenant Pharmacy",2,10,4
+9707,"Better You",2,10,4
+1574,"ScriptSite Specialty",1,10,4
+1609,"The Compounding Pharmacy",1,10,4
+1755,"Health Warehouse",1,10,4
+1987,Healthbest,1,10,4
+2906,"Powerhouse Pharmacy",1,10,4
+3104,"Louis And Clark Drug",1,10,4
+3348,MedMinder,1,10,4
+3703,"Bioplus Specialty",1,10,4
+4707,"Lakeside Pharmacy",1,10,4
+4891,Medisuite,1,10,4
+4996,"Banks Apothecary",1,10,4
+5100,"Eastlake Pharmacy",1,10,4
+5144,"Northwest Medication Management",1,10,4
+5246,"Better Life",1,10,4
+5598,"Southwest Pharmacy",1,10,4
+6004,"Longhorn Pharmacy",1,10,4
+6029,"Northport Pharmacy",1,10,4
+6576,"Care Pharmacy",1,10,4
+6728,"GoGo Meds",1,10,4
+6971,"Hearty Mart",1,10,4
+6984,"Gateway Medical",1,10,4
+7085,"Community Pharmacy",1,10,4
+7202,"Essura Pharmacy",1,10,4
+7454,"The Pill Club",1,10,4
+7887,"The Rx Advocates",1,10,4
+7999,"Cherry Street Pharmacy",1,10,4
+8142,"RX Universal",1,10,4
+8320,"Adams Drugs",1,10,4
+8737,"RX Express",1,10,4
+8824,"Holloway Pharmacy",1,10,4
+8910,"Pure Care Pharmacy",1,10,4
+9324,"Geneva Woods",1,10,4
+9325,"Sharp Specialty Pharmacy",1,10,4
+9790,"Wellness Craft",1,10,4
+1149,"Modern Health",2,9,4
+2821,Wellfresh,2,9,4
+2847,"Smart Pharmacy",2,9,4
+1145,"Spot Rx",1,9,4
+1248,"New Era",1,9,4
+1332,"Rite Aid",1,9,4
+1354,HealthMart,1,9,4
+1396,"Sand Point Pharmacy",1,9,4
+1478,Pocketpills,1,9,4
+1584,Sunwest,1,9,4
+1624,Caremark,1,9,4
+1724,Mediserv,1,9,4
+1882,PersonalRX,1,9,4
+1925,"Everyday Drugs",1,9,4
+2060,"Prescription Hope",1,9,4
+2209,"Blink Health",1,9,4
+2301,HealthDirect,1,9,4
+2356,RxToMe,1,9,4
+2416,"Max Health",1,9,4
+2640,"Dutchtown Pharmacy",1,9,4
+2822,"Fisher Pharmacy & Gifts",1,9,4
+3303,"Reliable Pharmacy",1,9,4
+3469,"Concord Pharmacy",1,9,4
+3536,"Outpatient Pharmacy",1,9,4
+3673,"Pharmacy Express",1,9,4
+3724,"Pearl River Pharmacy",1,9,4
+3803,"First Care Rx",1,9,4
+3810,"Trinity Pharmacy",1,9,4
+4326,Pharmanic,1,9,4
+4380,"Healthy Floyds",1,9,4
+4647,Goodstart,1,9,4
+4866,"Pacific Medical",1,9,4
+4905,"Cedra Pharmacy",1,9,4
+4938,"University Pharmacy",1,9,4
+5155,"Guardian Pharmacy",1,9,4
+5200,"Heartland Pharmacy",1,9,4
+5294,"The Chemist",1,9,4
+5350,"Health Element",1,9,4
+5403,"Confidential Drug",1,9,4
+5450,"Reliable Rexall",1,9,4
+5527,"Providence Plaza",1,9,4
+5605,"Compass Health Care",1,9,4
+5644,"Dakota Drug",1,9,4
+5659,"True Pill",1,9,4
+5683,"Med-X Drug",1,9,4
+5904,Neighborcare,1,9,4
+5960,CareFirst,1,9,4
+6194,"Bartell Drugs",1,9,4
+6444,Postmeds,1,9,4
+6706,"Acculife Drug Stores",1,9,4
+6840,"First Hill Pharmacy",1,9,4
+6847,"Globe Pharmacy",1,9,4
+6863,Wellcare,1,9,4
+6914,"Prescription Lifeline",1,9,4
+6998,Healthlink,1,9,4
+7435,"Good Life Rx",1,9,4
+7448,"Central Drug Store",1,9,4
+7472,"Absolute Care",1,9,4
+7683,Lifezest,1,9,4
+7701,Protowell,1,9,4
+7865,OptumRx,1,9,4
+8109,"Premier Long Term Care Pharm",1,9,4
+8184,Apotheco,1,9,4
+8315,RefillWise,1,9,4
+8404,"Atlas Drugs",1,9,4
+8594,"Right Drugs",1,9,4
+8628,Zenrx,1,9,4
+8760,"Discount Drugs",1,9,4
+8897,MedSavvy,1,9,4
+8911,"Assured Rx",1,9,4
+8933,"Cashway Pharmacy",1,9,4
+9010,"Pavilions Pharmacy",1,9,4
+9580,"Health Corner",1,9,4
+9645,"Frost Medical Pharmacy",1,9,4
+9659,"Express Scripts",1,9,4
+9681,"Be Well",1,9,4
+9800,"Maplewood Pharmacy",1,9,4
+9938,MedImpact,1,9,4
+9999,"Planet Health",1,9,4
+1204,"Family Drug Mart",1,8,4
+1386,GenScripts,1,8,4
+1570,"White Pigeon Pharmacy",1,8,4
+1628,"IDL Drug Stores",1,8,4
+1766,"Pharma Best",1,8,4
+2066,"Drug Blend",1,8,4
+2165,"Wellness RX",1,8,4
+2563,PharmaMed,1,8,4
+2843,"Pharma Street",1,8,4
+3287,"Ally Scripts",1,8,4
+3352,Wellwise,1,8,4
+3515,"Wellport Drugs",1,8,4
+3831,"Health Mart",1,8,4
+4106,"Central Rx",1,8,4
+4221,"Below Drug",1,8,4
+4663,"Tru Script",1,8,4
+4749,Lifechek,1,8,4
+5271,"Eastside Pharmacy and Compounding",1,8,4
+5381,"Pharma First",1,8,4
+5480,"Kerr Drug",1,8,4
+5626,"Doc Your Dose Pharmacy",1,8,4
+5866,Carepoint,1,8,4
+5953,"Brennen Drugs Co",1,8,4
+6018,"Jack’s Discount Pharmacy",1,8,4
+6305,"First Pharmacy",1,8,4
+6330,"North East Pharmacy",1,8,4
+6611,Medlife,1,8,4
+6674,"The Downtown Dispensary",1,8,4
+6957,"Express Food & Pharmacy",1,8,4
+7532,"Sure Save",1,8,4
+7649,"Friends & Family Pharmacy",1,8,4
+7759,"Beyond Health",1,8,4
+8173,"Innovia Drug Stores",1,8,4
+8349,"Grand Medicine",1,8,4
+8669,"Greensburg Family Pharmacy",1,8,4
+8829,"Lyfe Pharmacy",1,8,4
+8982,"Roosevelt Clinic",1,8,4
+9255,PrecisionMed,1,8,4
+9387,"Rocky’s Drug",1,8,4
+9675,"Customceutical Compounding",1,8,4
+9869,"Health Aura",1,8,4
+1194,"Foundation Care",1,7,4
+3799,"Newday Drug Store",1,7,4
+8718,"Family Fare",1,7,4
+9969,"Good Neighbor Pharmacy",1,7,4

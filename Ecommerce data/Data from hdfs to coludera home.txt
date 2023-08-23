@@ -1,0 +1,23 @@
+hdfs dfs -get /user/hive/warehouse/ecom_op/op1/000000_0 /home/cloudera/op1.csv
+
+
+
+
+
+hdfs dfs -get /user/hive/warehouse/ecom_op/op2/000000_0 /home/cloudera/op2.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op3/000000_0 /home/cloudera/op3.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op4_1/000000_0 /home/cloudera/op4_1.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op4_3/000000_0 /home/cloudera/op4_3.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op4_5/000000_0 /home/cloudera/op4_5.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op5_1/000000_0 /home/cloudera/op5_1.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op5_2/000000_0 /home/cloudera/op5_2.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op6/000000_0 /home/cloudera/op6.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op7_1/000000_0 /home/cloudera/op7_1.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op7_2/000000_0 /home/cloudera/op7_2.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op8_1/000000_0 /home/cloudera/op8_1.csv
+hdfs dfs -get /user/hive/warehouse/ecom_op/op8_2/000000_0 /home/cloudera/op8_2.csv
+
+
+
+
+

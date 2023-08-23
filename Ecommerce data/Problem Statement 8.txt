@@ -1,0 +1,21 @@
+Problem Statement 8:
+
+Which city buys heavy weight products and low weight products?
+How much products sold within seller state?
+
+
+select avg(product_weight) from ecom_data_orc;
+== 2018
+
+
+create external table op8_1(city string, state string, weight_category string) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op8_1';
+
+insert overwrite table op8_1
+select customer_city,customer_state, if (avg(product_weight)  >2018 , 'Heavy_Weight', 'Low_Weight') from ecom_data_orc group by customer_city, customer_state;
+
+
+
+create external table op8_2(state string, order_count int ) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op8_2';
+
+insert overwrite table op8_2 
+select seller_state ,count(distinct order_id) from ecom_data where seller_state = customer_state group by seller_state; 

@@ -1,0 +1,2565 @@
+diseaseID,planName,plan_claimed,Plan_Count
+1,"Alpa Bima � Group",1,1
+1,"Arogya Raksha- Group Health Insurance Scheme",1,2
+1,"Arogya Sanjeevani",1,3
+1,"Arogya Supreme",1,4
+1,"Care Classic",1,5
+1,"Care Plus",1,6
+1,"Chola Group EMI Protect",1,7
+1,"Chola Group Top Up Protect",1,8
+1,"Digit Group Total Protect Policy",1,9
+1,"Digit On -the- Move Group Policy",1,10
+1,"Easy Travel",1,11
+1,"Family Health Optima�",1,12
+1,"Family Shield",1,13
+1,"Flexi Health Protect(Group)",1,14
+1,"Flexi Max Protect",1,15
+1,"Future Health Protect � Group",1,16
+1,"Future Hospicash",1,17
+1,"Future Vector Care (Group)",1,18
+1,"Group Business Travelers Insurance Policy",1,19
+1,"Group Corona Kavach Policy",1,20
+1,"Group Credit Protection Policy",1,21
+1,"Group Credit Secure Plus",1,22
+1,"Group Hospital Cash Policy",1,23
+1,"Group Loan Insurance",1,24
+1,"Group Safeguard Insurance",1,25
+1,"Group Safeguard Micro Insurance",1,26
+1,"Group Saral Suraksha Bima-Care Health Insurance",1,27
+1,"Health Prime -Rider for Health Products",1,28
+1,"Health Prime (Group)",1,29
+1,"Health Total",1,30
+1,"Home Care Treatment",1,31
+1,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,32
+1,"Income Protect",1,33
+1,"IRCTC Air Care Policy",1,34
+1,"Kotak Accident Care",1,35
+1,"Kotak Group Accident Protect - Micro Insurance",1,36
+1,"Kotak Group Health Assure",1,37
+1,"Kotak Secure Shield",1,38
+1,"Medi classic Insurance Policy (Individual)",1,39
+1,"Mosquito Disease Protection Policy � Group",1,40
+1,"my: health medisure Super Topup",1,41
+1,"my:credit�Comprehensive Suraksha",1,42
+1,"my:health�Comprehensive Suraksha - Group",1,43
+1,"my:health�Critical Suraksha Plus",1,44
+1,"my:health�Women Suraksha",1,45
+1,"Navi Health Accident",1,46
+1,"Navi Health CritiCare",1,47
+1,"Navi Health Group Insurance",1,48
+1,"Navi Health Group Personal Accident Insurance",1,49
+1,"Navi Health Group Seasonal Byte",1,50
+1,"Navi Health Seasonal Byte",1,51
+1,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,52
+1,"Overseas Group Travel Insurance",1,53
+1,"Personal Care Insurance Policy",1,54
+1,"Quick Health",1,55
+1,"Rashtriya Swasthya Bima Yojana",1,56
+1,"Saral Suraksha Bima-Group",1,57
+1,"Star Cardiac Care Insurance Policy",1,58
+1,"Star Comprehensive Insurance Policy",1,59
+1,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,60
+1,"Super Top-up Medicare Policy",1,61
+1,"Surakshit Loan Bima",1,62
+1,"Tele OPD Consultation Rider",1,63
+1,"Travel Assist Card�",1,64
+1,"Travel Corona Protect- International (Group)",1,65
+1,"Travel Insurance�",1,66
+1,"Voyager Travel Insurance (Group)",1,67
+1,"�Arogya Plus Policy",1,68
+1,"�Arogya Top up Policy",1,69
+1,"Sukshma Hospi-Cash (Micro-Insurance Product)",4,1
+1,TravelAssure,4,2
+2,"Arogya Sanjeevani",1,1
+2,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,2
+2,"Care Classic",1,3
+2,"Care Plus",1,4
+2,"Corona Kavach Policy",1,5
+2,"Diabetes Safe Insurance Policy",1,6
+2,"Edelweiss HealthPlus Policy",1,7
+2,"Family Health Optima Insurance Plan",1,8
+2,"Family Medicare Policy",1,9
+2,"Family Shield",1,10
+2,"Flexi Health Protect(Group)",1,11
+2,"Flexi Max Protect",1,12
+2,"Future Hospicash",1,13
+2,"Future Vector Care (Group)",1,14
+2,"Future Vector Care�",1,15
+2,"Grameen Care Plus - Micro Insurance Product",1,16
+2,"Group Corona Kavach Policy",1,17
+2,"Group Credit Secure Plus",1,18
+2,"Group Personal Accident",1,19
+2,"Group Protect",1,20
+2,"Group Safeguard Insurance",1,21
+2,"Group Saral Suraksha Bima-Care Health Insurance",1,22
+2,"HDFC ERGO Group Health Insurance",1,23
+2,"Health Booster",1,24
+2,"Health Insurance Policy � Retail",1,25
+2,"Health Plus",1,26
+2,"Health Prime -Rider for Health Products",1,27
+2,"Home Care Treatment",1,28
+2,"Hospital Daily Cash -Group",1,29
+2,"International Travel Insurance",1,30
+2,"IRCTC Air Care Policy",1,31
+2,"Janata Personal Accident",1,32
+2,"Kotak Accident Care",1,33
+2,"Kotak Group Accident Protect - Micro Insurance",1,34
+2,"Kotak Group Health Assure",1,35
+2,"Kotak Group Secure Shield - Micro Insurance",1,36
+2,"Kotak Secure Shield",1,37
+2,"M Care�",1,38
+2,"my:health�Critical Illness (Add On)",1,39
+2,"Navi Health Group Critical Surgery",1,40
+2,"Navi Health Group HospiCash",1,41
+2,"Navi Health Group Personal Accident Insurance",1,42
+2,"Navi Health Seasonal Byte",1,43
+2,"Optional travel insurance for E-ticket passengers",1,44
+2,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,45
+2,"Personal Care Insurance Policy",1,46
+2,"Pravasi Bharatiya Bima Yojana Policy�",1,47
+2,"Pravasi Bhartiya Bima Yojana",1,48
+2,"Senior Citizens Red Carpet Health Insurance Policy�",1,49
+2,"Silver Health",1,50
+2,"Star Cardiac Care Insurance Policy",1,51
+2,"Star Cardiac Care Insurance Policy- Platinum",1,52
+2,"Star Group Covid Insurance Policy",1,53
+2,"Star Micro Rural and Farmers Care",1,54
+2,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,55
+2,"Super Top-up Medicare Policy",1,56
+2,"Tele OPD Consultation Rider",1,57
+2,"Travel Elect (Group)",1,58
+2,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,59
+2,"Travel Insurance�",1,60
+2,"Travel Prime Holiday Insurance Policy (Group)",1,61
+2,"Unlimited Restore (Add On )",1,62
+2,"Voyager Travel Insurance (Group)",1,63
+2,"Young Star Insurance Policy",1,64
+2,"Zero Co-Pay",1,65
+2,"�Arogya Plus Policy",1,66
+2,"Saral Suraksha Bima",7,1
+3,"Alpa Bima � Group",1,1
+3,"Arogya Premier Policy",1,2
+3,"Arogya Raksha- Group Health Insurance Scheme",1,3
+3,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,4
+3,"BoB National Health Policy",1,5
+3,"Care Plus",1,6
+3,"Chola Group EMI Protect",1,7
+3,"Chola Mashak (Mosquito) Rakshak-Group",1,8
+3,"Diabetes Safe Insurance Policy",1,9
+3,"Digit On -the- Move Group Policy",1,10
+3,"Domestic Travel Insurance",1,11
+3,"Easy Travel",1,12
+3,"Family Health Optima Accident Care Policy",1,13
+3,"Family Health Optima Insurance Plan",1,14
+3,"Family Medicare Policy",1,15
+3,"Family Shield",1,16
+3,"Future Poorna Suraksha � Group",1,17
+3,"Group Credit Protection Policy",1,18
+3,"Group Credit Secure Plus",1,19
+3,"Group Safeguard Insurance",1,20
+3,"Group Saral Suraksha Bima-Care Health Insurance",1,21
+3,"Health Booster",1,22
+3,"Health Recharge�",1,23
+3,"Health Total",1,24
+3,"Home Care Treatment",1,25
+3,"Home Credit Assure Package Insurance",1,26
+3,"International Travel Insurance",1,27
+3,"IRCTC Air Care Policy",1,28
+3,"Kotak Group Health Assure",1,29
+3,"Kotak Group Secure Shield",1,30
+3,"Kotak Secure Shield",1,31
+3,"Loan Secure Insurance Policy",1,32
+3,"M Care�",1,33
+3,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,34
+3,"Mosquito Disease Protection Policy � Group",1,35
+3,"my:health�Critical Suraksha Plus",1,36
+3,"Navi Health CritiCare",1,37
+3,"Navi Health Group Critical Surgery",1,38
+3,"Navi Health Group Seasonal Byte",1,39
+3,"Navi Health HospiCash",1,40
+3,"Oriental - Critical illness policy",1,41
+3,"Oriental Insurance Bank Saathi Policy- Group",1,42
+3,"Personal Protect Policy",1,43
+3,"Quick Health",1,44
+3,"Silver Health",1,45
+3,"Star Cancer Care Platinum Insurance Policy",1,46
+3,"Star Super Surplus (Floater) Insurance Policy",1,47
+3,"Surakshit Loan Bima",1,48
+3,"Tele OPD Consultation Rider",1,49
+3,"Travel Corona Protect- International (Group)",1,50
+3,"Travel Elect (Group)",1,51
+3,"Travel Insurance�",1,52
+3,"Travel Prime Holiday Insurance Policy (Group)",1,53
+3,"Travel Prime Policy",1,54
+3,TravelAssure,1,55
+3,Travelsure(Group),1,56
+3,"Voyager Travel Insurance (Group)",1,57
+3,"Saral Suraksha Bima",7,1
+4,"Additional S.I. for Pandemic and epidemic Rider",1,1
+4,"Arogya Premier Policy",1,2
+4,"Arogya Raksha- Group Health Insurance Scheme",1,3
+4,"Bharat Yatra Suraksha",1,4
+4,"Care Plus",1,5
+4,"Chola Group Top Up Protect",1,6
+4,"Chola Mashak (Mosquito) Rakshak-Group",1,7
+4,"Corona Kavach Policy",1,8
+4,"Diabetes Safe Insurance Policy",1,9
+4,"Digit On -the- Move Group Policy",1,10
+4,"Easy Travel",1,11
+4,"Family Care",1,12
+4,"Family Health Optima Accident Care Policy",1,13
+4,"Family Health Optima Insurance Plan",1,14
+4,"Family Medicare Policy",1,15
+4,"Future Vector Care (Group)",1,16
+4,"Future Vector Care�",1,17
+4,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,18
+4,"Group Business Travelers Insurance Policy",1,19
+4,"Group Easy Travel Senior",1,20
+4,"Group Hospital Cash Policy",1,21
+4,"Group Loan Bima",1,22
+4,"Group Protect",1,23
+4,"Group Safeguard Micro Insurance",1,24
+4,"Health Insurance Policy � Retail",1,25
+4,"Health Pulse",1,26
+4,"Home Care Treatment",1,27
+4,"IRCTC Air Care Policy",1,28
+4,"Janata Personal Accident",1,29
+4,"Kotak Group Accident Protect",1,30
+4,"Kotak Group Health Assure",1,31
+4,"Kotak Secure Shield",1,32
+4,"Mosquito Disease Protection Policy � Group",1,33
+4,"my: Optima Secure",1,34
+4,"my:health�Comprehensive Suraksha - Group",1,35
+4,"my:health�Critical Illness (Add On)",1,36
+4,"my:health�Women Suraksha",1,37
+4,"Navi Cure",1,38
+4,"Navi Health",1,39
+4,"Navi Health Group Critical Surgery",1,40
+4,"Navi Health Group Insurance",1,41
+4,"Navi Health Group Travel Insurance",1,42
+4,"Navi Health HospiCash",1,43
+4,"Navi Health Seasonal Byte",1,44
+4,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,45
+4,"Overseas Group Travel Insurance",1,46
+4,"Personal Protect Policy",1,47
+4,"Quick Health",1,48
+4,"Ride Safe Travel Insurance",1,49
+4,"Sarv Suraksha Plus (Group)",1,50
+4,"Smart Health + (Add-On)",1,51
+4,"Star Cardiac Care Insurance Policy",1,52
+4,"Star Micro Rural and Farmers Care",1,53
+4,"Star Super Surplus Insurance Policy",1,54
+4,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,55
+4,"Super Top-up Medicare Policy",1,56
+4,"Tata AIG Criti- Medicare",1,57
+4,"Travel Companion",1,58
+4,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,59
+4,"Unlimited Restore (Add On )",1,60
+4,"Young Star Insurance Policy",1,61
+4,"Zero Co-Pay",1,62
+4,"Saral Suraksha Bima",6,1
+5,"Arogya Premier Policy",1,1
+5,"Arogya Supreme",1,2
+5,"Bharat Yatra Suraksha",1,3
+5,"BoB National Health Policy",1,4
+5,"Care Plus",1,5
+5,"Chola Group Top Up Protect",1,6
+5,"Criti Shield Plus",1,7
+5,"Diabetes Safe Insurance Policy",1,8
+5,"Digit On -the- Move Group Policy",1,9
+5,"Family Health Optima Accident Care Policy",1,10
+5,"Family Health Optima Insurance Plan",1,11
+5,"Family Shield",1,12
+5,"Future Health Protect � Group",1,13
+5,"Future Hospicash",1,14
+5,"Future Poorna Suraksha � Group",1,15
+5,"Future Vector Care (Group)",1,16
+5,"Future Vector Care�",1,17
+5,"Grameen Care Plus - Micro Insurance Product",1,18
+5,"Group Credit Protection Policy",1,19
+5,"HDFC ERGO Group Health Insurance",1,20
+5,"Health Booster",1,21
+5,"Health Insurance Policy � Retail",1,22
+5,"Health Plus",1,23
+5,"Health Prime -Rider for Health Products",1,24
+5,"Health Pulse",1,25
+5,"Health Shield 360",1,26
+5,"Health Total",1,27
+5,"Janata Personal Accident",1,28
+5,"Kotak Group Accident Protect - Micro Insurance",1,29
+5,"Kotak Group Secure Shield - Micro Insurance",1,30
+5,"Loan Secure Insurance Policy",1,31
+5,"M Care (Group)",1,32
+5,"my: health medisure Super Topup",1,33
+5,"my: Optima Secure",1,34
+5,"my:health�Critical Illness (Add On)",1,35
+5,"my:health�Women Suraksha",1,36
+5,"Navi Cure",1,37
+5,"Navi Health CritiCare",1,38
+5,"Navi Health Group HospiCash",1,39
+5,"Navi Health Group Insurance",1,40
+5,"Navi Health Group Seasonal Byte",1,41
+5,"Navi Health Group Travel Insurance",1,42
+5,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,43
+5,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,44
+5,"Overseas Group Travel Insurance",1,45
+5,"Quick Health",1,46
+5,"Rashtriya Swasthya Bima Yojana",1,47
+5,"Ride Safe Travel Insurance",1,48
+5,"Sarv Suraksha Plus (Group)",1,49
+5,"Star Cardiac Care Insurance Policy",1,50
+5,"Star Critical Illness Multipay Insurance Policy",1,51
+5,"Star Group Critical Illness Multipay Insurance Policy",1,52
+5,"Star Super Surplus (Floater) Insurance Policy",1,53
+5,"Star Super Surplus Insurance Policy",1,54
+5,"Tata AIG Criti- Medicare",1,55
+5,"Tele OPD Consultation Rider",1,56
+5,"Travel Corona Protect- International (Group)",1,57
+5,"Travel Elect (Group)",1,58
+5,"Travel Prime Policy",1,59
+5,"Voyager Travel Insurance (Group)",1,60
+5,"Wellness Addon",1,61
+5,"Young Star Insurance Policy",1,62
+5,"Digit Group Total Protect Policy",4,1
+5,"Family Medicare Policy",4,2
+5,"Saral Suraksha Bima",4,3
+5,"Saral Suraksha Bima-Group",4,4
+6,"Alpa Bima � Group",1,1
+6,"Arogya Premier Policy",1,2
+6,"Arogya Raksha- Group Health Insurance Scheme",1,3
+6,"Arogya Sanjeevani",1,4
+6,"Bharat Yatra Suraksha",1,5
+6,"BoB National Health Policy",1,6
+6,"Care Classic",1,7
+6,"Chola Group Top Up Protect",1,8
+6,"Criti Shield Plus",1,9
+6,"Digit On -the- Move Group Policy",1,10
+6,"Domestic Travel Insurance",1,11
+6,"E Travel Value policy",1,12
+6,"Family Health Optima Insurance Plan",1,13
+6,"Family Health Optima�",1,14
+6,"Flexi Health Protect(Group)",1,15
+6,"Flexi Max Protect",1,16
+6,"Future Criticare",1,17
+6,"Future Poorna Suraksha � Group",1,18
+6,"Future Vector Care (Group)",1,19
+6,"Globetrotter - Overseas Group Travel Insurance",1,20
+6,"Grameen Care Plus - Micro Insurance Product",1,21
+6,"Group Credit Health Policy",1,22
+6,"Group Credit Secure Plus",1,23
+6,"Group Hospital Cash Policy",1,24
+6,"Group Loan Insurance",1,25
+6,"Group Personal Accident",1,26
+6,"Group Protect",1,27
+6,"Group Saral Suraksha Bima-Care Health Insurance",1,28
+6,"Health Pulse",1,29
+6,"Health Shield 360",1,30
+6,"Home Care Treatment",1,31
+6,"Home Credit Assure Package Insurance",1,32
+6,"Income Protect",1,33
+6,"International Travel Insurance",1,34
+6,"IRCTC Air Care Policy",1,35
+6,"Kotak Group Accident Protect - Micro Insurance",1,36
+6,"Kotak Group Secure Shield",1,37
+6,"Loan Secure Insurance Policy",1,38
+6,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,39
+6,"my: health medisure Super Topup",1,40
+6,"my: Optima Secure",1,41
+6,"my:credit�Comprehensive Suraksha",1,42
+6,"my:health�Critical Suraksha Plus",1,43
+6,"my:health�Women Suraksha",1,44
+6,"Navi Health CritiCare",1,45
+6,"Navi Health Group Insurance",1,46
+6,"Navi Health HospiCash",1,47
+6,"Navi Health Seasonal Byte",1,48
+6,"Navi Health Super Top Up",1,49
+6,"Oriental Insurance Bank Saathi Policy- Group",1,50
+6,"Personal Care Insurance Policy",1,51
+6,"Pravasi Bharatiya Bima Yojana Policy�",1,52
+6,"Pravasi Bhartiya Bima Yojana",1,53
+6,"Saral Suraksha Bima-Group",1,54
+6,"Smart Health + (Add-On)",1,55
+6,"Star Comprehensive Insurance Policy",1,56
+6,"Star Critical Illness Multipay Insurance Policy",1,57
+6,"Star Super Surplus Insurance Policy",1,58
+6,"Student Suraksha- Student Overseas Travel",1,59
+6,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,60
+6,"Swasthya Suraksha",1,61
+6,"Tata AIG Criti- Medicare",1,62
+6,"Tele OPD Consultation Rider",1,63
+6,"Travel Assist Card�",1,64
+6,"Travel Elect (Group)",1,65
+6,"Travel Prime Holiday Insurance Policy (Group)",1,66
+6,"Unlimited Restore (Add On )",1,67
+6,"Voyager Travel Insurance (Group)",1,68
+6,"Wellness Addon",1,69
+6,"Welness Benefit Addon(Group)",1,70
+6,"Zero Co-Pay",1,71
+6,"Saral Suraksha Bima",8,1
+7,"Alpa Bima � Group",1,1
+7,"Arogya Premier Policy",1,2
+7,"Arogya Raksha- Group Health Insurance Scheme",1,3
+7,"Arogya Sanjeevani",1,4
+7,"Arogya Shield",1,5
+7,"Arogya Supreme",1,6
+7,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,7
+7,"Care Plus",1,8
+7,"Criti Shield Plus",1,9
+7,"Easy Travel",1,10
+7,"Edelweiss HealthPlus Policy",1,11
+7,"Flexi Max Protect",1,12
+7,"Future Criticare",1,13
+7,"Future Vector Care (Group)",1,14
+7,"Globetrotter - Overseas Group Travel Insurance",1,15
+7,"Group Corona Kavach Policy",1,16
+7,"Group Credit Protection Policy",1,17
+7,"Group Hospital Cash Policy",1,18
+7,"Group Loan Bima",1,19
+7,"Group Protect",1,20
+7,"Health Insurance Policy � Retail",1,21
+7,"Health Recharge�",1,22
+7,"Health Shield 360",1,23
+7,"Home Credit Assure Package Insurance",1,24
+7,"Income Protect",1,25
+7,"Janata Personal Accident",1,26
+7,"Kotak Accident Care",1,27
+7,"Kotak Group Accident Protect - Micro Insurance",1,28
+7,"Mosquito Disease Protection Policy � Group",1,29
+7,"my: Optima Secure",1,30
+7,"my: Sampoorna Suraksha",1,31
+7,"my:health�Critical Illness (Add On)",1,32
+7,"my:health�Critical Suraksha Plus",1,33
+7,"Navi Health Accident",1,34
+7,"Navi Health Group Critical Illness Insurance",1,35
+7,"Navi Health Group Critical Surgery",1,36
+7,"Navi Health HospiCash",1,37
+7,"Navi Health Seasonal Byte",1,38
+7,"Optima Restore",1,39
+7,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,40
+7,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,41
+7,"Oriental - Critical illness policy",1,42
+7,"Overseas Group Travel Insurance",1,43
+7,"Personal Protect Policy",1,44
+7,"Rashtriya Swasthya Bima Yojana",1,45
+7,"Ride Safe Travel Insurance",1,46
+7,"Sarv Suraksha Plus (Group)",1,47
+7,"Senior Citizens Red Carpet Health Insurance Policy�",1,48
+7,"Silver Health",1,49
+7,"Star Comprehensive Insurance Policy",1,50
+7,"Star Critical Illness Multipay Insurance Policy",1,51
+7,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,52
+7,"Star Super Surplus (Floater) Insurance Policy",1,53
+7,"Student Suraksha- Student Overseas Travel",1,54
+7,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,55
+7,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,56
+7,"Super No Claim Bonus Rider",1,57
+7,"Super reload Rider",1,58
+7,"Tata AIG Criti- Medicare",1,59
+7,"Tele OPD Consultation Rider",1,60
+7,"Travel Corona Protect- International (Group)",1,61
+7,Travelsure(Group),1,62
+7,"UB Arogyadaan",1,63
+7,"�Arogya Plus Policy",1,64
+7,"�Arogya Top up Policy",1,65
+7,"Saral Suraksha Bima",9,1
+8,"Arogya Raksha- Group Health Insurance Scheme",1,1
+8,"Arogya Supreme",1,2
+8,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,3
+8,"Chola Mashak (Mosquito) Rakshak-Group",1,4
+8,"Criti Shield Plus",1,5
+8,"Easy Travel",1,6
+8,"Edelweiss HealthPlus Policy",1,7
+8,Educare,1,8
+8,"Family Health Optima�",1,9
+8,"Flexi Health Protect(Group)",1,10
+8,"Flexi Max Protect",1,11
+8,"Future Poorna Suraksha � Group",1,12
+8,"Future Vector Care (Group)",1,13
+8,"Future Vector Care�",1,14
+8,"Globetrotter - Overseas Group Travel Insurance",1,15
+8,"Group Business Travelers Insurance Policy",1,16
+8,"Group Credit Secure Plus",1,17
+8,"Group Loan Bima",1,18
+8,"Group Protect",1,19
+8,"Group Saral Suraksha Bima-Care Health Insurance",1,20
+8,"HDFC ERGO Group Health Insurance",1,21
+8,"Health Prime -Rider for Health Products",1,22
+8,"Health Pulse",1,23
+8,"Hospital Daily Cash -Group",1,24
+8,"Kotak Group Health Assure",1,25
+8,"Kotak Group Secure Shield",1,26
+8,"M Care�",1,27
+8,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,28
+8,"my: health medisure Super Topup",1,29
+8,"my: Optima Secure",1,30
+8,"my:health�Critical Illness (Add On)",1,31
+8,"my:health�Critical Suraksha Plus",1,32
+8,"my:health�Women Suraksha",1,33
+8,"Navi Cure",1,34
+8,"Navi Health Accident",1,35
+8,"Navi Health CritiCare",1,36
+8,"Navi Health Group Critical Illness Insurance",1,37
+8,"Navi Health Group Personal Accident Insurance",1,38
+8,"Navi Health Super Top Up",1,39
+8,"Oriental Insurance Bank Saathi Policy- Group",1,40
+8,"Personal Care Insurance Policy",1,41
+8,"Personal Protect Policy",1,42
+8,"Pravasi Bharatiya Bima Yojana Policy�",1,43
+8,"Ride Safe Travel Insurance",1,44
+8,"Sarv Suraksha Plus (Group)",1,45
+8,"Star Cardiac Care Insurance Policy",1,46
+8,"Star Cardiac Care Insurance Policy- Platinum",1,47
+8,"Star Comprehensive Insurance Policy",1,48
+8,"Star Critical Illness Multipay Insurance Policy",1,49
+8,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,50
+8,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,51
+8,"Super reload Rider",1,52
+8,"Surakshit Loan Bima",1,53
+8,"Tele OPD Consultation Rider",1,54
+8,"Travel Assist Card�",1,55
+8,"Travel Insurance�",1,56
+8,TravelAssure,1,57
+8,"�Arogya Plus Policy",1,58
+8,"my:health�Comprehensive Suraksha - Group",4,1
+8,"Navi Health",4,2
+8,"Saral Suraksha Bima",4,3
+9,"Arogya Premier Policy",1,1
+9,"Arogya Raksha- Group Health Insurance Scheme",1,2
+9,"Arogya Sanjeevani Policy",1,3
+9,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,4
+9,"BoB National Health Policy",1,5
+9,"Chola Group Top Up Protect",1,6
+9,"Corona Kavach Policy",1,7
+9,"Criti Shield Plus",1,8
+9,"Edelweiss HealthPlus Policy",1,9
+9,"Family Care",1,10
+9,"Family Health Optima Insurance Plan",1,11
+9,"Family Health Optima�",1,12
+9,"Family Medicare Policy",1,13
+9,"Flexi Health Protect(Group)",1,14
+9,"Future Vector Care (Group)",1,15
+9,"Globetrotter - Overseas Individual Student Travel Insurance",1,16
+9,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,17
+9,"Group Easy Travel Senior",1,18
+9,"Group Hospi Shield",1,19
+9,"Group Loan Bima",1,20
+9,"Group Loan Insurance",1,21
+9,"Group Personal Accident",1,22
+9,"Group Safeguard Micro Insurance",1,23
+9,"Health Insurance Policy � Retail",1,24
+9,"Health Prime (Group)",1,25
+9,"Health Recharge�",1,26
+9,"Health Shield 360",1,27
+9,"Home Credit Assure Package Insurance",1,28
+9,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,29
+9,"Income Protect",1,30
+9,"International Travel Insurance",1,31
+9,"Janata Personal Accident",1,32
+9,"Kotak Group Health Assure",1,33
+9,"Kotak Group Secure Shield",1,34
+9,"Kotak Group Secure Shield - Micro Insurance",1,35
+9,"M Care�",1,36
+9,"my:credit�Comprehensive Suraksha",1,37
+9,"my:health�Comprehensive Suraksha - Group",1,38
+9,"my:health�Critical Suraksha Plus",1,39
+9,"Navi Health Group HospiCash",1,40
+9,"Navi Health Group Travel Insurance",1,41
+9,"Navi Health Seasonal Byte",1,42
+9,"Optima Restore",1,43
+9,"Optional travel insurance for E-ticket passengers",1,44
+9,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,45
+9,"Oriental - Critical illness policy",1,46
+9,"Quick Health",1,47
+9,"Senior Citizens Red Carpet Health Insurance Policy�",1,48
+9,"Star Cardiac Care Insurance Policy",1,49
+9,"Star Group Critical Illness Multipay Insurance Policy",1,50
+9,"Star Micro Rural and Farmers Care",1,51
+9,"Student Suraksha- Student Overseas Travel",1,52
+9,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,53
+9,"Super No Claim Bonus Rider",1,54
+9,"Super reload Rider",1,55
+9,"Swasthya Suraksha",1,56
+9,"Tata AIG Criti- Medicare",1,57
+9,"Travel Corona Protect- International (Group)",1,58
+9,"Travel Elect (Group)",1,59
+9,"Travel Insurance�",1,60
+9,"Travel Prime Policy",1,61
+9,"Unlimited Restore (Add On )",1,62
+9,"Wellness Addon",1,63
+9,"�Arogya Plus Policy",1,64
+9,"�Arogya Top up Policy",1,65
+9,"Saral Suraksha Bima",8,1
+10,"Arogya Raksha- Group Health Insurance Scheme",1,1
+10,"Arogya Sanjeevani Policy",1,2
+10,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,3
+10,"Bharat Yatra Suraksha Group",1,4
+10,"BoB National Health Policy",1,5
+10,"Chola Group EMI Protect",1,6
+10,"Chola Group Top Up Protect",1,7
+10,"Diabetes Safe Insurance Policy",1,8
+10,"E Travel Value policy",1,9
+10,"Family Health Optima Accident Care Policy",1,10
+10,"Family Medicare Policy",1,11
+10,"Family Shield",1,12
+10,"Flexi Health Protect(Group)",1,13
+10,"Future Health Protect � Group",1,14
+10,"Future Poorna Suraksha � Group",1,15
+10,"Future Vector Care (Group)",1,16
+10,"Globetrotter - Overseas Group Travel Insurance",1,17
+10,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,18
+10,"Group Credit Health Policy",1,19
+10,"Group Easy Travel Senior",1,20
+10,"Group Loan Bima",1,21
+10,"Group Protect",1,22
+10,"Group Travel Insurance",1,23
+10,"HDFC ERGO Group Health Insurance",1,24
+10,"Health Prime -Rider for Health Products",1,25
+10,"Health Prime (Group)",1,26
+10,"Health Shield 360",1,27
+10,"Health Total",1,28
+10,"Income Protect",1,29
+10,"M Care (Group)",1,30
+10,"M Care�",1,31
+10,"my: health medisure Super Topup",1,32
+10,"my: Optima Secure",1,33
+10,"my: Sampoorna Suraksha",1,34
+10,"Navi Health Accident",1,35
+10,"Navi Health CritiCare",1,36
+10,"Navi Health Group Critical Surgery",1,37
+10,"Navi Health Group Travel Insurance",1,38
+10,"Navi Health Super Top Up",1,39
+10,"Optima Restore",1,40
+10,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,41
+10,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,42
+10,"Oriental - Critical illness policy",1,43
+10,"Oriental Insurance Bank Saathi Policy- Group",1,44
+10,"Overseas Group Travel Insurance",1,45
+10,"Personal Care Insurance Policy",1,46
+10,"Personal Protect Policy",1,47
+10,"Saral Suraksha Bima-Group",1,48
+10,"Sarv Suraksha Plus (Group)",1,49
+10,"Silver Health",1,50
+10,"Star Comprehensive Insurance Policy",1,51
+10,"Star Group Critical Illness Multipay Insurance Policy",1,52
+10,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,53
+10,"Star Super Surplus Insurance Policy",1,54
+10,"Student Suraksha- Student Overseas Travel",1,55
+10,"Super Top-up Medicare Policy",1,56
+10,"Tata AIG Criti- Medicare",1,57
+10,"Travel Companion",1,58
+10,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,59
+10,"Travel Insurance�",1,60
+10,TravelAssure,1,61
+10,"UB Arogyadaan",1,62
+10,"Wellness Addon",1,63
+10,"Saral Suraksha Bima",8,1
+11,"Alpa Bima � Group",1,1
+11,"Arogya Premier Policy",1,2
+11,"Arogya Shield",1,3
+11,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,4
+11,"Bharat Yatra Suraksha",1,5
+11,"Care Plus",1,6
+11,"Corona Kavach Policy",1,7
+11,"Criti Shield Plus",1,8
+11,Educare,1,9
+11,"Family Health Optima Insurance Plan",1,10
+11,"Family Medicare Policy",1,11
+11,"Flexi Max Protect",1,12
+11,"Future Hospicash",1,13
+11,"Future Vector Care�",1,14
+11,"Globetrotter - Overseas Individual Student Travel Insurance",1,15
+11,"Grameen Care Plus - Micro Insurance Product",1,16
+11,"Group Business Travelers Insurance Policy",1,17
+11,"Group Corona Kavach Policy",1,18
+11,"Group Easy Travel Senior",1,19
+11,"Group Personal Accident",1,20
+11,"Group Protect",1,21
+11,"Group Saral Suraksha Bima-Care Health Insurance",1,22
+11,"HDFC ERGO Group Health Insurance",1,23
+11,"Health Prime -Rider for Health Products",1,24
+11,"Health Pulse",1,25
+11,"Health Shield 360",1,26
+11,"Health Total",1,27
+11,"Home Credit Assure Package Insurance",1,28
+11,"Hospital Daily Cash -Group",1,29
+11,"Income Protect",1,30
+11,"International Travel Insurance",1,31
+11,"IRCTC Air Care Policy",1,32
+11,"Janata Personal Accident",1,33
+11,"Kotak Group Health Assure",1,34
+11,"Kotak Group Secure Shield - Micro Insurance",1,35
+11,"Medi classic Insurance Policy (Individual)",1,36
+11,"my: Sampoorna Suraksha",1,37
+11,"my:health�Comprehensive Suraksha - Group",1,38
+11,"my:health�Women Suraksha",1,39
+11,"Navi Health",1,40
+11,"Navi Health Group Personal Accident Insurance",1,41
+11,"Navi Health Seasonal Byte",1,42
+11,"Optima Restore",1,43
+11,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,44
+11,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,45
+11,"Oriental - Critical illness policy",1,46
+11,"Overseas Group Travel Insurance",1,47
+11,"Personal Protect Policy",1,48
+11,"Quick Health",1,49
+11,"Rashtriya Swasthya Bima Yojana",1,50
+11,"Silver Health",1,51
+11,"Star Cardiac Care Insurance Policy- Platinum",1,52
+11,"Star Super Surplus Insurance Policy",1,53
+11,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,54
+11,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,55
+11,"Super No Claim Bonus Rider",1,56
+11,"Super reload Rider",1,57
+11,"Travel Assist Card�",1,58
+11,"Travel Corona Protect- International (Group)",1,59
+11,"Travel Insurance�",1,60
+11,"Travel Prime Holiday Insurance Policy (Group)",1,61
+11,Travelsure(Group),1,62
+11,"UB Arogyadaan",1,63
+11,"Voyager Travel Insurance (Group)",1,64
+11,"Wellness Addon",1,65
+11,"Welness Benefit Addon(Group)",1,66
+11,"Young Star Insurance Policy",1,67
+11,"Zero Co-Pay",1,68
+11,"Saral Suraksha Bima",8,1
+12,"Additional S.I. for Pandemic and epidemic Rider",1,1
+12,"Arogya Raksha- Group Health Insurance Scheme",1,2
+12,"Care Classic",1,3
+12,"Chola Group Top Up Protect",1,4
+12,"Chola Mashak (Mosquito) Rakshak-Group",1,5
+12,"Corona Kavach Policy",1,6
+12,"Diabetes Safe Insurance Policy",1,7
+12,"Domestic Travel Insurance",1,8
+12,"E Travel Value policy",1,9
+12,"Easy Travel Group Travel Health�",1,10
+12,Educare,1,11
+12,"Family Health Optima�",1,12
+12,"Family Shield",1,13
+12,"Flexi Max Protect",1,14
+12,"Future Health Protect � Group",1,15
+12,"Future Vector Care�",1,16
+12,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,17
+12,"Group Corona Kavach Policy",1,18
+12,"Group Easy Travel Senior",1,19
+12,"Group Protect",1,20
+12,"Group Saral Suraksha Bima-Care Health Insurance",1,21
+12,"Health Insurance Policy � Retail",1,22
+12,"Health Prime (Group)",1,23
+12,"Health Pulse",1,24
+12,"Hospital Daily Cash -Group",1,25
+12,"Income Protect",1,26
+12,"Janata Personal Accident",1,27
+12,"Kotak Group Accident Protect",1,28
+12,"Kotak Group Accident Protect - Micro Insurance",1,29
+12,"Kotak Group Health Assure",1,30
+12,"Kotak Group Secure Shield",1,31
+12,"M Care�",1,32
+12,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,33
+12,"Medi classic Insurance Policy (Individual)",1,34
+12,"Navi Health",1,35
+12,"Navi Health Group HospiCash",1,36
+12,"Navi Health Group Insurance",1,37
+12,"Navi Health Group Personal Accident Insurance",1,38
+12,"Navi Health Group Seasonal Byte",1,39
+12,"Navi Health Group Travel Insurance",1,40
+12,"Oriental Insurance Bank Saathi Policy- Group",1,41
+12,"Personal Care Insurance Policy",1,42
+12,"Pravasi Bharatiya Bima Yojana Policy�",1,43
+12,"Rashtriya Swasthya Bima Yojana",1,44
+12,"Ride Safe Travel Insurance",1,45
+12,"Sarv Suraksha Plus (Group)",1,46
+12,"Smart Health + (Add-On)",1,47
+12,"Star Group Covid Insurance Policy",1,48
+12,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,49
+12,"Star Super Surplus Insurance Policy",1,50
+12,"Student Suraksha- Student Overseas Travel",1,51
+12,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,52
+12,"Super No Claim Bonus Rider",1,53
+12,"Super reload Rider",1,54
+12,"Swasthya Suraksha",1,55
+12,"Travel Corona Protect- International (Group)",1,56
+12,"Travel Elect (Group)",1,57
+12,"Travel Insurance�",1,58
+12,"Travel Prime Holiday Insurance Policy (Group)",1,59
+12,TravelAssure,1,60
+12,"UB Arogyadaan",1,61
+12,"Young Star Insurance Policy",1,62
+12,"Group Credit Secure Plus",6,1
+13,"Additional S.I. for Pandemic and epidemic Rider",1,1
+13,"Arogya Premier Policy",1,2
+13,"Arogya Sanjeevani Policy",1,3
+13,"Care Plus",1,4
+13,"Chola Mashak (Mosquito) Rakshak-Group",1,5
+13,"Corona Kavach Policy",1,6
+13,"Diabetes Safe Insurance Policy",1,7
+13,"Digit Group Total Protect Policy",1,8
+13,"E Travel Value policy",1,9
+13,"Easy Travel",1,10
+13,"Easy Travel Group Travel Health�",1,11
+13,"Edelweiss HealthPlus Policy",1,12
+13,"Family Care",1,13
+13,"Family Medicare Policy",1,14
+13,"Globetrotter - Overseas Individual Student Travel Insurance",1,15
+13,"Grameen Care Plus - Micro Insurance Product",1,16
+13,"Group Corona Kavach Policy",1,17
+13,"Group Loan Bima",1,18
+13,"Group Loan Insurance",1,19
+13,"Group Travel Insurance",1,20
+13,"HDFC ERGO Group Health Insurance",1,21
+13,"Health Pulse",1,22
+13,"Health Recharge�",1,23
+13,"Health Shield 360",1,24
+13,"Home Care Treatment",1,25
+13,"Kotak Accident Care",1,26
+13,"Kotak Group Health Assure",1,27
+13,"Kotak Group Secure Shield - Micro Insurance",1,28
+13,"Kotak Secure Shield",1,29
+13,"M Care (Group)",1,30
+13,"M Care�",1,31
+13,"my:health�Critical Illness (Add On)",1,32
+13,"my:health�Critical Suraksha Plus",1,33
+13,"my:health�Women Suraksha",1,34
+13,"Navi Health Group Personal Accident Insurance",1,35
+13,"Navi Health HospiCash",1,36
+13,"Optima Restore",1,37
+13,"Oriental - Critical illness policy",1,38
+13,"Saral Suraksha Bima-Group",1,39
+13,"Sarv Suraksha Plus (Group)",1,40
+13,"Star Group Covid Insurance Policy",1,41
+13,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,42
+13,"Super reload Rider",1,43
+13,"Surakshit Loan Bima",1,44
+13,"Swasthya Suraksha",1,45
+13,"Tata AIG Criti- Medicare",1,46
+13,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,47
+13,"Travel Prime Policy",1,48
+13,"UB Arogyadaan",1,49
+13,"Unlimited Restore (Add On )",1,50
+13,"�Arogya Plus Policy",1,51
+13,"Globetrotter - Overseas Group Travel Insurance",5,1
+13,"Travel Elect (Group)",5,2
+14,"Alpa Bima � Group",1,1
+14,"Arogya Raksha- Group Health Insurance Scheme",1,2
+14,"Arogya Sanjeevani",1,3
+14,"Arogya Sanjeevani Policy",1,4
+14,"Bharat Yatra Suraksha",1,5
+14,"Bharat Yatra Suraksha Group",1,6
+14,"Care Classic",1,7
+14,"Care Plus",1,8
+14,"Chola Group EMI Protect",1,9
+14,"Chola Group Top Up Protect",1,10
+14,"Chola Mashak (Mosquito) Rakshak-Group",1,11
+14,"Digit Group Total Protect Policy",1,12
+14,"Digit On -the- Move Group Policy",1,13
+14,"Easy Travel",1,14
+14,"Family Shield",1,15
+14,"Future Criticare",1,16
+14,"Future Poorna Suraksha � Group",1,17
+14,"Globetrotter - Overseas Group Travel Insurance",1,18
+14,"Grameen Care Plus - Micro Insurance Product",1,19
+14,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,20
+14,"Group Credit Protection Policy",1,21
+14,"Group Protect",1,22
+14,"Group Safeguard Insurance",1,23
+14,"Group Saral Suraksha Bima-Care Health Insurance",1,24
+14,"Health Plus",1,25
+14,"Health Prime -Rider for Health Products",1,26
+14,"Health Shield 360",1,27
+14,"Home Care Treatment",1,28
+14,"Hospital Daily Cash -Group",1,29
+14,"Income Protect",1,30
+14,"Janata Personal Accident",1,31
+14,"Kotak Accident Care",1,32
+14,"Kotak Group Accident Protect",1,33
+14,"Kotak Group Secure Shield - Micro Insurance",1,34
+14,"Kotak Secure Shield",1,35
+14,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,36
+14,"Medi classic Insurance Policy (Individual)",1,37
+14,"my: health medisure Super Topup",1,38
+14,"my:health�Comprehensive Suraksha - Group",1,39
+14,"my:health�Critical Illness (Add On)",1,40
+14,"Navi Cure",1,41
+14,"Navi Health Group Critical Illness Insurance",1,42
+14,"Navi Health Group Seasonal Byte",1,43
+14,"Navi Health Group Travel Insurance",1,44
+14,"Navi Health Super Top Up",1,45
+14,"Overseas Group Travel Insurance",1,46
+14,"Pravasi Bharatiya Bima Yojana Policy�",1,47
+14,"Pravasi Bhartiya Bima Yojana",1,48
+14,"Quick Health",1,49
+14,"Saral Suraksha Bima-Group",1,50
+14,"Star Cancer Care Platinum Insurance Policy",1,51
+14,"Star Cardiac Care Insurance Policy",1,52
+14,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,53
+14,"Super No Claim Bonus Rider",1,54
+14,"Super Top-up Medicare Policy",1,55
+14,"Travel Insurance�",1,56
+14,"Travel Prime Holiday Insurance Policy (Group)",1,57
+14,"Travel Prime Policy",1,58
+14,Travelsure(Group),1,59
+14,"Voyager Travel Insurance (Group)",1,60
+14,"Wellness Addon",1,61
+14,"Saral Suraksha Bima",6,1
+15,"Additional S.I. for Pandemic and epidemic Rider",1,1
+15,"Alpa Bima � Group",1,2
+15,"Arogya Sanjeevani",1,3
+15,"Arogya Sanjeevani Policy",1,4
+15,"Arogya Supreme",1,5
+15,"Bharat Yatra Suraksha Group",1,6
+15,"BoB National Health Policy",1,7
+15,"Diabetes Safe Insurance Policy",1,8
+15,"Digit On -the- Move Group Policy",1,9
+15,"Domestic Travel Insurance",1,10
+15,"E Travel Value policy",1,11
+15,"Easy Travel",1,12
+15,"Edelweiss HealthPlus Policy",1,13
+15,Educare,1,14
+15,"Family Health Optima�",1,15
+15,"Family Medicare Policy",1,16
+15,"Future Vector Care (Group)",1,17
+15,"Future Vector Care�",1,18
+15,"Globetrotter - Overseas Group Travel Insurance",1,19
+15,"Group Credit Health Policy",1,20
+15,"Group Hospi Shield",1,21
+15,"Group Loan Insurance",1,22
+15,"Group Personal Accident",1,23
+15,"Group Travel Insurance",1,24
+15,"HDFC ERGO Group Health Insurance",1,25
+15,"Health Booster",1,26
+15,"Health Plus",1,27
+15,"Health Pulse",1,28
+15,"Health Recharge�",1,29
+15,"Home Care Treatment",1,30
+15,"Income Protect",1,31
+15,"Kotak Group Accident Protect",1,32
+15,"Kotak Group Secure Shield - Micro Insurance",1,33
+15,"my: health medisure Super Topup",1,34
+15,"my:credit�Comprehensive Suraksha",1,35
+15,"my:health�Critical Illness (Add On)",1,36
+15,"my:health�Women Suraksha",1,37
+15,"Navi Health Group Personal Accident Insurance",1,38
+15,"Navi Health HospiCash",1,39
+15,"Navi Health Seasonal Byte",1,40
+15,"Navi Health Super Top Up",1,41
+15,"Optima Restore",1,42
+15,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,43
+15,"Oriental Insurance Bank Saathi Policy- Group",1,44
+15,"Pravasi Bharatiya Bima Yojana Policy�",1,45
+15,"Pravasi Bhartiya Bima Yojana",1,46
+15,"Rashtriya Swasthya Bima Yojana",1,47
+15,"Ride Safe Travel Insurance",1,48
+15,"Smart Health + (Add-On)",1,49
+15,"Star Comprehensive Insurance Policy",1,50
+15,"Star Group Critical Illness Multipay Insurance Policy",1,51
+15,"Star Super Surplus Insurance Policy",1,52
+15,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,53
+15,"Super No Claim Bonus Rider",1,54
+15,"Surakshit Loan Bima",1,55
+15,"Travel Assist Card�",1,56
+15,Travelsure(Group),1,57
+15,"Unlimited Restore (Add On )",1,58
+15,"Young Star Insurance Policy",1,59
+15,"�Arogya Top up Policy",1,60
+15,"Saral Suraksha Bima",11,1
+16,"Alpa Bima � Group",1,1
+16,"Arogya Premier Policy",1,2
+16,"Arogya Sanjeevani",1,3
+16,"Arogya Sanjeevani Policy",1,4
+16,"Arogya Supreme",1,5
+16,"Bharat Yatra Suraksha Group",1,6
+16,"Care Plus",1,7
+16,"Chola Group Top Up Protect",1,8
+16,"Domestic Travel Insurance",1,9
+16,"Easy Travel",1,10
+16,"Easy Travel Group Travel Health�",1,11
+16,"Family Care",1,12
+16,"Family Health Optima�",1,13
+16,"Flexi Health Protect(Group)",1,14
+16,"Future Hospicash",1,15
+16,"Group Business Travelers Insurance Policy",1,16
+16,"Group Credit Secure Plus",1,17
+16,"Group Loan Bima",1,18
+16,"Group Personal Accident",1,19
+16,"Group Saral Suraksha Bima-Care Health Insurance",1,20
+16,"Group Travel Insurance",1,21
+16,"HDFC ERGO Group Health Insurance",1,22
+16,"Health Booster",1,23
+16,"Health Plus",1,24
+16,"Health Prime (Group)",1,25
+16,"Home Care Treatment",1,26
+16,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,27
+16,"Janata Personal Accident",1,28
+16,"Kotak Accident Care",1,29
+16,"Kotak Group Accident Protect",1,30
+16,"Kotak Group Health Assure",1,31
+16,"Kotak Secure Shield",1,32
+16,"M Care (Group)",1,33
+16,"Mosquito Disease Protection Policy � Group",1,34
+16,"my: health medisure Super Topup",1,35
+16,"Navi Health",1,36
+16,"Navi Health Group HospiCash",1,37
+16,"Navi Health Group Seasonal Byte",1,38
+16,"Navi Health Group Travel Insurance",1,39
+16,"Navi Health Seasonal Byte",1,40
+16,"Optional travel insurance for E-ticket passengers",1,41
+16,"Overseas Group Travel Insurance",1,42
+16,"Pravasi Bhartiya Bima Yojana",1,43
+16,"Smart Health + (Add-On)",1,44
+16,"Star Cancer Care Platinum Insurance Policy",1,45
+16,"Star Cardiac Care Insurance Policy",1,46
+16,"Star Critical Illness Multipay Insurance Policy",1,47
+16,"Star Group Critical Illness Multipay Insurance Policy",1,48
+16,"Star Super Surplus Insurance Policy",1,49
+16,"Student Suraksha- Student Overseas Travel",1,50
+16,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,51
+16,"Super reload Rider",1,52
+16,"Super Top-up Medicare Policy",1,53
+16,"Travel Corona Protect- International (Group)",1,54
+16,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,55
+16,Travelsure(Group),1,56
+16,"Unlimited Restore (Add On )",1,57
+16,"Wellness Addon",1,58
+16,"�Arogya Plus Policy",1,59
+16,"Saral Suraksha Bima",8,1
+17,"Alpa Bima � Group",1,1
+17,"Arogya Premier Policy",1,2
+17,"Chola Mashak (Mosquito) Rakshak-Group",1,3
+17,"Corona Kavach Policy",1,4
+17,"Criti Shield Plus",1,5
+17,"Digit On -the- Move Group Policy",1,6
+17,"E Travel Value policy",1,7
+17,"Easy Travel Group Travel Health�",1,8
+17,"Edelweiss HealthPlus Policy",1,9
+17,"Family Health Optima Accident Care Policy",1,10
+17,"Family Health Optima Insurance Plan",1,11
+17,"Future Criticare",1,12
+17,"Future Health Protect � Group",1,13
+17,"Future Vector Care (Group)",1,14
+17,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,15
+17,"Group Business Travelers Insurance Policy",1,16
+17,"Group Credit Health Policy",1,17
+17,"Group Loan Insurance",1,18
+17,"Group Safeguard Insurance",1,19
+17,"Health Prime -Rider for Health Products",1,20
+17,"Health Pulse",1,21
+17,"Health Recharge�",1,22
+17,"Home Credit Assure Package Insurance",1,23
+17,"Hospital Daily Cash -Group",1,24
+17,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,25
+17,"International Travel Insurance",1,26
+17,"Kotak Accident Care",1,27
+17,"Kotak Group Accident Protect",1,28
+17,"Kotak Group Accident Protect - Micro Insurance",1,29
+17,"Kotak Group Health Assure",1,30
+17,"Kotak Group Secure Shield",1,31
+17,"Kotak Group Secure Shield - Micro Insurance",1,32
+17,"M Care�",1,33
+17,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,34
+17,"my: Optima Secure",1,35
+17,"my:health�Critical Suraksha Plus",1,36
+17,"my:health�Women Suraksha",1,37
+17,"Navi Health CritiCare",1,38
+17,"Navi Health Group Critical Surgery",1,39
+17,"Navi Health Group HospiCash",1,40
+17,"Navi Health Group Seasonal Byte",1,41
+17,"Navi Health HospiCash",1,42
+17,"Oriental Insurance Bank Saathi Policy- Group",1,43
+17,"Personal Care Insurance Policy",1,44
+17,"Pravasi Bharatiya Bima Yojana Policy�",1,45
+17,"Pravasi Bhartiya Bima Yojana",1,46
+17,"Silver Health",1,47
+17,"Star Comprehensive Insurance Policy",1,48
+17,"Star Super Surplus (Floater) Insurance Policy",1,49
+17,"Star Super Surplus Insurance Policy",1,50
+17,"Student Suraksha- Student Overseas Travel",1,51
+17,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,52
+17,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,53
+17,"Super reload Rider",1,54
+17,"Tata AIG Criti- Medicare",1,55
+17,"Travel Corona Protect- International (Group)",1,56
+17,"Travel Elect (Group)",1,57
+17,TravelAssure,1,58
+17,Travelsure(Group),1,59
+17,"UB Arogyadaan",1,60
+17,"Unlimited Restore (Add On )",1,61
+17,"Wellness Addon",1,62
+17,"�Arogya Top up Policy",1,63
+17,"Domestic Travel Insurance",5,1
+17,"Optional Travel Insurance for E-ticket passengers - IRCTC",5,2
+17,"Saral Suraksha Bima",5,3
+18,"Additional S.I. for Pandemic and epidemic Rider",1,1
+18,"Arogya Premier Policy",1,2
+18,"Arogya Raksha- Group Health Insurance Scheme",1,3
+18,"Arogya Shield",1,4
+18,"Arogya Supreme",1,5
+18,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,6
+18,"Bharat Yatra Suraksha Group",1,7
+18,"Criti Shield Plus",1,8
+18,"Digit Group Total Protect Policy",1,9
+18,"Easy Travel Group Travel Health�",1,10
+18,"Edelweiss HealthPlus Policy",1,11
+18,Educare,1,12
+18,"Family Shield",1,13
+18,"Future Poorna Suraksha � Group",1,14
+18,"Future Vector Care (Group)",1,15
+18,"Future Vector Care�",1,16
+18,"Group Business Travelers Insurance Policy",1,17
+18,"Group Credit Health Policy",1,18
+18,"Group Credit Protection Policy",1,19
+18,"Group Hospital Cash Policy",1,20
+18,"Group Loan Bima",1,21
+18,"Group Personal Accident",1,22
+18,"Group Saral Suraksha Bima-Care Health Insurance",1,23
+18,"Health Booster",1,24
+18,"Health Shield 360",1,25
+18,"Home Care Treatment",1,26
+18,"Hospital Daily Cash -Group",1,27
+18,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,28
+18,"Janata Personal Accident",1,29
+18,"Kotak Accident Care",1,30
+18,"Kotak Group Accident Protect",1,31
+18,"Kotak Group Health Assure",1,32
+18,"Kotak Group Secure Shield - Micro Insurance",1,33
+18,"Loan Secure Insurance Policy",1,34
+18,"my: Optima Secure",1,35
+18,"my:health�Critical Illness (Add On)",1,36
+18,"my:health�Women Suraksha",1,37
+18,"Navi Health",1,38
+18,"Navi Health CritiCare",1,39
+18,"Navi Health Group Critical Surgery",1,40
+18,"Navi Health Group Seasonal Byte",1,41
+18,"Optima Restore",1,42
+18,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,43
+18,"Oriental - Critical illness policy",1,44
+18,"Overseas Group Travel Insurance",1,45
+18,"Quick Health",1,46
+18,"Sarv Suraksha Plus (Group)",1,47
+18,"Smart Health + (Add-On)",1,48
+18,"Star Critical Illness Multipay Insurance Policy",1,49
+18,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,50
+18,"Star Super Surplus Insurance Policy",1,51
+18,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,52
+18,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,53
+18,"Super No Claim Bonus Rider",1,54
+18,"Super Top-up Medicare Policy",1,55
+18,"Tele OPD Consultation Rider",1,56
+18,"Travel Corona Protect- International (Group)",1,57
+18,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,58
+18,"Travel Prime Holiday Insurance Policy (Group)",1,59
+18,"Travel Prime Policy",1,60
+18,Travelsure(Group),1,61
+18,"UB Arogyadaan",1,62
+18,"Unlimited Restore (Add On )",1,63
+18,"Zero Co-Pay",1,64
+18,"�Arogya Top up Policy",1,65
+18,"Saral Suraksha Bima",8,1
+19,"Alpa Bima � Group",1,1
+19,"Arogya Premier Policy",1,2
+19,"Arogya Raksha- Group Health Insurance Scheme",1,3
+19,"Arogya Sanjeevani Policy",1,4
+19,"Diabetes Safe Insurance Policy",1,5
+19,"Domestic Travel Insurance",1,6
+19,Educare,1,7
+19,"Family Care",1,8
+19,"Family Health Optima Accident Care Policy",1,9
+19,"Flexi Health Protect(Group)",1,10
+19,"Flexi Max Protect",1,11
+19,"Future Criticare",1,12
+19,"Future Vector Care (Group)",1,13
+19,"Group Credit Health Policy",1,14
+19,"Group Hospi Shield",1,15
+19,"Group Personal Accident",1,16
+19,"Group Safeguard Insurance",1,17
+19,"Group Safeguard Micro Insurance",1,18
+19,"Group Saral Suraksha Bima-Care Health Insurance",1,19
+19,"Health Plus",1,20
+19,"Health Prime -Rider for Health Products",1,21
+19,"Health Pulse",1,22
+19,"Home Care Treatment",1,23
+19,"International Travel Insurance",1,24
+19,"Kotak Group Accident Protect",1,25
+19,"Kotak Group Secure Shield - Micro Insurance",1,26
+19,"M Care�",1,27
+19,"Medi classic Insurance Policy (Individual)",1,28
+19,"my: health medisure Super Topup",1,29
+19,"my: Optima Secure",1,30
+19,"my:health�Critical Illness (Add On)",1,31
+19,"my:health�Women Suraksha",1,32
+19,"Navi Health Accident",1,33
+19,"Navi Health Group Critical Surgery",1,34
+19,"Navi Health Group Insurance",1,35
+19,"Navi Health Group Personal Accident Insurance",1,36
+19,"Navi Health HospiCash",1,37
+19,"Optional travel insurance for E-ticket passengers",1,38
+19,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,39
+19,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,40
+19,"Oriental - Critical illness policy",1,41
+19,"Oriental Insurance Bank Saathi Policy- Group",1,42
+19,"Personal Care Insurance Policy",1,43
+19,"Personal Protect Policy",1,44
+19,"Pravasi Bhartiya Bima Yojana",1,45
+19,"Ride Safe Travel Insurance",1,46
+19,"Silver Health",1,47
+19,"Star Cancer Care Platinum Insurance Policy",1,48
+19,"Star Cardiac Care Insurance Policy- Platinum",1,49
+19,"Star Micro Rural and Farmers Care",1,50
+19,"Super No Claim Bonus Rider",1,51
+19,"Super reload Rider",1,52
+19,"Super Top-up Medicare Policy",1,53
+19,"Travel Corona Protect- International (Group)",1,54
+19,"Travel Prime Holiday Insurance Policy (Group)",1,55
+19,TravelAssure,1,56
+19,"Voyager Travel Insurance (Group)",1,57
+19,"Welness Benefit Addon(Group)",1,58
+19,"�Arogya Top up Policy",1,59
+19,"Saral Suraksha Bima",9,1
+20,"Additional S.I. for Pandemic and epidemic Rider",1,1
+20,"Alpa Bima � Group",1,2
+20,"Arogya Raksha- Group Health Insurance Scheme",1,3
+20,"Arogya Sanjeevani Policy",1,4
+20,"Arogya Shield",1,5
+20,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,6
+20,"Care Classic",1,7
+20,"Chola Group Top Up Protect",1,8
+20,"Digit Group Total Protect Policy",1,9
+20,"E Travel Value policy",1,10
+20,"Easy Travel Group Travel Health�",1,11
+20,Educare,1,12
+20,"Family Health Optima Insurance Plan",1,13
+20,"Family Health Optima�",1,14
+20,"Family Shield",1,15
+20,"Future Criticare",1,16
+20,"Future Health Protect � Group",1,17
+20,"Grameen Care Plus - Micro Insurance Product",1,18
+20,"Group Corona Kavach Policy",1,19
+20,"Group Credit Health Policy",1,20
+20,"Group Credit Protection Policy",1,21
+20,"Group Easy Travel Senior",1,22
+20,"Group Hospital Cash Policy",1,23
+20,"Group Protect",1,24
+20,"Group Safeguard Insurance",1,25
+20,"Group Saral Suraksha Bima-Care Health Insurance",1,26
+20,"Group Travel Insurance",1,27
+20,"HDFC ERGO Group Health Insurance",1,28
+20,"Health Prime -Rider for Health Products",1,29
+20,"Health Prime (Group)",1,30
+20,"Home Care Treatment",1,31
+20,"Home Credit Assure Package Insurance",1,32
+20,"Kotak Accident Care",1,33
+20,"Kotak Group Accident Protect",1,34
+20,"Kotak Group Health Assure",1,35
+20,"Kotak Secure Shield",1,36
+20,"M Care (Group)",1,37
+20,"M Care�",1,38
+20,"my: health medisure Super Topup",1,39
+20,"my: Optima Secure",1,40
+20,"my: Sampoorna Suraksha",1,41
+20,"my:credit�Comprehensive Suraksha",1,42
+20,"my:health�Comprehensive Suraksha - Group",1,43
+20,"Navi Cure",1,44
+20,"Navi Health",1,45
+20,"Navi Health Group Critical Surgery",1,46
+20,"Navi Health Group HospiCash",1,47
+20,"Navi Health Group Insurance",1,48
+20,"Navi Health Group Personal Accident Insurance",1,49
+20,"Navi Health Group Seasonal Byte",1,50
+20,"Navi Health Group Travel Insurance",1,51
+20,"Navi Health HospiCash",1,52
+20,"Navi Health Super Top Up",1,53
+20,"Optional travel insurance for E-ticket passengers",1,54
+20,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,55
+20,"Oriental Insurance Bank Saathi Policy- Group",1,56
+20,"Pravasi Bhartiya Bima Yojana",1,57
+20,"Ride Safe Travel Insurance",1,58
+20,"Senior Citizens Red Carpet Health Insurance Policy�",1,59
+20,"Silver Health",1,60
+20,"Star Cardiac Care Insurance Policy",1,61
+20,"Star Cardiac Care Insurance Policy- Platinum",1,62
+20,"Star Critical Illness Multipay Insurance Policy",1,63
+20,"Star Group Critical Illness Multipay Insurance Policy",1,64
+20,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,65
+20,"Star Super Surplus (Floater) Insurance Policy",1,66
+20,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,67
+20,"Super reload Rider",1,68
+20,"Super Top-up Medicare Policy",1,69
+20,"Travel Insurance�",1,70
+20,"Voyager Travel Insurance (Group)",1,71
+20,"Welness Benefit Addon(Group)",1,72
+20,"Young Star Insurance Policy",1,73
+20,"�Arogya Plus Policy",1,74
+20,"Saral Suraksha Bima",10,1
+21,"Additional S.I. for Pandemic and epidemic Rider",1,1
+21,"Alpa Bima � Group",1,2
+21,"Arogya Sanjeevani Policy",1,3
+21,"Bharat Yatra Suraksha",1,4
+21,"BoB National Health Policy",1,5
+21,"Care Plus",1,6
+21,"Chola Group EMI Protect",1,7
+21,"Corona Kavach Policy",1,8
+21,"Criti Shield Plus",1,9
+21,"E Travel Value policy",1,10
+21,"Family Care",1,11
+21,"Family Health Optima Accident Care Policy",1,12
+21,"Family Shield",1,13
+21,"Flexi Health Protect(Group)",1,14
+21,"Flexi Max Protect",1,15
+21,"Future Hospicash",1,16
+21,"Future Vector Care (Group)",1,17
+21,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,18
+21,"Group Credit Protection Policy",1,19
+21,"Group Hospital Cash Policy",1,20
+21,"Group Loan Bima",1,21
+21,"Group Loan Insurance",1,22
+21,"Group Saral Suraksha Bima-Care Health Insurance",1,23
+21,"Health Booster",1,24
+21,"Health Insurance Policy � Retail",1,25
+21,"Health Plus",1,26
+21,"Health Pulse",1,27
+21,"Health Recharge�",1,28
+21,"Health Total",1,29
+21,"Income Protect",1,30
+21,"Kotak Group Accident Protect - Micro Insurance",1,31
+21,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,32
+21,"my: Sampoorna Suraksha",1,33
+21,"my:health�Comprehensive Suraksha - Group",1,34
+21,"my:health�Critical Illness (Add On)",1,35
+21,"my:health�Critical Suraksha Plus",1,36
+21,"my:health�Women Suraksha",1,37
+21,"Navi Cure",1,38
+21,"Navi Health Group Seasonal Byte",1,39
+21,"Navi Health HospiCash",1,40
+21,"Optima Restore",1,41
+21,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,42
+21,"Pravasi Bharatiya Bima Yojana Policy�",1,43
+21,"Ride Safe Travel Insurance",1,44
+21,"Saral Suraksha Bima",1,45
+21,"Saral Suraksha Bima-Group",1,46
+21,"Smart Health + (Add-On)",1,47
+21,"Star Group Covid Insurance Policy",1,48
+21,"Star Group Critical Illness Multipay Insurance Policy",1,49
+21,"Star Super Surplus (Floater) Insurance Policy",1,50
+21,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,51
+21,"Super Top-up Medicare Policy",1,52
+21,"Surakshit Loan Bima",1,53
+21,"Tele OPD Consultation Rider",1,54
+21,"Travel Assist Card�",1,55
+21,"Travel Elect (Group)",1,56
+21,"Travel Prime Holiday Insurance Policy (Group)",1,57
+21,"Travel Prime Policy",1,58
+21,"Unlimited Restore (Add On )",1,59
+21,"Voyager Travel Insurance (Group)",1,60
+21,"Family Medicare Policy",4,1
+22,"Alpa Bima � Group",1,1
+22,"Arogya Raksha- Group Health Insurance Scheme",1,2
+22,"Arogya Sanjeevani",1,3
+22,"Arogya Sanjeevani Policy",1,4
+22,"Arogya Shield",1,5
+22,"Arogya Supreme",1,6
+22,"Chola Mashak (Mosquito) Rakshak-Group",1,7
+22,"Criti Shield Plus",1,8
+22,"Digit On -the- Move Group Policy",1,9
+22,"Family Care",1,10
+22,"Family Health Optima Insurance Plan",1,11
+22,"Family Shield",1,12
+22,"Future Health Protect � Group",1,13
+22,"Group Safeguard Micro Insurance",1,14
+22,"Group Saral Suraksha Bima-Care Health Insurance",1,15
+22,"Group Travel Insurance",1,16
+22,"Health Insurance Policy � Retail",1,17
+22,"Health Plus",1,18
+22,"Health Pulse",1,19
+22,"Health Recharge�",1,20
+22,"Health Total",1,21
+22,"Home Credit Assure Package Insurance",1,22
+22,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,23
+22,"Income Protect",1,24
+22,"Kotak Accident Care",1,25
+22,"Kotak Group Secure Shield",1,26
+22,"M Care�",1,27
+22,"Medi classic Insurance Policy (Individual)",1,28
+22,"my: Sampoorna Suraksha",1,29
+22,"my:health�Critical Suraksha Plus",1,30
+22,"Navi Cure",1,31
+22,"Navi Health Group Critical Surgery",1,32
+22,"Navi Health Group Insurance",1,33
+22,"Navi Health Group Personal Accident Insurance",1,34
+22,"Navi Health Group Travel Insurance",1,35
+22,"Navi Health HospiCash",1,36
+22,"Pravasi Bhartiya Bima Yojana",1,37
+22,"Rashtriya Swasthya Bima Yojana",1,38
+22,"Sarv Suraksha Plus (Group)",1,39
+22,"Silver Health",1,40
+22,"Star Cardiac Care Insurance Policy",1,41
+22,"Star Cardiac Care Insurance Policy- Platinum",1,42
+22,"Star Comprehensive Insurance Policy",1,43
+22,"Star Critical Illness Multipay Insurance Policy",1,44
+22,"Star Group Critical Illness Multipay Insurance Policy",1,45
+22,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,46
+22,"Star Micro Rural and Farmers Care",1,47
+22,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,48
+22,"Super Top-up Medicare Policy",1,49
+22,"Tata AIG Criti- Medicare",1,50
+22,"Travel Corona Protect- International (Group)",1,51
+22,"Travel Insurance�",1,52
+22,TravelAssure,1,53
+22,"Welness Benefit Addon(Group)",1,54
+22,"Zero Co-Pay",1,55
+22,"�Arogya Plus Policy",1,56
+22,"Saral Suraksha Bima",8,1
+23,"Alpa Bima � Group",1,1
+23,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,2
+23,"Bharat Yatra Suraksha",1,3
+23,"BoB National Health Policy",1,4
+23,"Care Classic",1,5
+23,"Care Plus",1,6
+23,"Chola Mashak (Mosquito) Rakshak-Group",1,7
+23,"E Travel Value policy",1,8
+23,"Easy Travel",1,9
+23,"Edelweiss HealthPlus Policy",1,10
+23,Educare,1,11
+23,"Family Health Optima Accident Care Policy",1,12
+23,"Family Health Optima�",1,13
+23,"Future Criticare",1,14
+23,"Future Health Protect � Group",1,15
+23,"Future Poorna Suraksha � Group",1,16
+23,"Future Vector Care (Group)",1,17
+23,"Future Vector Care�",1,18
+23,"Globetrotter - Overseas Group Travel Insurance",1,19
+23,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,20
+23,"Group Business Travelers Insurance Policy",1,21
+23,"Group Corona Kavach Policy",1,22
+23,"Group Credit Protection Policy",1,23
+23,"Group Easy Travel Senior",1,24
+23,"Health Insurance Policy � Retail",1,25
+23,"Health Prime (Group)",1,26
+23,"Health Pulse",1,27
+23,"Health Total",1,28
+23,"International Travel Insurance",1,29
+23,"IRCTC Air Care Policy",1,30
+23,"Kotak Group Accident Protect - Micro Insurance",1,31
+23,"Kotak Group Health Assure",1,32
+23,"Kotak Secure Shield",1,33
+23,"M Care�",1,34
+23,"Mosquito Disease Protection Policy � Group",1,35
+23,"my:health�Women Suraksha",1,36
+23,"Navi Health Group Seasonal Byte",1,37
+23,"Navi Health Seasonal Byte",1,38
+23,"Optima Restore",1,39
+23,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,40
+23,"Personal Care Insurance Policy",1,41
+23,"Personal Protect Policy",1,42
+23,"Rashtriya Swasthya Bima Yojana",1,43
+23,"Sarv Suraksha Plus (Group)",1,44
+23,"Smart Health + (Add-On)",1,45
+23,"Star Cancer Care Platinum Insurance Policy",1,46
+23,"Star Comprehensive Insurance Policy",1,47
+23,"Star Critical Illness Multipay Insurance Policy",1,48
+23,"Star Group Covid Insurance Policy",1,49
+23,"Star Group Critical Illness Multipay Insurance Policy",1,50
+23,"Star Super Surplus Insurance Policy",1,51
+23,"Super No Claim Bonus Rider",1,52
+23,"Tata AIG Criti- Medicare",1,53
+23,"Travel Prime Policy",1,54
+23,Travelsure(Group),1,55
+23,"Welness Benefit Addon(Group)",1,56
+23,"�Arogya Plus Policy",1,57
+23,"Saral Suraksha Bima",8,1
+24,"Arogya Premier Policy",1,1
+24,"Arogya Raksha- Group Health Insurance Scheme",1,2
+24,"Care Classic",1,3
+24,"Chola Group Top Up Protect",1,4
+24,"Diabetes Safe Insurance Policy",1,5
+24,"Digit On -the- Move Group Policy",1,6
+24,"Domestic Travel Insurance",1,7
+24,"E Travel Value policy",1,8
+24,"Family Health Optima Insurance Plan",1,9
+24,"Family Shield",1,10
+24,"Flexi Health Protect(Group)",1,11
+24,"Future Poorna Suraksha � Group",1,12
+24,"Future Vector Care (Group)",1,13
+24,"Grameen Care Plus - Micro Insurance Product",1,14
+24,"Group Credit Health Policy",1,15
+24,"Group Credit Protection Policy",1,16
+24,"Group Hospi Shield",1,17
+24,"Group Hospital Cash Policy",1,18
+24,"Group Travel Insurance",1,19
+24,"Health Booster",1,20
+24,"Health Total",1,21
+24,"Home Care Treatment",1,22
+24,"Hospital Daily Cash -Group",1,23
+24,"IRCTC Air Care Policy",1,24
+24,"Kotak Group Accident Protect",1,25
+24,"Kotak Group Secure Shield",1,26
+24,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,27
+24,"Medi classic Insurance Policy (Individual)",1,28
+24,"my:health�Critical Illness (Add On)",1,29
+24,"Navi Health Group Critical Illness Insurance",1,30
+24,"Navi Health Seasonal Byte",1,31
+24,"Optima Restore",1,32
+24,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,33
+24,"Overseas Group Travel Insurance",1,34
+24,"Personal Care Insurance Policy",1,35
+24,"Personal Protect Policy",1,36
+24,"Pravasi Bharatiya Bima Yojana Policy�",1,37
+24,"Pravasi Bhartiya Bima Yojana",1,38
+24,"Quick Health",1,39
+24,"Ride Safe Travel Insurance",1,40
+24,"Sarv Suraksha Plus (Group)",1,41
+24,"Silver Health",1,42
+24,"Smart Health + (Add-On)",1,43
+24,"Star Comprehensive Insurance Policy",1,44
+24,"Star Critical Illness Multipay Insurance Policy",1,45
+24,"Star Group Covid Insurance Policy",1,46
+24,"Star Group Critical Illness Multipay Insurance Policy",1,47
+24,"Student Suraksha- Student Overseas Travel",1,48
+24,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,49
+24,"Super reload Rider",1,50
+24,"Super Top-up Medicare Policy",1,51
+24,"Swasthya Suraksha",1,52
+24,"Tele OPD Consultation Rider",1,53
+24,"Travel Assist Card�",1,54
+24,"Travel Corona Protect- International (Group)",1,55
+24,"Travel Prime Policy",1,56
+24,"UB Arogyadaan",1,57
+24,"Wellness Addon",1,58
+24,"Zero Co-Pay",1,59
+24,"Saral Suraksha Bima",9,1
+25,"Alpa Bima � Group",1,1
+25,"Arogya Raksha- Group Health Insurance Scheme",1,2
+25,"Arogya Sanjeevani",1,3
+25,"Arogya Sanjeevani Policy",1,4
+25,"Arogya Shield",1,5
+25,"Arogya Supreme",1,6
+25,"Bharat Yatra Suraksha",1,7
+25,"Bharat Yatra Suraksha Group",1,8
+25,"Care Classic",1,9
+25,"Chola Group EMI Protect",1,10
+25,"Criti Shield Plus",1,11
+25,"Diabetes Safe Insurance Policy",1,12
+25,"E Travel Value policy",1,13
+25,Educare,1,14
+25,"Family Health Optima�",1,15
+25,"Family Shield",1,16
+25,"Flexi Health Protect(Group)",1,17
+25,"Future Hospicash",1,18
+25,"Future Poorna Suraksha � Group",1,19
+25,"Future Vector Care (Group)",1,20
+25,"Globetrotter - Overseas Group Travel Insurance",1,21
+25,"Group Protect",1,22
+25,"HDFC ERGO Group Health Insurance",1,23
+25,"Health Booster",1,24
+25,"Health Insurance Policy � Retail",1,25
+25,"Health Pulse",1,26
+25,"Health Shield 360",1,27
+25,"Health Total",1,28
+25,"International Travel Insurance",1,29
+25,"IRCTC Air Care Policy",1,30
+25,"Kotak Accident Care",1,31
+25,"Kotak Group Accident Protect",1,32
+25,"Kotak Group Health Assure",1,33
+25,"Kotak Secure Shield",1,34
+25,"M Care�",1,35
+25,"my: Sampoorna Suraksha",1,36
+25,"my:credit�Comprehensive Suraksha",1,37
+25,"my:health�Critical Illness (Add On)",1,38
+25,"Navi Health",1,39
+25,"Navi Health Group Personal Accident Insurance",1,40
+25,"Navi Health Group Travel Insurance",1,41
+25,"Optima Restore",1,42
+25,"Optional travel insurance for E-ticket passengers",1,43
+25,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,44
+25,"Oriental Insurance Bank Saathi Policy- Group",1,45
+25,"Personal Care Insurance Policy",1,46
+25,"Pravasi Bhartiya Bima Yojana",1,47
+25,"Quick Health",1,48
+25,"Smart Health + (Add-On)",1,49
+25,"Star Cardiac Care Insurance Policy- Platinum",1,50
+25,"Star Critical Illness Multipay Insurance Policy",1,51
+25,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,52
+25,"Tata AIG Criti- Medicare",1,53
+25,"Travel Assist Card�",1,54
+25,"Travel Prime Policy",1,55
+25,"Unlimited Restore (Add On )",1,56
+25,"Voyager Travel Insurance (Group)",1,57
+25,"Zero Co-Pay",1,58
+25,"�Arogya Plus Policy",1,59
+25,"Saral Suraksha Bima",8,1
+26,"Arogya Shield",1,1
+26,"Bharat Yatra Suraksha",1,2
+26,"Corona Kavach Policy",1,3
+26,"Diabetes Safe Insurance Policy",1,4
+26,"Digit Group Total Protect Policy",1,5
+26,"Digit On -the- Move Group Policy",1,6
+26,"Domestic Travel Insurance",1,7
+26,"Easy Travel",1,8
+26,"Easy Travel Group Travel Health�",1,9
+26,"Family Care",1,10
+26,"Family Health Optima Accident Care Policy",1,11
+26,"Future Criticare",1,12
+26,"Future Poorna Suraksha � Group",1,13
+26,"Future Vector Care (Group)",1,14
+26,"Globetrotter - Overseas Group Travel Insurance",1,15
+26,"Grameen Care Plus - Micro Insurance Product",1,16
+26,"Group Hospi Shield",1,17
+26,"Group Protect",1,18
+26,"Group Safeguard Insurance",1,19
+26,"Group Saral Suraksha Bima-Care Health Insurance",1,20
+26,"Group Travel Insurance",1,21
+26,"Health Insurance Policy � Retail",1,22
+26,"Health Prime -Rider for Health Products",1,23
+26,"Health Prime (Group)",1,24
+26,"Health Recharge�",1,25
+26,"Health Shield 360",1,26
+26,"Hospital Daily Cash -Group",1,27
+26,"Kotak Group Health Assure",1,28
+26,"Kotak Secure Shield",1,29
+26,"Loan Secure Insurance Policy",1,30
+26,"M Care (Group)",1,31
+26,"Medi classic Insurance Policy (Individual)",1,32
+26,"my:credit�Comprehensive Suraksha",1,33
+26,"my:health�Comprehensive Suraksha - Group",1,34
+26,"my:health�Critical Suraksha Plus",1,35
+26,"Navi Health CritiCare",1,36
+26,"Navi Health Group Critical Illness Insurance",1,37
+26,"Navi Health Super Top Up",1,38
+26,"Optional travel insurance for E-ticket passengers",1,39
+26,"Oriental - Critical illness policy",1,40
+26,"Oriental Insurance Bank Saathi Policy- Group",1,41
+26,"Overseas Group Travel Insurance",1,42
+26,"Personal Protect Policy",1,43
+26,"Pravasi Bhartiya Bima Yojana",1,44
+26,"Ride Safe Travel Insurance",1,45
+26,"Saral Suraksha Bima-Group",1,46
+26,"Star Cancer Care Platinum Insurance Policy",1,47
+26,"Star Group Covid Insurance Policy",1,48
+26,"Star Super Surplus (Floater) Insurance Policy",1,49
+26,"Star Super Surplus Insurance Policy",1,50
+26,"Student Suraksha- Student Overseas Travel",1,51
+26,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,52
+26,"Super reload Rider",1,53
+26,"Surakshit Loan Bima",1,54
+26,"Swasthya Suraksha",1,55
+26,"Tata AIG Criti- Medicare",1,56
+26,"Tele OPD Consultation Rider",1,57
+26,"Travel Assist Card�",1,58
+26,"Travel Companion",1,59
+26,"Travel Corona Protect- International (Group)",1,60
+26,"Travel Elect (Group)",1,61
+26,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,62
+26,"Travel Insurance�",1,63
+26,"Travel Prime Holiday Insurance Policy (Group)",1,64
+26,TravelAssure,1,65
+26,"UB Arogyadaan",1,66
+26,"Young Star Insurance Policy",1,67
+26,"�Arogya Plus Policy",1,68
+26,"Group Credit Health Policy",4,1
+26,"Group Credit Secure Plus",4,2
+26,"Group Hospital Cash Policy",4,3
+26,"Star Group Critical Illness Multipay Insurance Policy",4,4
+27,"Alpa Bima � Group",1,1
+27,"Arogya Premier Policy",1,2
+27,"Arogya Raksha- Group Health Insurance Scheme",1,3
+27,"Arogya Shield",1,4
+27,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,5
+27,"Bharat Yatra Suraksha",1,6
+27,"Care Plus",1,7
+27,"Corona Kavach Policy",1,8
+27,"Criti Shield Plus",1,9
+27,"Diabetes Safe Insurance Policy",1,10
+27,"Digit On -the- Move Group Policy",1,11
+27,"Domestic Travel Insurance",1,12
+27,"E Travel Value policy",1,13
+27,Educare,1,14
+27,"Family Care",1,15
+27,"Flexi Health Protect(Group)",1,16
+27,"Future Vector Care (Group)",1,17
+27,"Group Corona Kavach Policy",1,18
+27,"Group Credit Protection Policy",1,19
+27,"Group Easy Travel Senior",1,20
+27,"Group Hospi Shield",1,21
+27,"Group Hospital Cash Policy",1,22
+27,"Group Personal Accident",1,23
+27,"Group Protect",1,24
+27,"Group Saral Suraksha Bima-Care Health Insurance",1,25
+27,"HDFC ERGO Group Health Insurance",1,26
+27,"Health Plus",1,27
+27,"Health Prime -Rider for Health Products",1,28
+27,"Health Prime (Group)",1,29
+27,"Health Total",1,30
+27,"Home Credit Assure Package Insurance",1,31
+27,"Income Protect",1,32
+27,"International Travel Insurance",1,33
+27,"IRCTC Air Care Policy",1,34
+27,"Janata Personal Accident",1,35
+27,"Kotak Group Health Assure",1,36
+27,"Kotak Group Secure Shield - Micro Insurance",1,37
+27,"Kotak Secure Shield",1,38
+27,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,39
+27,"my:health�Critical Illness (Add On)",1,40
+27,"Navi Cure",1,41
+27,"Navi Health",1,42
+27,"Navi Health Accident",1,43
+27,"Navi Health CritiCare",1,44
+27,"Navi Health Group Seasonal Byte",1,45
+27,"Navi Health Seasonal Byte",1,46
+27,"Navi Health Super Top Up",1,47
+27,"Overseas Group Travel Insurance",1,48
+27,"Quick Health",1,49
+27,"Rashtriya Swasthya Bima Yojana",1,50
+27,"Saral Suraksha Bima-Group",1,51
+27,"Sarv Suraksha Plus (Group)",1,52
+27,"Senior Citizens Red Carpet Health Insurance Policy�",1,53
+27,"Smart Health + (Add-On)",1,54
+27,"Star Critical Illness Multipay Insurance Policy",1,55
+27,"Star Super Surplus (Floater) Insurance Policy",1,56
+27,"Surakshit Loan Bima",1,57
+27,"Travel Corona Protect- International (Group)",1,58
+27,"Travel Elect (Group)",1,59
+27,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,60
+27,Travelsure(Group),1,61
+27,"�Arogya Plus Policy",1,62
+27,"Saral Suraksha Bima",10,1
+28,"Arogya Raksha- Group Health Insurance Scheme",1,1
+28,"Arogya Sanjeevani Policy",1,2
+28,"Arogya Supreme",1,3
+28,"Chola Group EMI Protect",1,4
+28,"Diabetes Safe Insurance Policy",1,5
+28,"Domestic Travel Insurance",1,6
+28,"Easy Travel",1,7
+28,"Easy Travel Group Travel Health�",1,8
+28,"Family Health Optima Insurance Plan",1,9
+28,"Family Medicare Policy",1,10
+28,"Family Shield",1,11
+28,"Flexi Health Protect(Group)",1,12
+28,"Future Criticare",1,13
+28,"Future Hospicash",1,14
+28,"Future Vector Care (Group)",1,15
+28,"Globetrotter - Overseas Group Travel Insurance",1,16
+28,"Group Corona Kavach Policy",1,17
+28,"Group Credit Health Policy",1,18
+28,"Group Credit Protection Policy",1,19
+28,"Group Hospi Shield",1,20
+28,"Group Hospital Cash Policy",1,21
+28,"Group Protect",1,22
+28,"Group Safeguard Micro Insurance",1,23
+28,"Health Booster",1,24
+28,"Health Prime (Group)",1,25
+28,"Health Total",1,26
+28,"Home Credit Assure Package Insurance",1,27
+28,"International Travel Insurance",1,28
+28,"IRCTC Air Care Policy",1,29
+28,"Kotak Group Accident Protect",1,30
+28,"Kotak Group Accident Protect - Micro Insurance",1,31
+28,"Loan Secure Insurance Policy",1,32
+28,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,33
+28,"my: health medisure Super Topup",1,34
+28,"my: Optima Secure",1,35
+28,"my:health�Comprehensive Suraksha - Group",1,36
+28,"my:health�Critical Illness (Add On)",1,37
+28,"Navi Health",1,38
+28,"Navi Health CritiCare",1,39
+28,"Navi Health Group Critical Surgery",1,40
+28,"Navi Health Group Personal Accident Insurance",1,41
+28,"Navi Health Group Travel Insurance",1,42
+28,"Optional travel insurance for E-ticket passengers",1,43
+28,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,44
+28,"Oriental - Critical illness policy",1,45
+28,"Personal Care Insurance Policy",1,46
+28,"Saral Suraksha Bima-Group",1,47
+28,"Star Cardiac Care Insurance Policy- Platinum",1,48
+28,"Star Comprehensive Insurance Policy",1,49
+28,"Star Group Covid Insurance Policy",1,50
+28,"Star Micro Rural and Farmers Care",1,51
+28,"Star Super Surplus (Floater) Insurance Policy",1,52
+28,"Star Super Surplus Insurance Policy",1,53
+28,"Surakshit Loan Bima",1,54
+28,"Swasthya Suraksha",1,55
+28,"Tele OPD Consultation Rider",1,56
+28,"Travel Assist Card�",1,57
+28,"Travel Companion",1,58
+28,"Travel Insurance�",1,59
+28,"Travel Prime Holiday Insurance Policy (Group)",1,60
+28,Travelsure(Group),1,61
+28,"UB Arogyadaan",1,62
+28,"Voyager Travel Insurance (Group)",1,63
+28,"Young Star Insurance Policy",1,64
+28,"Zero Co-Pay",1,65
+28,"Saral Suraksha Bima",6,1
+29,"Additional S.I. for Pandemic and epidemic Rider",1,1
+29,"Arogya Premier Policy",1,2
+29,"Arogya Sanjeevani",1,3
+29,"Bharat Yatra Suraksha",1,4
+29,"Bharat Yatra Suraksha Group",1,5
+29,"Care Plus",1,6
+29,"Chola Group EMI Protect",1,7
+29,"Chola Mashak (Mosquito) Rakshak-Group",1,8
+29,"Corona Kavach Policy",1,9
+29,"E Travel Value policy",1,10
+29,"Easy Travel",1,11
+29,"Edelweiss HealthPlus Policy",1,12
+29,Educare,1,13
+29,"Family Health Optima�",1,14
+29,"Family Shield",1,15
+29,"Flexi Max Protect",1,16
+29,"Future Criticare",1,17
+29,"Future Vector Care�",1,18
+29,"Globetrotter - Overseas Individual Student Travel Insurance",1,19
+29,"Group Business Travelers Insurance Policy",1,20
+29,"Group Corona Kavach Policy",1,21
+29,"Group Credit Health Policy",1,22
+29,"Group Easy Travel Senior",1,23
+29,"Group Hospi Shield",1,24
+29,"Group Hospital Cash Policy",1,25
+29,"Group Loan Bima",1,26
+29,"Group Safeguard Micro Insurance",1,27
+29,"Group Travel Insurance",1,28
+29,"Health Booster",1,29
+29,"Health Insurance Policy � Retail",1,30
+29,"Health Plus",1,31
+29,"Health Prime (Group)",1,32
+29,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,33
+29,"Income Protect",1,34
+29,"IRCTC Air Care Policy",1,35
+29,"Kotak Group Health Assure",1,36
+29,"Kotak Group Secure Shield",1,37
+29,"M Care (Group)",1,38
+29,"my:credit�Comprehensive Suraksha",1,39
+29,"my:health�Women Suraksha",1,40
+29,"Navi Cure",1,41
+29,"Navi Health",1,42
+29,"Navi Health Accident",1,43
+29,"Navi Health Group HospiCash",1,44
+29,"Navi Health Group Insurance",1,45
+29,"Navi Health Group Personal Accident Insurance",1,46
+29,"Navi Health Group Seasonal Byte",1,47
+29,"Navi Health Group Travel Insurance",1,48
+29,"Navi Health Seasonal Byte",1,49
+29,"Navi Health Super Top Up",1,50
+29,"Optional travel insurance for E-ticket passengers",1,51
+29,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,52
+29,"Personal Protect Policy",1,53
+29,"Pravasi Bharatiya Bima Yojana Policy�",1,54
+29,"Pravasi Bhartiya Bima Yojana",1,55
+29,"Rashtriya Swasthya Bima Yojana",1,56
+29,"Ride Safe Travel Insurance",1,57
+29,"Saral Suraksha Bima-Group",1,58
+29,"Silver Health",1,59
+29,"Star Cardiac Care Insurance Policy",1,60
+29,"Star Comprehensive Insurance Policy",1,61
+29,"Star Group Critical Illness Multipay Insurance Policy",1,62
+29,"Star Super Surplus (Floater) Insurance Policy",1,63
+29,"Star Super Surplus Insurance Policy",1,64
+29,"Student Suraksha- Student Overseas Travel",1,65
+29,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,66
+29,"Super No Claim Bonus Rider",1,67
+29,"Swasthya Suraksha",1,68
+29,"Tele OPD Consultation Rider",1,69
+29,"Travel Corona Protect- International (Group)",1,70
+29,"Travel Insurance�",1,71
+29,"Travel Prime Holiday Insurance Policy (Group)",1,72
+29,"Travel Prime Policy",1,73
+29,Travelsure(Group),1,74
+29,"Zero Co-Pay",1,75
+29,"Saral Suraksha Bima",6,1
+30,"Additional S.I. for Pandemic and epidemic Rider",1,1
+30,"Alpa Bima � Group",1,2
+30,"Bharat Yatra Suraksha Group",1,3
+30,"Care Classic",1,4
+30,"Chola Group Top Up Protect",1,5
+30,"Corona Kavach Policy",1,6
+30,"Criti Shield Plus",1,7
+30,"Diabetes Safe Insurance Policy",1,8
+30,"Digit Group Total Protect Policy",1,9
+30,"Digit On -the- Move Group Policy",1,10
+30,"Family Care",1,11
+30,"Family Health Optima�",1,12
+30,"Future Criticare",1,13
+30,"Future Hospicash",1,14
+30,"Globetrotter - Overseas Individual Student Travel Insurance",1,15
+30,"Group Business Travelers Insurance Policy",1,16
+30,"Group Corona Kavach Policy",1,17
+30,"Group Credit Protection Policy",1,18
+30,"Group Loan Bima",1,19
+30,"Group Protect",1,20
+30,"Health Insurance Policy � Retail",1,21
+30,"Health Shield 360",1,22
+30,"Income Protect",1,23
+30,"Janata Personal Accident",1,24
+30,"Kotak Group Secure Shield - Micro Insurance",1,25
+30,"Loan Secure Insurance Policy",1,26
+30,"M Care (Group)",1,27
+30,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,28
+30,"Medi classic Insurance Policy (Individual)",1,29
+30,"my: health medisure Super Topup",1,30
+30,"my: Optima Secure",1,31
+30,"my: Sampoorna Suraksha",1,32
+30,"Navi Health Group Personal Accident Insurance",1,33
+30,"Oriental - Critical illness policy",1,34
+30,"Oriental Insurance Bank Saathi Policy- Group",1,35
+30,"Overseas Group Travel Insurance",1,36
+30,"Personal Protect Policy",1,37
+30,"Silver Health",1,38
+30,"Smart Health + (Add-On)",1,39
+30,"Star Cardiac Care Insurance Policy",1,40
+30,"Star Super Surplus (Floater) Insurance Policy",1,41
+30,"Student Suraksha- Student Overseas Travel",1,42
+30,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,43
+30,"Super Top-up Medicare Policy",1,44
+30,"Travel Assist Card�",1,45
+30,"Travel Companion",1,46
+30,"Travel Prime Policy",1,47
+30,"UB Arogyadaan",1,48
+30,"Welness Benefit Addon(Group)",1,49
+30,"�Arogya Plus Policy",1,50
+30,"�Arogya Top up Policy",1,51
+30,"Bharat Yatra Suraksha",4,1
+30,"Family Medicare Policy",4,2
+30,"Saral Suraksha Bima",4,3
+30,"Wellness Addon",4,4
+31,"Arogya Sanjeevani",1,1
+31,"Arogya Shield",1,2
+31,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,3
+31,"Bharat Yatra Suraksha",1,4
+31,"BoB National Health Policy",1,5
+31,"Chola Group Top Up Protect",1,6
+31,"Digit On -the- Move Group Policy",1,7
+31,"Easy Travel",1,8
+31,Educare,1,9
+31,"Family Care",1,10
+31,"Family Health Optima Accident Care Policy",1,11
+31,"Family Shield",1,12
+31,"Flexi Max Protect",1,13
+31,"Future Criticare",1,14
+31,"Future Poorna Suraksha � Group",1,15
+31,"Future Vector Care (Group)",1,16
+31,"Future Vector Care�",1,17
+31,"Grameen Care Plus - Micro Insurance Product",1,18
+31,"Group Easy Travel Senior",1,19
+31,"Group Hospi Shield",1,20
+31,"Group Personal Accident",1,21
+31,"Group Protect",1,22
+31,"Health Booster",1,23
+31,"Health Plus",1,24
+31,"Health Prime (Group)",1,25
+31,"Health Recharge�",1,26
+31,"Health Shield 360",1,27
+31,"International Travel Insurance",1,28
+31,"IRCTC Air Care Policy",1,29
+31,"Kotak Accident Care",1,30
+31,"Kotak Group Secure Shield",1,31
+31,"my:credit�Comprehensive Suraksha",1,32
+31,"my:health�Comprehensive Suraksha - Group",1,33
+31,"my:health�Critical Suraksha Plus",1,34
+31,"Navi Health Accident",1,35
+31,"Navi Health Group Insurance",1,36
+31,"Navi Health Group Travel Insurance",1,37
+31,"Navi Health Super Top Up",1,38
+31,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,39
+31,"Oriental - Critical illness policy",1,40
+31,"Overseas Group Travel Insurance",1,41
+31,"Pravasi Bharatiya Bima Yojana Policy�",1,42
+31,"Pravasi Bhartiya Bima Yojana",1,43
+31,"Quick Health",1,44
+31,"Saral Suraksha Bima-Group",1,45
+31,"Sarv Suraksha Plus (Group)",1,46
+31,"Star Cardiac Care Insurance Policy",1,47
+31,"Star Group Covid Insurance Policy",1,48
+31,"Star Group Critical Illness Multipay Insurance Policy",1,49
+31,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,50
+31,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,51
+31,"Super No Claim Bonus Rider",1,52
+31,"Super Top-up Medicare Policy",1,53
+31,"Travel Companion",1,54
+31,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,55
+31,"Travel Insurance�",1,56
+31,"Travel Prime Holiday Insurance Policy (Group)",1,57
+31,TravelAssure,1,58
+31,Travelsure(Group),1,59
+31,"Zero Co-Pay",1,60
+31,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",5,1
+31,"Travel Prime Policy",5,2
+32,"Additional S.I. for Pandemic and epidemic Rider",1,1
+32,"Alpa Bima � Group",1,2
+32,"Arogya Premier Policy",1,3
+32,"Arogya Sanjeevani",1,4
+32,"Arogya Sanjeevani Policy",1,5
+32,"Arogya Supreme",1,6
+32,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,7
+32,"Bharat Yatra Suraksha",1,8
+32,"Bharat Yatra Suraksha Group",1,9
+32,"Care Plus",1,10
+32,"Diabetes Safe Insurance Policy",1,11
+32,"Digit Group Total Protect Policy",1,12
+32,"Domestic Travel Insurance",1,13
+32,"Family Health Optima Accident Care Policy",1,14
+32,"Future Hospicash",1,15
+32,"Future Poorna Suraksha � Group",1,16
+32,"Future Vector Care (Group)",1,17
+32,"Globetrotter - Overseas Group Travel Insurance",1,18
+32,"Globetrotter - Overseas Individual Student Travel Insurance",1,19
+32,"Group Corona Kavach Policy",1,20
+32,"Group Credit Protection Policy",1,21
+32,"Group Hospital Cash Policy",1,22
+32,"Group Loan Insurance",1,23
+32,"Group Protect",1,24
+32,"Group Travel Insurance",1,25
+32,"Health Insurance Policy � Retail",1,26
+32,"Health Pulse",1,27
+32,"Income Protect",1,28
+32,"Kotak Accident Care",1,29
+32,"Kotak Group Secure Shield",1,30
+32,"Kotak Group Secure Shield - Micro Insurance",1,31
+32,"M Care�",1,32
+32,"Mosquito Disease Protection Policy � Group",1,33
+32,"my: health medisure Super Topup",1,34
+32,"my: Sampoorna Suraksha",1,35
+32,"my:credit�Comprehensive Suraksha",1,36
+32,"my:health�Comprehensive Suraksha - Group",1,37
+32,"my:health�Critical Illness (Add On)",1,38
+32,"my:health�Women Suraksha",1,39
+32,"Navi Health Accident",1,40
+32,"Navi Health CritiCare",1,41
+32,"Navi Health Group HospiCash",1,42
+32,"Navi Health Group Personal Accident Insurance",1,43
+32,"Navi Health Group Travel Insurance",1,44
+32,"Navi Health HospiCash",1,45
+32,"Navi Health Super Top Up",1,46
+32,"Optima Restore",1,47
+32,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,48
+32,"Oriental - Critical illness policy",1,49
+32,"Oriental Insurance Bank Saathi Policy- Group",1,50
+32,"Personal Care Insurance Policy",1,51
+32,"Personal Protect Policy",1,52
+32,"Pravasi Bharatiya Bima Yojana Policy�",1,53
+32,"Pravasi Bhartiya Bima Yojana",1,54
+32,"Ride Safe Travel Insurance",1,55
+32,"Senior Citizens Red Carpet Health Insurance Policy�",1,56
+32,"Star Cancer Care Platinum Insurance Policy",1,57
+32,"Star Cardiac Care Insurance Policy",1,58
+32,"Star Cardiac Care Insurance Policy- Platinum",1,59
+32,"Star Critical Illness Multipay Insurance Policy",1,60
+32,"Star Group Covid Insurance Policy",1,61
+32,"Star Super Surplus Insurance Policy",1,62
+32,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,63
+32,"Super Top-up Medicare Policy",1,64
+32,"Surakshit Loan Bima",1,65
+32,"Travel Corona Protect- International (Group)",1,66
+32,TravelAssure,1,67
+32,"Unlimited Restore (Add On )",1,68
+32,"Welness Benefit Addon(Group)",1,69
+32,"Young Star Insurance Policy",1,70
+32,"�Arogya Plus Policy",1,71
+32,"�Arogya Top up Policy",1,72
+32,"Saral Suraksha Bima",4,1
+33,"Alpa Bima � Group",1,1
+33,"Arogya Shield",1,2
+33,"Bharat Yatra Suraksha",1,3
+33,"Care Classic",1,4
+33,"Chola Group EMI Protect",1,5
+33,"Corona Kavach Policy",1,6
+33,"Criti Shield Plus",1,7
+33,"Diabetes Safe Insurance Policy",1,8
+33,"Digit Group Total Protect Policy",1,9
+33,"Digit On -the- Move Group Policy",1,10
+33,"E Travel Value policy",1,11
+33,"Easy Travel Group Travel Health�",1,12
+33,"Edelweiss HealthPlus Policy",1,13
+33,"Family Health Optima�",1,14
+33,"Flexi Health Protect(Group)",1,15
+33,"Future Health Protect � Group",1,16
+33,"Future Vector Care (Group)",1,17
+33,"Future Vector Care�",1,18
+33,"Globetrotter - Overseas Group Travel Insurance",1,19
+33,"Globetrotter - Overseas Individual Student Travel Insurance",1,20
+33,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,21
+33,"Group Business Travelers Insurance Policy",1,22
+33,"Group Easy Travel Senior",1,23
+33,"Group Loan Insurance",1,24
+33,"Group Protect",1,25
+33,"Health Booster",1,26
+33,"Health Prime (Group)",1,27
+33,"Health Shield 360",1,28
+33,"Hospital Daily Cash -Group",1,29
+33,"Income Protect",1,30
+33,"International Travel Insurance",1,31
+33,"IRCTC Air Care Policy",1,32
+33,"Kotak Group Accident Protect",1,33
+33,"Medi classic Insurance Policy (Individual)",1,34
+33,"my:credit�Comprehensive Suraksha",1,35
+33,"my:health�Comprehensive Suraksha - Group",1,36
+33,"Navi Health Group Seasonal Byte",1,37
+33,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,38
+33,"Personal Care Insurance Policy",1,39
+33,"Quick Health",1,40
+33,"Ride Safe Travel Insurance",1,41
+33,"Senior Citizens Red Carpet Health Insurance Policy�",1,42
+33,"Star Comprehensive Insurance Policy",1,43
+33,"Star Micro Rural and Farmers Care",1,44
+33,"Student Suraksha- Student Overseas Travel",1,45
+33,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,46
+33,"Super Top-up Medicare Policy",1,47
+33,"Travel Assist Card�",1,48
+33,"Travel Insurance for E- ticket Passengers-For(IRCTC)",1,49
+33,"Travel Prime Holiday Insurance Policy (Group)",1,50
+33,TravelAssure,1,51
+33,Travelsure(Group),1,52
+33,"UB Arogyadaan",1,53
+33,"Voyager Travel Insurance (Group)",1,54
+33,"Wellness Addon",1,55
+33,"�Arogya Plus Policy",1,56
+33,"Group Credit Secure Plus",6,1
+34,"Additional S.I. for Pandemic and epidemic Rider",1,1
+34,"Arogya Shield",1,2
+34,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,3
+34,"Bharat Yatra Suraksha",1,4
+34,"Bharat Yatra Suraksha Group",1,5
+34,"BoB National Health Policy",1,6
+34,"Care Plus",1,7
+34,"Digit Group Total Protect Policy",1,8
+34,"Easy Travel Group Travel Health�",1,9
+34,"Edelweiss HealthPlus Policy",1,10
+34,"Family Care",1,11
+34,"Family Health Optima Accident Care Policy",1,12
+34,"Family Health Optima Insurance Plan",1,13
+34,"Family Health Optima�",1,14
+34,"Family Shield",1,15
+34,"Future Criticare",1,16
+34,"Globetrotter - Overseas Individual Student Travel Insurance",1,17
+34,"Grameen Care Plus - Micro Insurance Product",1,18
+34,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,19
+34,"Group Business Travelers Insurance Policy",1,20
+34,"Group Hospital Cash Policy",1,21
+34,"Group Personal Accident",1,22
+34,"Group Safeguard Insurance",1,23
+34,"Group Saral Suraksha Bima-Care Health Insurance",1,24
+34,"Health Insurance Policy � Retail",1,25
+34,"Health Prime -Rider for Health Products",1,26
+34,"Health Prime (Group)",1,27
+34,"Health Pulse",1,28
+34,"Health Total",1,29
+34,"Hospital Daily Cash -Group",1,30
+34,"Janata Personal Accident",1,31
+34,"Kotak Group Accident Protect",1,32
+34,"Kotak Group Secure Shield - Micro Insurance",1,33
+34,"Loan Secure Insurance Policy",1,34
+34,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,35
+34,"Mosquito Disease Protection Policy � Group",1,36
+34,"my: health medisure Super Topup",1,37
+34,"my: Sampoorna Suraksha",1,38
+34,"my:health�Critical Suraksha Plus",1,39
+34,"Navi Health",1,40
+34,"Navi Health Group Insurance",1,41
+34,"Navi Health Group Personal Accident Insurance",1,42
+34,"Navi Health Seasonal Byte",1,43
+34,"Optional Travel Insurance(GPA) for E-ticket Passengers of IRCTC",1,44
+34,"Overseas Group Travel Insurance",1,45
+34,"Pravasi Bharatiya Bima Yojana Policy�",1,46
+34,"Pravasi Bhartiya Bima Yojana",1,47
+34,"Quick Health",1,48
+34,"Rashtriya Swasthya Bima Yojana",1,49
+34,"Sarv Suraksha Plus (Group)",1,50
+34,"Smart Health + (Add-On)",1,51
+34,"Star Cardiac Care Insurance Policy",1,52
+34,"Star Cardiac Care Insurance Policy- Platinum",1,53
+34,"Star Critical Illness Multipay Insurance Policy",1,54
+34,"Star Super Surplus (Floater) Insurance Policy",1,55
+34,"Student Suraksha- Student Overseas Travel",1,56
+34,"Super No Claim Bonus Rider",1,57
+34,"Surakshit Loan Bima",1,58
+34,"Travel Corona Protect- International (Group)",1,59
+34,"Travel Elect (Group)",1,60
+34,"Travel Prime Policy",1,61
+34,Travelsure(Group),1,62
+34,"Unlimited Restore (Add On )",1,63
+34,"Voyager Travel Insurance (Group)",1,64
+34,"Young Star Insurance Policy",1,65
+34,"Future Hospicash",5,1
+34,"Saral Suraksha Bima",5,2
+34,"Star Group Critical Illness Multipay Insurance Policy",5,3
+35,"Arogya Raksha- Group Health Insurance Scheme",1,1
+35,"Arogya Sanjeevani",1,2
+35,"Bharat Yatra Suraksha Group",1,3
+35,"Chola Group Top Up Protect",1,4
+35,"Digit Group Total Protect Policy",1,5
+35,"Digit On -the- Move Group Policy",1,6
+35,"Domestic Travel Insurance",1,7
+35,"E Travel Value policy",1,8
+35,"Easy Travel",1,9
+35,"Edelweiss HealthPlus Policy",1,10
+35,"Family Care",1,11
+35,"Flexi Max Protect",1,12
+35,"Future Criticare",1,13
+35,"Future Hospicash",1,14
+35,"Globetrotter - Overseas Group Travel Insurance",1,15
+35,"Globetrotter - Overseas Individual Student Travel Insurance",1,16
+35,"Group Credit Health Policy",1,17
+35,"Group Credit Protection Policy",1,18
+35,"Group Easy Travel Senior",1,19
+35,"Group Hospi Shield",1,20
+35,"Group Loan Insurance",1,21
+35,"Group Protect",1,22
+35,"Group Travel Insurance",1,23
+35,"Health Booster",1,24
+35,"Health Prime -Rider for Health Products",1,25
+35,"Health Prime (Group)",1,26
+35,"Health Total",1,27
+35,"Hospital Daily Cash -Group",1,28
+35,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,29
+35,"International Travel Insurance",1,30
+35,"IRCTC Air Care Policy",1,31
+35,"Kotak Group Secure Shield - Micro Insurance",1,32
+35,"Medi classic Insurance Policy (Individual)",1,33
+35,"my: health medisure Super Topup",1,34
+35,"my:health�Critical Illness (Add On)",1,35
+35,"Navi Cure",1,36
+35,"Navi Health",1,37
+35,"Navi Health CritiCare",1,38
+35,"Navi Health Group HospiCash",1,39
+35,"Navi Health Group Insurance",1,40
+35,"Navi Health Group Travel Insurance",1,41
+35,"Navi Health HospiCash",1,42
+35,"Oriental - Critical illness policy",1,43
+35,"Overseas Group Travel Insurance",1,44
+35,"Quick Health",1,45
+35,"Ride Safe Travel Insurance",1,46
+35,"Saral Suraksha Bima-Group",1,47
+35,"Sarv Suraksha Plus (Group)",1,48
+35,"Star Group Covid Insurance Policy",1,49
+35,"Star Super Surplus (Floater) Insurance Policy",1,50
+35,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,51
+35,"Super No Claim Bonus Rider",1,52
+35,"Super reload Rider",1,53
+35,"Super Top-up Medicare Policy",1,54
+35,"Surakshit Loan Bima",1,55
+35,"Tele OPD Consultation Rider",1,56
+35,"Travel Assist Card�",1,57
+35,"Travel Insurance�",1,58
+35,"UB Arogyadaan",1,59
+35,"Wellness Addon",1,60
+35,"Saral Suraksha Bima",12,1
+36,"Additional S.I. for Pandemic and epidemic Rider",1,1
+36,"Alpa Bima � Group",1,2
+36,"Corona Kavach Policy",1,3
+36,"Diabetes Safe Insurance Policy",1,4
+36,Educare,1,5
+36,"Family Care",1,6
+36,"Family Health Optima Accident Care Policy",1,7
+36,"Flexi Max Protect",1,8
+36,"Future Poorna Suraksha � Group",1,9
+36,"Future Vector Care (Group)",1,10
+36,"Grameen Care Plus - Micro Insurance Product",1,11
+36,"Group Business Travelers Insurance Policy",1,12
+36,"Group Safeguard Insurance",1,13
+36,"Group Safeguard Micro Insurance",1,14
+36,"Group Saral Suraksha Bima-Care Health Insurance",1,15
+36,"Health Booster",1,16
+36,"Health Insurance Policy � Retail",1,17
+36,"Health Plus",1,18
+36,"Health Prime -Rider for Health Products",1,19
+36,"Health Pulse",1,20
+36,"Health Recharge�",1,21
+36,"Health Total",1,22
+36,"Hospital Daily Cash -Group",1,23
+36,"International Travel Insurance",1,24
+36,"Kotak Accident Care",1,25
+36,"Kotak Group Accident Protect - Micro Insurance",1,26
+36,"Kotak Group Secure Shield - Micro Insurance",1,27
+36,"Kotak Secure Shield",1,28
+36,"Loan Secure Insurance Policy",1,29
+36,"M Care (Group)",1,30
+36,"M Care�",1,31
+36,"Medi classic Insurance Policy (Individual)",1,32
+36,"Mosquito Disease Protection Policy � Group",1,33
+36,"my: health medisure Super Topup",1,34
+36,"my: Optima Secure",1,35
+36,"my:health�Comprehensive Suraksha - Group",1,36
+36,"my:health�Critical Illness (Add On)",1,37
+36,"my:health�Critical Suraksha Plus",1,38
+36,"Navi Health",1,39
+36,"Navi Health Group Critical Illness Insurance",1,40
+36,"Navi Health Group Critical Surgery",1,41
+36,"Navi Health Group HospiCash",1,42
+36,"Navi Health Group Insurance",1,43
+36,"Navi Health HospiCash",1,44
+36,"Navi Health Seasonal Byte",1,45
+36,"Optima Restore",1,46
+36,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,47
+36,"Oriental Insurance Bank Saathi Policy- Group",1,48
+36,"Quick Health",1,49
+36,"Sarv Suraksha Plus (Group)",1,50
+36,"Star Cardiac Care Insurance Policy- Platinum",1,51
+36,"Star Group Covid Insurance Policy",1,52
+36,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,53
+36,"Super No Claim Bonus Rider",1,54
+36,"Travel Corona Protect- International (Group)",1,55
+36,"UB Arogyadaan",1,56
+36,"Unlimited Restore (Add On )",1,57
+36,"Young Star Insurance Policy",1,58
+36,"�Arogya Top up Policy",1,59
+36,"Saral Suraksha Bima",10,1
+37,"Alpa Bima � Group",1,1
+37,"Arogya Raksha- Group Health Insurance Scheme",1,2
+37,"Arogya Supreme",1,3
+37,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,4
+37,"Bharat Yatra Suraksha",1,5
+37,"Bharat Yatra Suraksha Group",1,6
+37,"Care Classic",1,7
+37,"Care Plus",1,8
+37,"Chola Group Top Up Protect",1,9
+37,"Diabetes Safe Insurance Policy",1,10
+37,"Digit On -the- Move Group Policy",1,11
+37,"Domestic Travel Insurance",1,12
+37,Educare,1,13
+37,"Family Care",1,14
+37,"Flexi Health Protect(Group)",1,15
+37,"Future Criticare",1,16
+37,"Future Vector Care (Group)",1,17
+37,"Future Vector Care�",1,18
+37,"Group Credit Protection Policy",1,19
+37,"Group Loan Bima",1,20
+37,"Group Loan Insurance",1,21
+37,"Group Protect",1,22
+37,"Group Saral Suraksha Bima-Care Health Insurance",1,23
+37,"HDFC ERGO Group Health Insurance",1,24
+37,"Health Booster",1,25
+37,"Health Plus",1,26
+37,"Health Prime (Group)",1,27
+37,"Health Pulse",1,28
+37,"Health Recharge�",1,29
+37,"Home Credit Assure Package Insurance",1,30
+37,"IRCTC Air Care Policy",1,31
+37,"Kotak Group Accident Protect - Micro Insurance",1,32
+37,"Kotak Group Secure Shield",1,33
+37,"M Care�",1,34
+37,"my:health�Critical Illness (Add On)",1,35
+37,"Navi Health Group Critical Illness Insurance",1,36
+37,"Navi Health Group Critical Surgery",1,37
+37,"Navi Health Group Seasonal Byte",1,38
+37,"Navi Health Group Travel Insurance",1,39
+37,"Navi Health Super Top Up",1,40
+37,"Optima Restore",1,41
+37,"Optional travel insurance for E-ticket passengers",1,42
+37,"Oriental Insurance Bank Saathi Policy- Group",1,43
+37,"Personal Care Insurance Policy",1,44
+37,"Quick Health",1,45
+37,"Ride Safe Travel Insurance",1,46
+37,"Star Comprehensive Insurance Policy",1,47
+37,"Star Group Critical Illness Multipay Insurance Policy",1,48
+37,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,49
+37,"Swasthya Suraksha",1,50
+37,"Travel Corona Protect- International (Group)",1,51
+37,"Travel Insurance�",1,52
+37,"Travel Prime Holiday Insurance Policy (Group)",1,53
+37,TravelAssure,1,54
+37,"Unlimited Restore (Add On )",1,55
+37,"Young Star Insurance Policy",1,56
+37,"Saral Suraksha Bima",9,1
+38,"Arogya Sanjeevani",1,1
+38,"Care Plus",1,2
+38,"Chola Group Top Up Protect",1,3
+38,"Chola Mashak (Mosquito) Rakshak-Group",1,4
+38,"Criti Shield Plus",1,5
+38,"Diabetes Safe Insurance Policy",1,6
+38,"Domestic Travel Insurance",1,7
+38,"Edelweiss HealthPlus Policy",1,8
+38,"Family Health Optima Insurance Plan",1,9
+38,"Family Health Optima�",1,10
+38,"Future Poorna Suraksha � Group",1,11
+38,"Future Vector Care (Group)",1,12
+38,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,13
+38,"Group Credit Health Policy",1,14
+38,"Group Credit Protection Policy",1,15
+38,"Group Easy Travel Senior",1,16
+38,"Group Hospi Shield",1,17
+38,"Group Loan Bima",1,18
+38,"Group Personal Accident",1,19
+38,"Group Protect",1,20
+38,"Group Safeguard Insurance",1,21
+38,"Group Safeguard Micro Insurance",1,22
+38,"HDFC ERGO Group Health Insurance",1,23
+38,"Health Insurance Policy � Retail",1,24
+38,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,25
+38,"Income Protect",1,26
+38,"IRCTC Air Care Policy",1,27
+38,"Janata Personal Accident",1,28
+38,"Kotak Accident Care",1,29
+38,"M Care (Group)",1,30
+38,"M Care�",1,31
+38,"Mosquito Disease Protection Policy � Group",1,32
+38,"my: health medisure Super Topup",1,33
+38,"my:credit�Comprehensive Suraksha",1,34
+38,"Navi Health",1,35
+38,"Navi Health Group Critical Illness Insurance",1,36
+38,"Navi Health Group Travel Insurance",1,37
+38,"Optima Restore",1,38
+38,"Pravasi Bharatiya Bima Yojana Policy�",1,39
+38,"Pravasi Bhartiya Bima Yojana",1,40
+38,"Quick Health",1,41
+38,"Rashtriya Swasthya Bima Yojana",1,42
+38,"Senior Citizens Red Carpet Health Insurance Policy�",1,43
+38,"Silver Health",1,44
+38,"Star Cancer Care Platinum Insurance Policy",1,45
+38,"Star Cardiac Care Insurance Policy",1,46
+38,"Star Comprehensive Insurance Policy",1,47
+38,"Star Critical Illness Multipay Insurance Policy",1,48
+38,"Star Group Covid Insurance Policy",1,49
+38,"Super reload Rider",1,50
+38,"Surakshit Loan Bima",1,51
+38,"Tele OPD Consultation Rider",1,52
+38,"Travel Prime Policy",1,53
+38,TravelAssure,1,54
+38,"UB Arogyadaan",1,55
+38,"�Arogya Plus Policy",1,56
+38,"�Arogya Top up Policy",1,57
+38,"Saral Suraksha Bima",5,1
+39,"Alpa Bima � Group",1,1
+39,"Arogya Premier Policy",1,2
+39,"Arogya Raksha- Group Health Insurance Scheme",1,3
+39,"Arogya Sanjeevani",1,4
+39,"Arogya Sanjeevani Policy",1,5
+39,"Bajaj Allianz Bharat Bhraman Insurance Policy",1,6
+39,"Bharat Yatra Suraksha Group",1,7
+39,"Care Classic",1,8
+39,"Corona Kavach Policy",1,9
+39,"Diabetes Safe Insurance Policy",1,10
+39,"Digit Group Total Protect Policy",1,11
+39,"Domestic Travel Insurance",1,12
+39,"Easy Travel Group Travel Health�",1,13
+39,"Edelweiss HealthPlus Policy",1,14
+39,"Family Health Optima�",1,15
+39,"Family Shield",1,16
+39,"Flexi Max Protect",1,17
+39,"Future Health Protect � Group",1,18
+39,"Future Hospicash",1,19
+39,"Globetrotter - Overseas Individual Student Travel Insurance",1,20
+39,"Grameen Care Plus - Micro Insurance Product",1,21
+39,"Group Business Travelers Insurance Policy",1,22
+39,"Group Corona Kavach Policy",1,23
+39,"Group Credit Health Policy",1,24
+39,"Group Credit Protection Policy",1,25
+39,"Group Hospi Shield",1,26
+39,"Group Loan Insurance",1,27
+39,"Group Protect",1,28
+39,"Group Safeguard Micro Insurance",1,29
+39,"HDFC ERGO Group Health Insurance",1,30
+39,"Health Prime (Group)",1,31
+39,"Health Recharge�",1,32
+39,"Health Total",1,33
+39,"Home Care Treatment",1,34
+39,"Hospital Daily Cash -Group",1,35
+39,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,36
+39,"Income Protect",1,37
+39,"Kotak Accident Care",1,38
+39,"Kotak Group Health Assure",1,39
+39,"Kotak Group Secure Shield",1,40
+39,"Kotak Group Secure Shield - Micro Insurance",1,41
+39,"Kotak Secure Shield",1,42
+39,"M Care�",1,43
+39,"Maha Bank Swasthya Yojana (Group Health Insurance Scheme)",1,44
+39,"Medi classic Insurance Policy (Individual)",1,45
+39,"my: Optima Secure",1,46
+39,"my:credit�Comprehensive Suraksha",1,47
+39,"Navi Health Accident",1,48
+39,"Navi Health Group Personal Accident Insurance",1,49
+39,"Navi Health HospiCash",1,50
+39,"Optima Restore",1,51
+39,"Optional travel insurance for E-ticket passengers",1,52
+39,"Optional Travel Insurance for E-ticket passengers - IRCTC",1,53
+39,"Overseas Group Travel Insurance",1,54
+39,"Ride Safe Travel Insurance",1,55
+39,"Saral Suraksha Bima-Group",1,56
+39,"Sarv Suraksha Plus (Group)",1,57
+39,"Senior Citizens Red Carpet Health Insurance Policy�",1,58
+39,"Silver Health",1,59
+39,"Star Cardiac Care Insurance Policy",1,60
+39,"Star Cardiac Care Insurance Policy- Platinum",1,61
+39,"Star Comprehensive Insurance Policy",1,62
+39,"Star Group Covid Insurance Policy",1,63
+39,"Star Group Critical Illness Multipay Insurance Policy",1,64
+39,"Star Group Health Insurance Policy � Gold (For Bank Customers)",1,65
+39,"Star Super Surplus Insurance Policy",1,66
+39,"Student Suraksha- Student Overseas Travel",1,67
+39,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,68
+39,"Super No Claim Bonus Rider",1,69
+39,"Super Top-up Medicare Policy",1,70
+39,"Surakshit Loan Bima",1,71
+39,"Tata AIG Criti- Medicare",1,72
+39,"Tele OPD Consultation Rider",1,73
+39,"Travel Companion",1,74
+39,"Travel Prime Holiday Insurance Policy (Group)",1,75
+39,"Travel Prime Policy",1,76
+39,TravelAssure,1,77
+39,"UB Arogyadaan",1,78
+39,"Welness Benefit Addon(Group)",1,79
+39,"Young Star Insurance Policy",1,80
+39,"Zero Co-Pay",1,81
+39,"�Arogya Top up Policy",1,82
+39,"Saral Suraksha Bima",7,1
+40,"Additional S.I. for Pandemic and epidemic Rider",1,1
+40,"Arogya Shield",1,2
+40,"Bharat Yatra Suraksha Group",1,3
+40,"Care Classic",1,4
+40,"Chola Group EMI Protect",1,5
+40,"Corona Kavach Policy",1,6
+40,"Easy Travel",1,7
+40,"Edelweiss HealthPlus Policy",1,8
+40,Educare,1,9
+40,"Family Health Optima Insurance Plan",1,10
+40,"Family Health Optima�",1,11
+40,"Flexi Health Protect(Group)",1,12
+40,"Future Criticare",1,13
+40,"Future Health Protect � Group",1,14
+40,"Future Poorna Suraksha � Group",1,15
+40,"Grameen Care Plus - Micro Insurance Product",1,16
+40,"Group Arogya Sanjeevani Policy - Star Health and Allied Insurance Co Ltd",1,17
+40,"Group Credit Secure Plus",1,18
+40,"Group Easy Travel Senior",1,19
+40,"Group Loan Bima",1,20
+40,"Group Loan Insurance",1,21
+40,"Group Protect",1,22
+40,"Group Safeguard Micro Insurance",1,23
+40,"Health Insurance Policy � Retail",1,24
+40,"Health Prime (Group)",1,25
+40,"Health Recharge�",1,26
+40,"Health Total",1,27
+40,"Home Care Treatment",1,28
+40,"Home Credit Assure Package Insurance",1,29
+40,"Hospital Daily Cash -Group",1,30
+40,"ICICI LOMBARD COMPLETE HEALTH INSURANCE",1,31
+40,"Janata Personal Accident",1,32
+40,"Kotak Group Accident Protect",1,33
+40,"Kotak Group Secure Shield",1,34
+40,"M Care (Group)",1,35
+40,"M Care�",1,36
+40,"my: Sampoorna Suraksha",1,37
+40,"my:health�Comprehensive Suraksha - Group",1,38
+40,"my:health�Critical Illness (Add On)",1,39
+40,"my:health�Critical Suraksha Plus",1,40
+40,"Navi Health",1,41
+40,"Navi Health Accident",1,42
+40,"Navi Health Group Critical Illness Insurance",1,43
+40,"Navi Health Group Critical Surgery",1,44
+40,"Navi Health Group HospiCash",1,45
+40,"Navi Health HospiCash",1,46
+40,"Navi Health Super Top Up",1,47
+40,"Optima Restore",1,48
+40,"Personal Care Insurance Policy",1,49
+40,"Ride Safe Travel Insurance",1,50
+40,"Star Cancer Care Platinum Insurance Policy",1,51
+40,"Star Cardiac Care Insurance Policy- Platinum",1,52
+40,"Star Group Critical Illness Multipay Insurance Policy",1,53
+40,"Star Micro Rural and Farmers Care",1,54
+40,"Star Super Surplus (Floater) Insurance Policy",1,55
+40,"Student Suraksha- Student Overseas Travel",1,56
+40,"Sukshma Hospi-Cash (Micro-Insurance Product)",1,57
+40,"Sukshma Hospi-Cash Group (Micro-Insurance Product)",1,58
+40,"Super reload Rider",1,59
+40,"Surakshit Loan Bima",1,60
+40,"Tele OPD Consultation Rider",1,61
+40,TravelAssure,1,62
+40,Travelsure(Group),1,63
+40,"Voyager Travel Insurance (Group)",1,64
+40,"Wellness Addon",1,65
+40,"Welness Benefit Addon(Group)",1,66
+40,"�Arogya Top up Policy",1,67
+40,"Group Hospital Cash Policy",6,1

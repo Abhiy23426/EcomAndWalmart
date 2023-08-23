@@ -1,0 +1,365 @@
+city,numRegisteredPeople,numInsuranceCompany,numInsuranceCompany
+Washington,184,4,4
+Montgomery,176,1,1
+Manchester,168,2,2
+Glendale,153,3,3
+Fayetteville,149,0,0
+Arvada,144,5,5
+Anchorage,135,1,1
+Savannah,132,4,4
+Louisville,131,3,3
+Nashville,130,1,1
+"Panama City",95,3,3
+"Oklahoma City",81,1,1
+Annapolis,35,0,0
+"Panama City Beach",31,0,0
+Oakland,31,0,0
+Fremont,26,0,0
+"Glen Burnie",23,1,1
+Hayward,21,1,1
+Edmond,18,0,0
+Norman,18,0,0
+Pooler,16,0,0
+Pasadena,15,1,1
+"Severna Park",13,0,0
+"San Leandro",13,2,2
+Severn,13,0,0
+Livermore,12,0,0
+"Lynn Haven",12,0,0
+"Union City",11,0,0
+"Castro Valley",10,0,0
+Burlington,10,0,0
+Calhoun,10,0,0
+Brentwood,9,0,0
+Berkeley,9,1,1
+Pleasanton,9,0,0
+Springfield,9,0,0
+Brookline,8,1,1
+Moore,8,0,0
+Greeley,8,0,0
+Goodlettsville,8,0,0
+Essex,8,0,0
+Edgewater,8,0,0
+"Litchfield Park",8,1,1
+Worcester,7,0,0
+Groton,7,0,0
+"Saint Albans City",7,0,0
+Lyndon,7,0,0
+Farmington,6,0,0
+Quincy,6,0,0
+Newton,6,0,0
+Rutland,6,0,0
+Pueblo,6,0,0
+Orange,5,0,0
+Sacramento,5,0,0
+"Grand Junction",5,0,0
+Hanover,5,0,0
+"Port Wentworth",5,0,0
+Deale,5,0,0
+Southport,5,0,0
+"Tybee Island",5,0,0
+Pittsfield,5,0,0
+Crofton,5,0,0
+Concord,5,0,0
+Fountain,5,0,0
+Kenai,5,0,0
+Telluride,5,0,0
+"Fort Collins",5,0,0
+Chester,5,1,1
+Colchester,4,0,0
+Waltham,4,0,0
+Barre,4,0,0
+"South Burlington",4,0,0
+"Mountain View",4,1,1
+Hartford,4,0,0
+Holbrook,4,0,0
+Cambridge,4,0,0
+Williston,4,0,0
+Wolcott,4,0,0
+"Sutter Creek",4,0,0
+"Grass Valley",4,0,0
+Belvidere,4,0,0
+Alameda,4,0,0
+Poultney,4,0,0
+Piedmont,4,0,0
+Yarmouth,4,0,0
+Lithia,4,0,0
+Easton,4,0,0
+Plymouth,4,0,0
+Millersville,4,0,0
+Bourne,4,0,0
+Charlotte,4,0,0
+"Indian Springs Village",4,0,0
+Brockton,3,0,0
+Tewksbury,3,0,0
+Bristol,3,0,0
+Newark,3,0,0
+"Fall River",3,0,0
+"Suisun City",3,0,0
+Mesa,3,0,0
+"Hyde Park",3,0,0
+Fairfax,3,0,0
+Bakersfield,3,0,0
+Lynn,3,0,0
+"Mammoth Lakes",3,0,0
+"San Luis Obispo",3,0,0
+Aspen,3,0,0
+"Beverly Hills",3,0,0
+Selma,3,0,0
+Foresthill,3,0,0
+Brookfield,3,0,0
+Boulder,3,0,0
+Thunderbolt,3,0,0
+Braintree,3,0,0
+Prospect,3,0,0
+Laurel,3,0,0
+Burke,3,0,0
+Watertown,3,0,0
+Somerville,3,0,0
+Tampa,3,0,0
+"Linthicum Heights",3,0,0
+"Van Buren",3,0,0
+Hinesburg,3,0,0
+Westport,3,0,0
+"Warr Acres",3,0,0
+"Fair Haven",3,0,0
+Franklin,3,0,0
+Westmore,3,0,0
+Windham,3,0,0
+Needham,3,0,0
+Hesperia,3,0,0
+"Waterbury Center",3,0,0
+"Midwest City",2,0,0
+"Del City",2,0,0
+Highgate,2,0,0
+Montevallo,2,0,0
+Boxford,2,0,0
+Saugus,2,0,0
+Aurora,2,0,0
+"Santa Clara",2,0,0
+Crownsville,2,0,0
+"Town of Rockingham",2,0,0
+Guthrie,2,0,0
+Youngstown,2,0,0
+"El Cerrito",2,0,0
+Cupertino,2,0,0
+Everett,2,0,0
+Lowell,2,0,0
+Lynnfield,2,0,0
+Fresno,2,0,0
+Vershire,2,0,0
+Weathersfield,2,0,0
+Inverness,2,0,0
+Baltimore,2,0,0
+Athol,2,0,0
+"New Bedford",2,0,0
+Chelsea,2,0,0
+Newport,2,0,0
+Easthampton,2,0,0
+Westford,2,0,0
+Woodford,2,0,0
+Woodland,2,0,0
+Agawam,2,0,0
+"South Lake Tahoe",2,0,0
+Wheatland,2,0,0
+Peabody,2,0,0
+Riverview,2,0,0
+"Mount Juliet",2,0,0
+"Tyndall Air Force Base",2,0,0
+Bethany,2,0,0
+Carson,2,0,0
+"San Gabriel",2,0,0
+Readsboro,2,0,0
+Moretown,2,0,0
+Haverhill,2,0,0
+Jeffersontown,2,0,0
+Chico,2,0,0
+Danville,2,0,0
+Attleboro,2,0,0
+"Gibson Island",2,0,0
+Redding,2,0,0
+Pioneer,2,0,0
+Westminster,2,0,0
+Dummerston,2,0,0
+Norwood,2,0,0
+Mansfield,2,0,0
+Revere,2,0,0
+Soldotna,2,0,0
+Woodbury,2,0,0
+Homer,2,0,0
+"Mount Tabor",2,0,0
+Holyoke,2,0,0
+Palmer,2,0,0
+Lunenburg,2,0,0
+Warren,2,0,0
+"Pismo Beach",2,0,0
+Melrose,1,0,0
+Capitola,1,0,0
+Shelburne,1,0,0
+Smartsville,1,0,0
+Gambrills,1,0,0
+Spencer,1,0,0
+"San Lorenzo",1,0,0
+Thetford,1,1,1
+Barnstable,1,0,0
+Falmouth,1,0,0
+Hanford,1,0,0
+"East Longmeadow",1,0,0
+Oroville,1,0,0
+"South Hadley",1,0,0
+Lincoln,1,0,0
+Vacaville,1,0,0
+"San Jose",1,0,0
+Bloomingdale,1,0,0
+"Saint Albans Town",1,0,0
+Greenfield,1,0,0
+Pittsford,1,0,0
+"Santa Rosa",1,0,0
+Peoria,1,0,0
+Millis,1,0,0
+"Sun City Center",1,0,0
+Odenton,1,0,0
+Dublin,1,1,1
+Linda,1,0,0
+Brimfield,1,0,0
+Hingham,1,0,0
+"San Diego",1,0,0
+"Melbourne Beach",1,0,0
+Aquinnah,1,0,0
+Wheelock,1,0,0
+Wareham,1,0,0
+Dennis,1,0,0
+Choctaw,1,0,0
+Harrah,1,0,0
+"North Adams",1,0,0
+Roseville,1,1,1
+Winchester,1,0,0
+Hubbardston,1,0,0
+Middleborough,1,0,0
+Woburn,1,0,0
+"Merritt Island",1,0,0
+McCrory,1,0,0
+Ardmore,1,1,1
+Holden,1,0,0
+"Morro Bay",1,0,0
+Morristown,1,0,0
+Milton,1,0,0
+Truckee,1,0,0
+Bethel,1,0,0
+Soquel,1,0,0
+Magalia,1,0,0
+"West Tisbury",1,0,0
+Hartland,1,0,0
+Whitmore,1,0,0
+"North Beach",1,0,0
+Williamstown,1,0,0
+Swanton,1,0,0
+Marysville,1,0,0
+"Rohnert Park",1,0,0
+Gardner,1,0,0
+Vergennes,1,0,0
+Ione,1,0,0
+"West Windsor",1,0,0
+Redlands,1,0,0
+Framingham,1,0,0
+Chelmsford,1,0,0
+Lexington,1,0,0
+"Rancho Cordova",1,0,0
+Derby,1,0,0
+"Garden City",1,0,0
+Eureka,1,0,0
+"West Brattleboro",1,0,0
+Salem,1,0,0
+Montpelier,1,0,0
+Middleton,1,0,0
+Sheffield,1,0,0
+Salinas,1,0,0
+"Pueblo West",1,0,0
+Middlebury,1,0,0
+Hardwick,1,0,0
+Brighton,1,0,0
+Golden,1,0,0
+"Tahoe City",1,0,0
+Bolton,1,0,0
+"Shady Side",1,0,0
+McKinleyville,1,0,0
+"Punta Gorda",1,0,0
+Medford,0,0,0
+Ludlow,0,0,0
+Fruita,0,0,0
+Sebastopol,0,0,0
+Dartmouth,0,0,0
+Beverly,0,0,0
+Birmingham,0,0,0
+Arnold,0,0,0
+Guildhall,0,0,0
+"Brooklyn Park",0,0,0
+Davidsonville,0,0,0
+"Saint Matthews",0,0,0
+Stowe,0,0,0
+Riva,0,0,0
+Castaic,0,0,0
+Alburgh,0,0,0
+Carlsbad,0,0,0
+Scituate,0,0,0
+Wilbraham,0,0,0
+"Shelburne Falls",0,0,0
+"Mexico Beach",0,0,0
+Yucaipa,0,0,0
+Fairfield,0,0,0
+"Los Angeles",0,0,0
+Foxborough,0,0,0
+Northfield,0,0,0
+Reading,0,0,0
+Stratton,0,0,0
+Fitchburg,0,0,0
+"O Neals",0,0,0
+Waddell,0,0,0
+Castleton,0,0,0
+Escondido,0,0,0
+Milford,0,0,0
+Madera,0,0,0
+Fortuna,0,0,0
+Shaftsbury,0,1,1
+Waitsfield,0,0,0
+Boxborough,0,0,0
+"Santa Cruz",0,0,0
+"North Reading",0,0,0
+Marblehead,0,0,0
+Noble,0,0,0
+"Ashland City",0,0,0
+Davis,0,0,0
+Palisade,0,0,0
+Lawrence,0,0,0
+"West Sacramento",0,0,0
+Calera,0,0,0
+"Rancho Palos Verdes",0,0,0
+Jessup,0,0,0
+"Nichols Hills",0,0,0
+"Baldwin Park",0,0,0
+Medway,0,0,0
+Atascadero,0,0,0
+Westfield,0,0,0
+"King City",0,0,0
+Greensboro,0,0,0
+Townshend,0,0,0
+Tollhouse,0,0,0
+Harwood,0,0,0
+Richmond,0,0,0
+"Monte Rio",0,0,0
+Freetown,0,0,0
+Pawlet,0,0,0
+Belchertown,0,0,0
+Webster,0,0,0
+"Pike Road",0,0,0
+Auburn,0,0,0
+Tyngsborough,0,0,0
+Maidstone,0,0,0
+Littleton,0,0,0
+Pelham,0,0,0
+"Paso Robles",0,0,0
+Oakhurst,0,0,0
+Harwich,0,0,0
+Evans,0,0,0
+Conway,0,0,0
+Chicopee,0,0,0

@@ -1,0 +1,10 @@
+city,diseaseid,diseaseName,Patient_Count
+Montgomery,11,Cancer,28
+Montgomery,22,"Guillain–Barré syndrome",28
+Montevallo,36,Schizophrenia,2
+"Indian Springs Village",1,"Alzheimer's disease",1
+"Indian Springs Village",10,"Bipolar disorder",1
+"Indian Springs Village",19,"Diabetes mellitus type 2",1
+"Indian Springs Village",27,"Multiple sclerosis",1
+"Indian Springs Village",32,"Parkinson's disease",1
+"Indian Springs Village",36,Schizophrenia,1

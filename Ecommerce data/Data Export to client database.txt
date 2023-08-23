@@ -1,0 +1,73 @@
+--
+1
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op1 (customer_id varchar(100), avg_spending float, spend_category varchar(100));'
+
+--
+2
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op2 (month int, product_categoty varchar(100) , customer_state varchar(100) , order_count int, avg_of_order float);'
+
+--
+3
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op3 (hour int, product_categoty varchar(100) , customer_state varchar(100) , order_count int) ;'
+
+
+--
+4
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op4_1 (product_category varchar(100), count_of_products int, avg_rating float) '
+
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op4_3 (product_id varchar(100) , count_of_products_sold int, avg_rating float)  '
+
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op4_5 (rating int,count_of_orders int)'
+
+
+--
+5
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op5_1 (payment_type varchar(100) ,count_of_orders int) '
+
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op5_2 (payment_installment int,count_of_orders int)  '
+
+
+ 
+--
+6
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op6 (customer_state varchar(100), customer_city varchar(100), customer_count int)'
+
+
+
+
+--
+7
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op7_1 (seller_id varchar(100), products_sold int)'
+
+
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op7_2 (seller_id varchar(100), average_rating float, order_count int) '
+
+
+--
+8
+--
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op8_1(city varchar(100), state varchar(100), weight_category varchar(100)) '
+
+sqoop eval --connect jdbc:mysql://127.0.0.1:3306/ecom --username root --password cloudera --query 'create table op8_2(state varchar(100), order_count int)'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

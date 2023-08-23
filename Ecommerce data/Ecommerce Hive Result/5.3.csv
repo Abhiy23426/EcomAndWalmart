@@ -1,0 +1,137 @@
+diseaseID,DiseaseName,City,Number_of_Patients
+1,"Alzheimer's disease",Washington,28
+1,"Alzheimer's disease",Montgomery,20
+1,"Alzheimer's disease",Savannah,16
+2,"Amyotrophic lateral sclerosis",Montgomery,22
+2,"Amyotrophic lateral sclerosis",Washington,21
+2,"Amyotrophic lateral sclerosis","Oklahoma City",18
+3,"Anorexia nervosa",Montgomery,25
+3,"Anorexia nervosa",Nashville,22
+3,"Anorexia nervosa",Manchester,21
+4,"Anxiety disorder",Arvada,24
+4,"Anxiety disorder",Fayetteville,22
+4,"Anxiety disorder",Nashville,19
+5,Asthma,Glendale,18
+5,Asthma,Montgomery,17
+5,Asthma,Washington,16
+5,Asthma,Fayetteville,16
+6,Atherosclerosis,Montgomery,25
+6,Atherosclerosis,Arvada,18
+6,Atherosclerosis,"Panama City",18
+6,Atherosclerosis,Manchester,18
+6,Atherosclerosis,Glendale,18
+7,"Attention deficit hyperactivity disorder",Washington,26
+7,"Attention deficit hyperactivity disorder",Nashville,21
+7,"Attention deficit hyperactivity disorder",Montgomery,20
+8,Autism,Montgomery,18
+8,Autism,Nashville,17
+8,Autism,Washington,17
+9,"Autoimmune diseases",Montgomery,25
+9,"Autoimmune diseases",Manchester,19
+9,"Autoimmune diseases",Glendale,18
+10,"Bipolar disorder",Manchester,21
+10,"Bipolar disorder",Nashville,19
+10,"Bipolar disorder",Glendale,16
+10,"Bipolar disorder","Oklahoma City",16
+11,Cancer,Montgomery,28
+11,Cancer,Washington,22
+11,Cancer,Louisville,22
+12,"Chronic fatigue syndrome",Montgomery,24
+12,"Chronic fatigue syndrome",Manchester,16
+12,"Chronic fatigue syndrome",Nashville,16
+12,"Chronic fatigue syndrome",Fayetteville,16
+13,"Chronic obstructive pulmonary disease",Washington,28
+13,"Chronic obstructive pulmonary disease",Manchester,21
+13,"Chronic obstructive pulmonary disease",Nashville,21
+14,"Crohn's disease",Montgomery,26
+14,"Crohn's disease",Glendale,22
+14,"Crohn's disease","Oklahoma City",18
+15,"Coronary heart disease",Montgomery,24
+15,"Coronary heart disease",Manchester,23
+15,"Coronary heart disease",Washington,18
+16,Dementia,Montgomery,21
+16,Dementia,Washington,19
+16,Dementia,Arvada,19
+17,Depression,Arvada,22
+17,Depression,Washington,19
+17,Depression,Montgomery,19
+18,"Diabetes mellitus type 1",Montgomery,25
+18,"Diabetes mellitus type 1",Washington,22
+18,"Diabetes mellitus type 1","Panama City",19
+19,"Diabetes mellitus type 2",Montgomery,23
+19,"Diabetes mellitus type 2",Washington,22
+19,"Diabetes mellitus type 2",Nashville,19
+20,"Dilated cardiomyopathy",Washington,32
+20,"Dilated cardiomyopathy",Montgomery,25
+20,"Dilated cardiomyopathy",Glendale,24
+21,Epilepsy,Montgomery,25
+21,Epilepsy,Manchester,20
+21,Epilepsy,Glendale,16
+21,Epilepsy,Anchorage,16
+22,"Guillain–Barré syndrome",Montgomery,28
+22,"Guillain–Barré syndrome",Manchester,25
+22,"Guillain–Barré syndrome",Washington,24
+23,"Irritable bowel syndrome",Washington,21
+23,"Irritable bowel syndrome",Arvada,19
+23,"Irritable bowel syndrome",Glendale,18
+24,"Low back pain",Manchester,23
+24,"Low back pain",Washington,19
+24,"Low back pain",Montgomery,18
+25,Lupus,Manchester,20
+25,Lupus,Nashville,20
+25,Lupus,Glendale,15
+25,Lupus,Arvada,15
+25,Lupus,Washington,15
+25,Lupus,Montgomery,15
+26,"Metabolic syndrome",Nashville,24
+26,"Metabolic syndrome",Arvada,19
+26,"Metabolic syndrome",Washington,19
+27,"Multiple sclerosis",Nashville,25
+27,"Multiple sclerosis",Manchester,16
+27,"Multiple sclerosis",Fayetteville,15
+27,"Multiple sclerosis",Washington,15
+27,"Multiple sclerosis",Montgomery,15
+28,"Myocardial infarction",Manchester,27
+28,"Myocardial infarction",Washington,24
+28,"Myocardial infarction",Arvada,19
+29,Obesity,Montgomery,27
+29,Obesity,Manchester,26
+29,Obesity,Savannah,19
+29,Obesity,Arvada,19
+30,"Obsessive–compulsive disorder",Montgomery,27
+30,"Obsessive–compulsive disorder",Washington,23
+30,"Obsessive–compulsive disorder",Manchester,21
+31,"Panic disorder",Washington,21
+31,"Panic disorder",Montgomery,20
+31,"Panic disorder",Nashville,19
+32,"Parkinson's disease",Arvada,19
+32,"Parkinson's disease",Montgomery,19
+32,"Parkinson's disease",Glendale,14
+33,Psoriasis,Manchester,25
+33,Psoriasis,Washington,19
+33,Psoriasis,Montgomery,18
+33,Psoriasis,Nashville,18
+34,"Rheumatoid arthritis",Nashville,23
+34,"Rheumatoid arthritis",Montgomery,17
+34,"Rheumatoid arthritis",Arvada,17
+35,Sarcoidosis,Washington,22
+35,Sarcoidosis,Nashville,22
+35,Sarcoidosis,Manchester,20
+35,Sarcoidosis,Fayetteville,20
+36,Schizophrenia,Nashville,21
+36,Schizophrenia,Fayetteville,21
+36,Schizophrenia,"Panama City",19
+36,Schizophrenia,Louisville,19
+37,Stroke,Washington,29
+37,Stroke,Montgomery,23
+37,Stroke,Fayetteville,18
+37,Stroke,Nashville,18
+38,"Thromboangiitis obliterans",Savannah,23
+38,"Thromboangiitis obliterans",Montgomery,22
+38,"Thromboangiitis obliterans",Arvada,22
+39,"Tourette syndrome",Nashville,21
+39,"Tourette syndrome",Montgomery,19
+39,"Tourette syndrome",Savannah,17
+40,Vasculitis,Nashville,29
+40,Vasculitis,Montgomery,26
+40,Vasculitis,Arvada,19

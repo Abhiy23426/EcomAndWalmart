@@ -1,0 +1,2 @@
+state,num_patients,num_insurance_companies,insurance_patient_ratio,avg_insurance_patient_ratio,Recommendation
+OK,65,2,32.5000,26.186046511,"Not Recommended"

@@ -1,0 +1,11 @@
+Problem Statement 2:
+
+the monthly trend of sales
+
+
+
+create external table op2 (month int, product_categoty string, customer_state string, order_count int, avg_of_order double) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op2';
+
+
+insert overwrite table op2 select substr(timestamp, 4,2) as month, product_category, customer_state, count(distinct order_id), round(avg(quantity*payment),2) from ecom_data group by substr(timestamp,4,2), product_category, customer_state;
+

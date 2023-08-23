@@ -1,0 +1,41 @@
+diseaseID,DiseaseName,Male_Count,Female_Count,Male_to_Female_ratio
+1,"Alzheimer's disease",45,23,1.9565
+2,"Amyotrophic lateral sclerosis",32,25,1.2800
+3,"Anorexia nervosa",40,28,1.4286
+4,"Anxiety disorder",33,25,1.3200
+5,Asthma,41,25,1.6400
+6,Atherosclerosis,50,28,1.7857
+7,"Attention deficit hyperactivity disorder",43,37,1.1622
+8,Autism,40,24,1.6667
+9,"Autoimmune diseases",33,19,1.7368
+10,"Bipolar disorder",40,34,1.1765
+11,Cancer,43,19,2.2632
+12,"Chronic fatigue syndrome",41,33,1.2424
+13,"Chronic obstructive pulmonary disease",40,27,1.4815
+14,"Crohn's disease",43,30,1.4333
+15,"Coronary heart disease",38,16,2.3750
+16,Dementia,38,26,1.4615
+17,Depression,40,19,2.1053
+18,"Diabetes mellitus type 1",44,18,2.4444
+19,"Diabetes mellitus type 2",32,23,1.3913
+20,"Dilated cardiomyopathy",45,23,1.9565
+21,Epilepsy,41,23,1.7826
+22,"Guillain–Barré syndrome",42,36,1.1667
+23,"Irritable bowel syndrome",43,28,1.5357
+24,"Low back pain",47,22,2.1364
+25,Lupus,38,24,1.5833
+26,"Metabolic syndrome",38,25,1.5200
+27,"Multiple sclerosis",50,24,2.0833
+28,"Myocardial infarction",46,22,2.0909
+29,Obesity,41,33,1.2424
+30,"Obsessive–compulsive disorder",47,20,2.3500
+31,"Panic disorder",43,25,1.7200
+32,"Parkinson's disease",30,22,1.3636
+33,Psoriasis,36,24,1.5000
+34,"Rheumatoid arthritis",38,29,1.3103
+35,Sarcoidosis,31,26,1.1923
+36,Schizophrenia,46,27,1.7037
+37,Stroke,42,24,1.7500
+38,"Thromboangiitis obliterans",39,24,1.6250
+39,"Tourette syndrome",40,33,1.2121
+40,Vasculitis,45,29,1.5517

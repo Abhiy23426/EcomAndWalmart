@@ -1,0 +1,18 @@
+Problem Statement 5:
+
+Payment Preference
+
+What are the most commonly used payment types?
+Count of Orders With each No. of Payment Installments
+
+
+create external table op5_1 (payment_type string,count_of_orders int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op5_1';
+
+insert overwrite table op5_1
+select payment_type, count(distinct order_id) from ecom_data_orc group by payment_type;
+
+
+create external table op5_2 (payment_installment int,count_of_orders int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op5_2';
+
+insert overwrite table op5_2
+select coalesce(payment_installments, 'NO'), count(distinct order_id) from ecom_data_orc group by payment_installments;

@@ -1,0 +1,12 @@
+Problem Statement 3:
+
+Hourly Sales Analysis
+
+
+create external table op3 (hour int, product_category string, customer_state string, order_count int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op3';
+
+
+
+insert overwrite table op3 select substr(timestamp, 12,2) as hour, product_category, customer_state, count(distinct order_id) from ecom_data group by substr(timestamp,12,2), product_category, customer_state;
+
+

@@ -1,0 +1,35 @@
+Problem Statement 4:
+
+Product Based Analysis
+
+Which category product has sold more?
+Which category product has more rating?
+Which product has sold more?
+Top 10 highest & least product rating?
+Order Count for each rating
+
+
+create table part_cate (product_id string, quantity int, rating int) partitioned by (product_category string) clustered by (product_id) into 3 buckets;
+
+insert overwrite table part_cate partition(product_category) select product_id, quantity, rating, product_category from ecom_data_orc;
+
+
+
+create external table op4_1 (product_category string,count_of_products int,avg_rating float) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op4_1';
+
+insert overwrite table op4_1 
+select product_category, sum(quantity) as count_of_products, round(avg(rating),2) as avg_rating from part_cate group by product_category;
+
+
+
+create external table op4_3 (product_id string,count_of_products_sold int, avg_rating float) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op4_3';
+
+insert overwrite table op4_3 select product_id, sum(quantity), round(avg(rating),2) from ecom_data group by product_id;
+
+
+
+
+create external table op4_5 (rating int,count_of_orders int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op4_5';
+
+insert overwrite table op4_5
+select rating, count(distinct order_id) from ecom_data group by rating;

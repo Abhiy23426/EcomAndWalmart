@@ -1,0 +1,41 @@
+diseaseID,person_category,min_patient_count,person_category,max_patient_count
+1,AdultFemale,6,ElderMale,85
+2,AdultFemale,4,ElderMale,84
+3,AdultFemale,4,ElderMale,104
+4,AdultMale,8,ElderMale,80
+5,"AdultMale, AdultFemale",7,ElderMale,89
+6,AdultFemale,6,ElderMale,88
+7,AdultMale,6,ElderMale,85
+8,AdultFemale,1,ElderMale,85
+9,AdultFemale,14,ElderMale,87
+10,AdultFemale,7,ElderMale,90
+11,AdultMale,7,ElderMale,107
+12,AdultFemale,6,ElderMale,85
+13,AdultFemale,7,ElderMale,82
+14,AdultFemale,9,ElderMale,96
+15,AdultFemale,7,ElderMale,80
+16,AdultMale,5,ElderMale,95
+17,AdultFemale,3,ElderMale,87
+18,AdultFemale,8,ElderMale,84
+19,AdultFemale,9,ElderMale,98
+20,AdultFemale,6,ElderMale,103
+21,AdultFemale,4,ElderMale,78
+22,"AdultMale, AdultFemale",5,ElderMale,93
+23,"AdultMale, AdultFemale",11,ElderMale,101
+24,AdultFemale,7,ElderMale,82
+25,AdultFemale,3,ElderMale,82
+26,"AdultFemale, AdultMale",8,ElderMale,87
+27,AdultFemale,5,ElderMale,89
+28,AdultFemale,3,ElderMale,89
+29,"AdultMale, AdultFemale",6,ElderMale,93
+30,AdultFemale,4,ElderMale,89
+31,AdultFemale,8,ElderMale,89
+32,AdultFemale,5,ElderMale,79
+33,AdultFemale,7,ElderMale,77
+34,AdultFemale,7,ElderMale,84
+35,"AdultMale, AdultFemale",3,ElderMale,92
+36,AdultFemale,8,ElderMale,100
+37,AdultFemale,10,ElderMale,89
+38,AdultFemale,3,ElderMale,88
+39,AdultFemale,6,ElderMale,85
+40,AdultFemale,5,ElderMale,88

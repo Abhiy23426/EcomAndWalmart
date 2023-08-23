@@ -1,0 +1,41 @@
+diseaseid,diseaseName,"Number of Households"
+1,"Alzheimer's disease",7
+2,"Amyotrophic lateral sclerosis",12
+3,"Anorexia nervosa",8
+4,"Anxiety disorder",8
+5,Asthma,12
+6,Atherosclerosis,12
+7,"Attention deficit hyperactivity disorder",6
+8,Autism,8
+9,"Autoimmune diseases",7
+10,"Bipolar disorder",9
+11,Cancer,9
+12,"Chronic fatigue syndrome",7
+13,"Chronic obstructive pulmonary disease",8
+14,"Crohn's disease",13
+15,"Coronary heart disease",6
+16,Dementia,6
+17,Depression,6
+18,"Diabetes mellitus type 1",8
+19,"Diabetes mellitus type 2",4
+20,"Dilated cardiomyopathy",8
+21,Epilepsy,7
+22,"Guillain–Barré syndrome",7
+23,"Irritable bowel syndrome",9
+24,"Low back pain",9
+25,Lupus,8
+26,"Metabolic syndrome",10
+27,"Multiple sclerosis",8
+28,"Myocardial infarction",11
+29,Obesity,10
+30,"Obsessive–compulsive disorder",12
+31,"Panic disorder",13
+32,"Parkinson's disease",11
+33,Psoriasis,7
+34,"Rheumatoid arthritis",9
+35,Sarcoidosis,7
+36,Schizophrenia,6
+37,Stroke,13
+38,"Thromboangiitis obliterans",12
+39,"Tourette syndrome",7
+40,Vasculitis,9

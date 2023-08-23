@@ -1,0 +1,122 @@
+diseaseName,Gender,Patient_Count
+"Alzheimer's disease",female,95
+"Alzheimer's disease",male,173
+"Alzheimer's disease",Total,268
+"Amyotrophic lateral sclerosis",female,106
+"Amyotrophic lateral sclerosis",male,165
+"Amyotrophic lateral sclerosis",Total,271
+"Anorexia nervosa",female,96
+"Anorexia nervosa",male,177
+"Anorexia nervosa",Total,273
+"Anxiety disorder",female,126
+"Anxiety disorder",male,153
+"Anxiety disorder",Total,279
+Asthma,female,101
+Asthma,male,144
+Asthma,Total,245
+Atherosclerosis,female,112
+Atherosclerosis,male,174
+Atherosclerosis,Total,286
+"Attention deficit hyperactivity disorder",female,125
+"Attention deficit hyperactivity disorder",male,158
+"Attention deficit hyperactivity disorder",Total,283
+Autism,female,94
+Autism,male,156
+Autism,Total,250
+"Autoimmune diseases",female,102
+"Autoimmune diseases",male,165
+"Autoimmune diseases",Total,267
+"Bipolar disorder",female,114
+"Bipolar disorder",male,166
+"Bipolar disorder",Total,280
+Cancer,female,103
+Cancer,male,191
+Cancer,Total,294
+"Chronic fatigue syndrome",female,107
+"Chronic fatigue syndrome",male,158
+"Chronic fatigue syndrome",Total,265
+"Chronic obstructive pulmonary disease",female,97
+"Chronic obstructive pulmonary disease",male,152
+"Chronic obstructive pulmonary disease",Total,249
+"Coronary heart disease",female,97
+"Coronary heart disease",male,149
+"Coronary heart disease",Total,246
+"Crohn's disease",female,102
+"Crohn's disease",male,182
+"Crohn's disease",Total,284
+Dementia,female,90
+Dementia,male,162
+Dementia,Total,252
+Depression,female,82
+Depression,male,170
+Depression,Total,252
+"Diabetes mellitus type 1",female,93
+"Diabetes mellitus type 1",male,174
+"Diabetes mellitus type 1",Total,267
+"Diabetes mellitus type 2",female,99
+"Diabetes mellitus type 2",male,178
+"Diabetes mellitus type 2",Total,277
+"Dilated cardiomyopathy",female,110
+"Dilated cardiomyopathy",male,191
+"Dilated cardiomyopathy",Total,301
+Epilepsy,female,96
+Epilepsy,male,153
+Epilepsy,Total,249
+"Guillain–Barré syndrome",female,124
+"Guillain–Barré syndrome",male,169
+"Guillain–Barré syndrome",Total,293
+"Irritable bowel syndrome",female,104
+"Irritable bowel syndrome",male,184
+"Irritable bowel syndrome",Total,288
+"Low back pain",female,111
+"Low back pain",male,159
+"Low back pain",Total,270
+Lupus,female,88
+Lupus,male,158
+Lupus,Total,246
+"Metabolic syndrome",female,127
+"Metabolic syndrome",male,161
+"Metabolic syndrome",Total,288
+"Multiple sclerosis",female,88
+"Multiple sclerosis",male,173
+"Multiple sclerosis",Total,261
+"Myocardial infarction",female,107
+"Myocardial infarction",male,190
+"Myocardial infarction",Total,297
+Obesity,female,123
+Obesity,male,157
+Obesity,Total,280
+"Obsessive–compulsive disorder",female,110
+"Obsessive–compulsive disorder",male,175
+"Obsessive–compulsive disorder",Total,285
+"Panic disorder",female,110
+"Panic disorder",male,158
+"Panic disorder",Total,268
+"Parkinson's disease",female,94
+"Parkinson's disease",male,145
+"Parkinson's disease",Total,239
+Psoriasis,female,93
+Psoriasis,male,157
+Psoriasis,Total,250
+"Rheumatoid arthritis",female,113
+"Rheumatoid arthritis",male,156
+"Rheumatoid arthritis",Total,269
+Sarcoidosis,female,96
+Sarcoidosis,male,170
+Sarcoidosis,Total,266
+Schizophrenia,female,117
+Schizophrenia,male,190
+Schizophrenia,Total,307
+Stroke,female,112
+Stroke,male,183
+Stroke,Total,295
+"Thromboangiitis obliterans",female,96
+"Thromboangiitis obliterans",male,175
+"Thromboangiitis obliterans",Total,271
+"Tourette syndrome",female,125
+"Tourette syndrome",male,153
+"Tourette syndrome",Total,278
+Vasculitis,female,121
+Vasculitis,male,175
+Vasculitis,Total,296
+NULL,Total,10885

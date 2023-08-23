@@ -1,0 +1,950 @@
+pharmacyID,pharmacyName,diseaseID,diseaseName,prescription_count_2021,prescription_count_2022
+1008,MobiMeds,20,"Dilated cardiomyopathy",2,1
+1008,MobiMeds,28,"Myocardial infarction",2,1
+1008,MobiMeds,12,"Chronic fatigue syndrome",1,1
+1008,MobiMeds,19,"Diabetes mellitus type 2",1,1
+1008,MobiMeds,22,"Guillain–Barré syndrome",1,1
+1008,MobiMeds,23,"Irritable bowel syndrome",1,1
+1008,MobiMeds,29,Obesity,1,1
+1145,"Spot Rx",29,Obesity,2,2
+1145,"Spot Rx",9,"Autoimmune diseases",2,1
+1145,"Spot Rx",13,"Chronic obstructive pulmonary disease",1,1
+1145,"Spot Rx",17,Depression,1,1
+1145,"Spot Rx",18,"Diabetes mellitus type 1",1,1
+1145,"Spot Rx",33,Psoriasis,1,1
+1145,"Spot Rx",37,Stroke,1,1
+1145,"Spot Rx",38,"Thromboangiitis obliterans",1,1
+1149,"Modern Health",9,"Autoimmune diseases",1,1
+1194,"Foundation Care",24,"Low back pain",2,1
+1194,"Foundation Care",35,Sarcoidosis,2,1
+1194,"Foundation Care",1,"Alzheimer's disease",1,1
+1194,"Foundation Care",10,"Bipolar disorder",1,1
+1194,"Foundation Care",12,"Chronic fatigue syndrome",1,1
+1204,"Family Drug Mart",9,"Autoimmune diseases",1,2
+1204,"Family Drug Mart",1,"Alzheimer's disease",1,1
+1204,"Family Drug Mart",11,Cancer,1,1
+1204,"Family Drug Mart",13,"Chronic obstructive pulmonary disease",1,1
+1204,"Family Drug Mart",18,"Diabetes mellitus type 1",1,1
+1204,"Family Drug Mart",19,"Diabetes mellitus type 2",1,1
+1204,"Family Drug Mart",23,"Irritable bowel syndrome",1,1
+1204,"Family Drug Mart",24,"Low back pain",1,1
+1204,"Family Drug Mart",27,"Multiple sclerosis",1,1
+1204,"Family Drug Mart",29,Obesity,1,1
+1204,"Family Drug Mart",30,"Obsessive–compulsive disorder",1,1
+1204,"Family Drug Mart",31,"Panic disorder",1,1
+1248,"New Era",16,Dementia,2,1
+1248,"New Era",32,"Parkinson's disease",1,2
+1248,"New Era",40,Vasculitis,1,2
+1248,"New Era",5,Asthma,1,1
+1248,"New Era",38,"Thromboangiitis obliterans",1,1
+1293,"Fry’s Pharmacy",37,Stroke,2,1
+1293,"Fry’s Pharmacy",40,Vasculitis,1,4
+1293,"Fry’s Pharmacy",23,"Irritable bowel syndrome",1,2
+1293,"Fry’s Pharmacy",20,"Dilated cardiomyopathy",1,1
+1293,"Fry’s Pharmacy",24,"Low back pain",1,1
+1293,"Fry’s Pharmacy",33,Psoriasis,1,1
+1293,"Fry’s Pharmacy",35,Sarcoidosis,1,1
+1332,"Rite Aid",39,"Tourette syndrome",3,1
+1332,"Rite Aid",24,"Low back pain",1,3
+1332,"Rite Aid",38,"Thromboangiitis obliterans",1,3
+1332,"Rite Aid",1,"Alzheimer's disease",1,1
+1332,"Rite Aid",29,Obesity,1,1
+1332,"Rite Aid",34,"Rheumatoid arthritis",1,1
+1354,HealthMart,24,"Low back pain",2,1
+1354,HealthMart,33,Psoriasis,1,3
+1354,HealthMart,6,Atherosclerosis,1,1
+1354,HealthMart,14,"Crohn's disease",1,1
+1354,HealthMart,21,Epilepsy,1,1
+1386,GenScripts,3,"Anorexia nervosa",1,2
+1386,GenScripts,14,"Crohn's disease",1,1
+1386,GenScripts,18,"Diabetes mellitus type 1",1,1
+1386,GenScripts,34,"Rheumatoid arthritis",1,1
+1386,GenScripts,36,Schizophrenia,1,1
+1396,"Sand Point Pharmacy",30,"Obsessive–compulsive disorder",1,2
+1396,"Sand Point Pharmacy",3,"Anorexia nervosa",1,1
+1478,Pocketpills,27,"Multiple sclerosis",2,2
+1478,Pocketpills,15,"Coronary heart disease",2,1
+1478,Pocketpills,3,"Anorexia nervosa",1,1
+1478,Pocketpills,9,"Autoimmune diseases",1,1
+1478,Pocketpills,28,"Myocardial infarction",1,1
+1478,Pocketpills,37,Stroke,1,1
+1570,"White Pigeon Pharmacy",34,"Rheumatoid arthritis",2,1
+1570,"White Pigeon Pharmacy",11,Cancer,1,1
+1570,"White Pigeon Pharmacy",19,"Diabetes mellitus type 2",1,1
+1570,"White Pigeon Pharmacy",23,"Irritable bowel syndrome",1,1
+1570,"White Pigeon Pharmacy",35,Sarcoidosis,1,1
+1574,"ScriptSite Specialty",3,"Anorexia nervosa",2,1
+1574,"ScriptSite Specialty",21,Epilepsy,2,1
+1574,"ScriptSite Specialty",12,"Chronic fatigue syndrome",1,1
+1574,"ScriptSite Specialty",23,"Irritable bowel syndrome",1,1
+1574,"ScriptSite Specialty",29,Obesity,1,1
+1574,"ScriptSite Specialty",38,"Thromboangiitis obliterans",1,1
+1584,Sunwest,1,"Alzheimer's disease",2,1
+1584,Sunwest,2,"Amyotrophic lateral sclerosis",1,1
+1584,Sunwest,11,Cancer,1,1
+1584,Sunwest,17,Depression,1,1
+1609,"The Compounding Pharmacy",16,Dementia,2,1
+1609,"The Compounding Pharmacy",32,"Parkinson's disease",2,1
+1624,Caremark,3,"Anorexia nervosa",2,2
+1624,Caremark,11,Cancer,1,1
+1624,Caremark,15,"Coronary heart disease",1,1
+1624,Caremark,17,Depression,1,1
+1624,Caremark,21,Epilepsy,1,1
+1628,"IDL Drug Stores",22,"Guillain–Barré syndrome",2,1
+1628,"IDL Drug Stores",2,"Amyotrophic lateral sclerosis",1,1
+1628,"IDL Drug Stores",14,"Crohn's disease",1,1
+1724,Mediserv,34,"Rheumatoid arthritis",2,1
+1724,Mediserv,35,Sarcoidosis,2,1
+1724,Mediserv,40,Vasculitis,2,1
+1724,Mediserv,20,"Dilated cardiomyopathy",1,1
+1724,Mediserv,22,"Guillain–Barré syndrome",1,1
+1724,Mediserv,31,"Panic disorder",1,1
+1731,"Thrifty Way Pharmacy",36,Schizophrenia,2,1
+1731,"Thrifty Way Pharmacy",5,Asthma,1,1
+1731,"Thrifty Way Pharmacy",8,Autism,1,1
+1731,"Thrifty Way Pharmacy",9,"Autoimmune diseases",1,1
+1731,"Thrifty Way Pharmacy",10,"Bipolar disorder",1,1
+1731,"Thrifty Way Pharmacy",14,"Crohn's disease",1,1
+1731,"Thrifty Way Pharmacy",21,Epilepsy,1,1
+1731,"Thrifty Way Pharmacy",29,Obesity,1,1
+1755,"Health Warehouse",1,"Alzheimer's disease",1,1
+1755,"Health Warehouse",8,Autism,1,1
+1755,"Health Warehouse",22,"Guillain–Barré syndrome",1,1
+1755,"Health Warehouse",24,"Low back pain",1,1
+1755,"Health Warehouse",33,Psoriasis,1,1
+1766,"Pharma Best",14,"Crohn's disease",1,2
+1766,"Pharma Best",12,"Chronic fatigue syndrome",1,1
+1766,"Pharma Best",31,"Panic disorder",1,1
+1795,"Pure Life",31,"Panic disorder",1,2
+1795,"Pure Life",11,Cancer,1,1
+1795,"Pure Life",15,"Coronary heart disease",1,1
+1795,"Pure Life",27,"Multiple sclerosis",1,1
+1795,"Pure Life",39,"Tourette syndrome",1,1
+1882,PersonalRX,24,"Low back pain",1,2
+1882,PersonalRX,3,"Anorexia nervosa",1,1
+1882,PersonalRX,18,"Diabetes mellitus type 1",1,1
+1882,PersonalRX,20,"Dilated cardiomyopathy",1,1
+1891,Welltrack,13,"Chronic obstructive pulmonary disease",1,2
+1891,Welltrack,39,"Tourette syndrome",1,2
+1891,Welltrack,4,"Anxiety disorder",1,1
+1925,"Everyday Drugs",12,"Chronic fatigue syndrome",1,3
+1925,"Everyday Drugs",5,Asthma,1,2
+1925,"Everyday Drugs",6,Atherosclerosis,1,1
+1925,"Everyday Drugs",14,"Crohn's disease",1,1
+1925,"Everyday Drugs",24,"Low back pain",1,1
+1987,Healthbest,16,Dementia,1,2
+1987,Healthbest,8,Autism,1,1
+1987,Healthbest,12,"Chronic fatigue syndrome",1,1
+1987,Healthbest,20,"Dilated cardiomyopathy",1,1
+2060,"Prescription Hope",3,"Anorexia nervosa",1,1
+2060,"Prescription Hope",38,"Thromboangiitis obliterans",1,1
+2060,"Prescription Hope",39,"Tourette syndrome",1,1
+2066,"Drug Blend",16,Dementia,2,1
+2066,"Drug Blend",40,Vasculitis,2,1
+2066,"Drug Blend",28,"Myocardial infarction",1,2
+2066,"Drug Blend",2,"Amyotrophic lateral sclerosis",1,1
+2066,"Drug Blend",13,"Chronic obstructive pulmonary disease",1,1
+2066,"Drug Blend",20,"Dilated cardiomyopathy",1,1
+2066,"Drug Blend",26,"Metabolic syndrome",1,1
+2165,"Wellness RX",25,Lupus,1,3
+2165,"Wellness RX",4,"Anxiety disorder",1,1
+2209,"Blink Health",7,"Attention deficit hyperactivity disorder",1,1
+2209,"Blink Health",26,"Metabolic syndrome",1,1
+2209,"Blink Health",31,"Panic disorder",1,1
+2218,Heallergy,10,"Bipolar disorder",2,1
+2218,Heallergy,5,Asthma,1,1
+2218,Heallergy,6,Atherosclerosis,1,1
+2218,Heallergy,27,"Multiple sclerosis",1,1
+2245,Rxtra,14,"Crohn's disease",2,1
+2245,Rxtra,3,"Anorexia nervosa",1,1
+2245,Rxtra,5,Asthma,1,1
+2245,Rxtra,29,Obesity,1,1
+2245,Rxtra,37,Stroke,1,1
+2301,HealthDirect,11,Cancer,3,1
+2301,HealthDirect,27,"Multiple sclerosis",1,2
+2301,HealthDirect,16,Dementia,1,1
+2301,HealthDirect,25,Lupus,1,1
+2301,HealthDirect,37,Stroke,1,1
+2301,HealthDirect,39,"Tourette syndrome",1,1
+2356,RxToMe,12,"Chronic fatigue syndrome",1,1
+2356,RxToMe,18,"Diabetes mellitus type 1",1,1
+2356,RxToMe,28,"Myocardial infarction",1,1
+2416,"Max Health",12,"Chronic fatigue syndrome",2,1
+2416,"Max Health",13,"Chronic obstructive pulmonary disease",2,1
+2416,"Max Health",39,"Tourette syndrome",2,1
+2416,"Max Health",1,"Alzheimer's disease",1,2
+2416,"Max Health",9,"Autoimmune diseases",1,1
+2416,"Max Health",15,"Coronary heart disease",1,1
+2416,"Max Health",28,"Myocardial infarction",1,1
+2416,"Max Health",34,"Rheumatoid arthritis",1,1
+2426,"Lifeshave Pharmacy",1,"Alzheimer's disease",1,1
+2426,"Lifeshave Pharmacy",2,"Amyotrophic lateral sclerosis",1,1
+2426,"Lifeshave Pharmacy",3,"Anorexia nervosa",1,1
+2426,"Lifeshave Pharmacy",10,"Bipolar disorder",1,1
+2426,"Lifeshave Pharmacy",26,"Metabolic syndrome",1,1
+2449,"Simple Meds",7,"Attention deficit hyperactivity disorder",1,1
+2449,"Simple Meds",10,"Bipolar disorder",1,1
+2449,"Simple Meds",11,Cancer,1,1
+2563,PharmaMed,38,"Thromboangiitis obliterans",2,2
+2563,PharmaMed,27,"Multiple sclerosis",1,1
+2563,PharmaMed,34,"Rheumatoid arthritis",1,1
+2593,"Health Harvest",7,"Attention deficit hyperactivity disorder",3,1
+2593,"Health Harvest",5,Asthma,1,2
+2593,"Health Harvest",26,"Metabolic syndrome",1,2
+2593,"Health Harvest",31,"Panic disorder",1,2
+2593,"Health Harvest",4,"Anxiety disorder",1,1
+2640,"Dutchtown Pharmacy",29,Obesity,1,2
+2640,"Dutchtown Pharmacy",5,Asthma,1,1
+2640,"Dutchtown Pharmacy",11,Cancer,1,1
+2640,"Dutchtown Pharmacy",31,"Panic disorder",1,1
+2640,"Dutchtown Pharmacy",35,Sarcoidosis,1,1
+2821,Wellfresh,10,"Bipolar disorder",1,1
+2821,Wellfresh,31,"Panic disorder",1,1
+2821,Wellfresh,40,Vasculitis,1,1
+2822,"Fisher Pharmacy & Gifts",23,"Irritable bowel syndrome",2,1
+2822,"Fisher Pharmacy & Gifts",6,Atherosclerosis,1,1
+2822,"Fisher Pharmacy & Gifts",15,"Coronary heart disease",1,1
+2822,"Fisher Pharmacy & Gifts",20,"Dilated cardiomyopathy",1,1
+2822,"Fisher Pharmacy & Gifts",24,"Low back pain",1,1
+2822,"Fisher Pharmacy & Gifts",29,Obesity,1,1
+2836,"Discount Drug Mart",21,Epilepsy,2,1
+2836,"Discount Drug Mart",22,"Guillain–Barré syndrome",1,2
+2836,"Discount Drug Mart",25,Lupus,1,2
+2836,"Discount Drug Mart",38,"Thromboangiitis obliterans",1,2
+2836,"Discount Drug Mart",23,"Irritable bowel syndrome",1,1
+2836,"Discount Drug Mart",24,"Low back pain",1,1
+2836,"Discount Drug Mart",29,Obesity,1,1
+2843,"Pharma Street",21,Epilepsy,2,2
+2843,"Pharma Street",18,"Diabetes mellitus type 1",1,1
+2843,"Pharma Street",20,"Dilated cardiomyopathy",1,1
+2843,"Pharma Street",30,"Obsessive–compulsive disorder",1,1
+2847,"Smart Pharmacy",17,Depression,1,2
+2847,"Smart Pharmacy",2,"Amyotrophic lateral sclerosis",1,1
+2847,"Smart Pharmacy",14,"Crohn's disease",1,1
+2847,"Smart Pharmacy",18,"Diabetes mellitus type 1",1,1
+2906,"Powerhouse Pharmacy",8,Autism,1,3
+2906,"Powerhouse Pharmacy",11,Cancer,1,1
+2906,"Powerhouse Pharmacy",22,"Guillain–Barré syndrome",1,1
+2906,"Powerhouse Pharmacy",27,"Multiple sclerosis",1,1
+2906,"Powerhouse Pharmacy",31,"Panic disorder",1,1
+2906,"Powerhouse Pharmacy",32,"Parkinson's disease",1,1
+3104,"Louis And Clark Drug",6,Atherosclerosis,2,1
+3104,"Louis And Clark Drug",13,"Chronic obstructive pulmonary disease",1,1
+3104,"Louis And Clark Drug",16,Dementia,1,1
+3104,"Louis And Clark Drug",27,"Multiple sclerosis",1,1
+3104,"Louis And Clark Drug",32,"Parkinson's disease",1,1
+3104,"Louis And Clark Drug",34,"Rheumatoid arthritis",1,1
+3176,"Essential Pharmacy",8,Autism,1,2
+3176,"Essential Pharmacy",17,Depression,1,1
+3253,Omnicare,7,"Attention deficit hyperactivity disorder",1,2
+3253,Omnicare,27,"Multiple sclerosis",1,1
+3287,"Ally Scripts",33,Psoriasis,1,1
+3303,"Reliable Pharmacy",21,Epilepsy,1,2
+3303,"Reliable Pharmacy",23,"Irritable bowel syndrome",1,1
+3303,"Reliable Pharmacy",25,Lupus,1,1
+3303,"Reliable Pharmacy",32,"Parkinson's disease",1,1
+3348,MedMinder,3,"Anorexia nervosa",1,1
+3352,Wellwise,13,"Chronic obstructive pulmonary disease",2,2
+3352,Wellwise,25,Lupus,2,1
+3352,Wellwise,5,Asthma,1,1
+3352,Wellwise,27,"Multiple sclerosis",1,1
+3352,Wellwise,28,"Myocardial infarction",1,1
+3469,"Concord Pharmacy",37,Stroke,2,1
+3469,"Concord Pharmacy",18,"Diabetes mellitus type 1",1,3
+3469,"Concord Pharmacy",14,"Crohn's disease",1,2
+3469,"Concord Pharmacy",27,"Multiple sclerosis",1,2
+3469,"Concord Pharmacy",9,"Autoimmune diseases",1,1
+3469,"Concord Pharmacy",30,"Obsessive–compulsive disorder",1,1
+3515,"Wellport Drugs",37,Stroke,2,1
+3515,"Wellport Drugs",21,Epilepsy,1,2
+3515,"Wellport Drugs",20,"Dilated cardiomyopathy",1,1
+3515,"Wellport Drugs",40,Vasculitis,1,1
+3536,"Outpatient Pharmacy",20,"Dilated cardiomyopathy",2,2
+3536,"Outpatient Pharmacy",36,Schizophrenia,2,1
+3536,"Outpatient Pharmacy",11,Cancer,1,1
+3536,"Outpatient Pharmacy",19,"Diabetes mellitus type 2",1,1
+3536,"Outpatient Pharmacy",24,"Low back pain",1,1
+3536,"Outpatient Pharmacy",39,"Tourette syndrome",1,1
+3563,Vitasource,8,Autism,2,1
+3570,"Pill Pack",17,Depression,1,1
+3628,"Midtown Express",18,"Diabetes mellitus type 1",1,1
+3628,"Midtown Express",24,"Low back pain",1,1
+3628,"Midtown Express",25,Lupus,1,1
+3628,"Midtown Express",28,"Myocardial infarction",1,1
+3628,"Midtown Express",33,Psoriasis,1,1
+3628,"Midtown Express",36,Schizophrenia,1,1
+3651,"Good RX",30,"Obsessive–compulsive disorder",2,1
+3651,"Good RX",12,"Chronic fatigue syndrome",1,2
+3651,"Good RX",13,"Chronic obstructive pulmonary disease",1,2
+3651,"Good RX",5,Asthma,1,1
+3651,"Good RX",6,Atherosclerosis,1,1
+3651,"Good RX",7,"Attention deficit hyperactivity disorder",1,1
+3651,"Good RX",17,Depression,1,1
+3651,"Good RX",36,Schizophrenia,1,1
+3673,"Pharmacy Express",12,"Chronic fatigue syndrome",1,2
+3673,"Pharmacy Express",36,Schizophrenia,1,2
+3673,"Pharmacy Express",3,"Anorexia nervosa",1,1
+3673,"Pharmacy Express",9,"Autoimmune diseases",1,1
+3673,"Pharmacy Express",10,"Bipolar disorder",1,1
+3673,"Pharmacy Express",11,Cancer,1,1
+3673,"Pharmacy Express",22,"Guillain–Barré syndrome",1,1
+3673,"Pharmacy Express",31,"Panic disorder",1,1
+3673,"Pharmacy Express",33,Psoriasis,1,1
+3703,"Bioplus Specialty",29,Obesity,3,1
+3703,"Bioplus Specialty",3,"Anorexia nervosa",1,1
+3703,"Bioplus Specialty",14,"Crohn's disease",1,1
+3724,"Pearl River Pharmacy",19,"Diabetes mellitus type 2",1,2
+3724,"Pearl River Pharmacy",15,"Coronary heart disease",1,1
+3724,"Pearl River Pharmacy",17,Depression,1,1
+3799,"Newday Drug Store",18,"Diabetes mellitus type 1",1,4
+3799,"Newday Drug Store",9,"Autoimmune diseases",1,1
+3799,"Newday Drug Store",29,Obesity,1,1
+3799,"Newday Drug Store",40,Vasculitis,1,1
+3803,"First Care Rx",31,"Panic disorder",1,3
+3803,"First Care Rx",18,"Diabetes mellitus type 1",1,1
+3803,"First Care Rx",39,"Tourette syndrome",1,1
+3810,"Trinity Pharmacy",14,"Crohn's disease",2,1
+3810,"Trinity Pharmacy",34,"Rheumatoid arthritis",2,1
+3810,"Trinity Pharmacy",20,"Dilated cardiomyopathy",1,2
+3810,"Trinity Pharmacy",4,"Anxiety disorder",1,1
+3810,"Trinity Pharmacy",7,"Attention deficit hyperactivity disorder",1,1
+3831,"Health Mart",12,"Chronic fatigue syndrome",2,2
+3831,"Health Mart",22,"Guillain–Barré syndrome",1,1
+3831,"Health Mart",26,"Metabolic syndrome",1,1
+3831,"Health Mart",28,"Myocardial infarction",1,1
+4025,"Keystone Pharmacy",16,Dementia,1,3
+4025,"Keystone Pharmacy",4,"Anxiety disorder",1,1
+4025,"Keystone Pharmacy",12,"Chronic fatigue syndrome",1,1
+4106,"Central Rx",22,"Guillain–Barré syndrome",1,2
+4106,"Central Rx",36,Schizophrenia,1,2
+4106,"Central Rx",5,Asthma,1,1
+4106,"Central Rx",16,Dementia,1,1
+4106,"Central Rx",19,"Diabetes mellitus type 2",1,1
+4106,"Central Rx",23,"Irritable bowel syndrome",1,1
+4106,"Central Rx",33,Psoriasis,1,1
+4106,"Central Rx",37,Stroke,1,1
+4106,"Central Rx",39,"Tourette syndrome",1,1
+4137,MedOne,11,Cancer,2,1
+4137,MedOne,6,Atherosclerosis,1,2
+4137,MedOne,4,"Anxiety disorder",1,1
+4137,MedOne,24,"Low back pain",1,1
+4137,MedOne,27,"Multiple sclerosis",1,1
+4137,MedOne,29,Obesity,1,1
+4221,"Below Drug",14,"Crohn's disease",2,2
+4221,"Below Drug",10,"Bipolar disorder",1,1
+4221,"Below Drug",16,Dementia,1,1
+4221,"Below Drug",27,"Multiple sclerosis",1,1
+4221,"Below Drug",38,"Thromboangiitis obliterans",1,1
+4251,Sav-On,36,Schizophrenia,3,1
+4251,Sav-On,12,"Chronic fatigue syndrome",2,1
+4251,Sav-On,19,"Diabetes mellitus type 2",1,2
+4251,Sav-On,7,"Attention deficit hyperactivity disorder",1,1
+4251,Sav-On,21,Epilepsy,1,1
+4251,Sav-On,29,Obesity,1,1
+4269,"Cardinal Health",17,Depression,3,1
+4269,"Cardinal Health",8,Autism,1,1
+4269,"Cardinal Health",30,"Obsessive–compulsive disorder",1,1
+4326,Pharmanic,8,Autism,2,1
+4326,Pharmanic,3,"Anorexia nervosa",1,2
+4326,Pharmanic,26,"Metabolic syndrome",1,2
+4326,Pharmanic,13,"Chronic obstructive pulmonary disease",1,1
+4326,Pharmanic,18,"Diabetes mellitus type 1",1,1
+4380,"Healthy Floyds",19,"Diabetes mellitus type 2",1,2
+4380,"Healthy Floyds",3,"Anorexia nervosa",1,1
+4636,"Hometown Pharmacy Services",10,"Bipolar disorder",1,1
+4636,"Hometown Pharmacy Services",40,Vasculitis,1,1
+4647,Goodstart,16,Dementia,1,2
+4647,Goodstart,33,Psoriasis,1,1
+4647,Goodstart,40,Vasculitis,1,1
+4663,"Tru Script",20,"Dilated cardiomyopathy",2,1
+4663,"Tru Script",28,"Myocardial infarction",2,1
+4707,"Lakeside Pharmacy",21,Epilepsy,1,2
+4707,"Lakeside Pharmacy",13,"Chronic obstructive pulmonary disease",1,1
+4707,"Lakeside Pharmacy",34,"Rheumatoid arthritis",1,1
+4749,Lifechek,36,Schizophrenia,1,2
+4749,Lifechek,10,"Bipolar disorder",1,1
+4749,Lifechek,34,"Rheumatoid arthritis",1,1
+4749,Lifechek,40,Vasculitis,1,1
+4827,"Northwest Pharmacy",34,"Rheumatoid arthritis",2,1
+4827,"Northwest Pharmacy",36,Schizophrenia,2,1
+4827,"Northwest Pharmacy",4,"Anxiety disorder",1,1
+4827,"Northwest Pharmacy",21,Epilepsy,1,1
+4827,"Northwest Pharmacy",26,"Metabolic syndrome",1,1
+4827,"Northwest Pharmacy",27,"Multiple sclerosis",1,1
+4827,"Northwest Pharmacy",35,Sarcoidosis,1,1
+4827,"Northwest Pharmacy",39,"Tourette syndrome",1,1
+4827,"Northwest Pharmacy",40,Vasculitis,1,1
+4866,"Pacific Medical",35,Sarcoidosis,2,1
+4866,"Pacific Medical",37,Stroke,2,1
+4866,"Pacific Medical",2,"Amyotrophic lateral sclerosis",1,1
+4866,"Pacific Medical",8,Autism,1,1
+4866,"Pacific Medical",19,"Diabetes mellitus type 2",1,1
+4866,"Pacific Medical",21,Epilepsy,1,1
+4891,Medisuite,6,Atherosclerosis,2,2
+4891,Medisuite,31,"Panic disorder",2,1
+4891,Medisuite,34,"Rheumatoid arthritis",1,1
+4905,"Cedra Pharmacy",2,"Amyotrophic lateral sclerosis",1,1
+4905,"Cedra Pharmacy",3,"Anorexia nervosa",1,1
+4905,"Cedra Pharmacy",23,"Irritable bowel syndrome",1,1
+4905,"Cedra Pharmacy",26,"Metabolic syndrome",1,1
+4938,"University Pharmacy",39,"Tourette syndrome",2,1
+4938,"University Pharmacy",11,Cancer,1,1
+4938,"University Pharmacy",18,"Diabetes mellitus type 1",1,1
+4996,"Banks Apothecary",10,"Bipolar disorder",2,1
+4996,"Banks Apothecary",26,"Metabolic syndrome",2,1
+4996,"Banks Apothecary",23,"Irritable bowel syndrome",1,1
+4996,"Banks Apothecary",31,"Panic disorder",1,1
+5058,"Bio Scrip",12,"Chronic fatigue syndrome",2,1
+5058,"Bio Scrip",14,"Crohn's disease",2,1
+5058,"Bio Scrip",38,"Thromboangiitis obliterans",1,3
+5058,"Bio Scrip",22,"Guillain–Barré syndrome",1,2
+5058,"Bio Scrip",33,Psoriasis,1,2
+5058,"Bio Scrip",16,Dementia,1,1
+5058,"Bio Scrip",24,"Low back pain",1,1
+5058,"Bio Scrip",25,Lupus,1,1
+5058,"Bio Scrip",40,Vasculitis,1,1
+5100,"Eastlake Pharmacy",21,Epilepsy,3,1
+5100,"Eastlake Pharmacy",19,"Diabetes mellitus type 2",2,1
+5100,"Eastlake Pharmacy",36,Schizophrenia,1,2
+5100,"Eastlake Pharmacy",14,"Crohn's disease",1,1
+5144,"Northwest Medication Management",26,"Metabolic syndrome",1,3
+5144,"Northwest Medication Management",34,"Rheumatoid arthritis",1,3
+5144,"Northwest Medication Management",28,"Myocardial infarction",1,2
+5144,"Northwest Medication Management",11,Cancer,1,1
+5144,"Northwest Medication Management",21,Epilepsy,1,1
+5144,"Northwest Medication Management",40,Vasculitis,1,1
+5155,"Guardian Pharmacy",9,"Autoimmune diseases",1,1
+5155,"Guardian Pharmacy",16,Dementia,1,1
+5155,"Guardian Pharmacy",32,"Parkinson's disease",1,1
+5155,"Guardian Pharmacy",33,Psoriasis,1,1
+5200,"Heartland Pharmacy",14,"Crohn's disease",1,2
+5200,"Heartland Pharmacy",1,"Alzheimer's disease",1,1
+5200,"Heartland Pharmacy",18,"Diabetes mellitus type 1",1,1
+5200,"Heartland Pharmacy",34,"Rheumatoid arthritis",1,1
+5246,"Better Life",33,Psoriasis,1,1
+5271,"Eastside Pharmacy and Compounding",13,"Chronic obstructive pulmonary disease",4,1
+5271,"Eastside Pharmacy and Compounding",39,"Tourette syndrome",1,2
+5271,"Eastside Pharmacy and Compounding",3,"Anorexia nervosa",1,1
+5271,"Eastside Pharmacy and Compounding",16,Dementia,1,1
+5271,"Eastside Pharmacy and Compounding",24,"Low back pain",1,1
+5294,"The Chemist",32,"Parkinson's disease",2,1
+5294,"The Chemist",7,"Attention deficit hyperactivity disorder",1,1
+5294,"The Chemist",12,"Chronic fatigue syndrome",1,1
+5294,"The Chemist",23,"Irritable bowel syndrome",1,1
+5294,"The Chemist",29,Obesity,1,1
+5294,"The Chemist",30,"Obsessive–compulsive disorder",1,1
+5350,"Health Element",33,Psoriasis,1,1
+5350,"Health Element",40,Vasculitis,1,1
+5381,"Pharma First",10,"Bipolar disorder",1,1
+5381,"Pharma First",20,"Dilated cardiomyopathy",1,1
+5381,"Pharma First",39,"Tourette syndrome",1,1
+5403,"Confidential Drug",29,Obesity,2,2
+5403,"Confidential Drug",11,Cancer,1,1
+5403,"Confidential Drug",36,Schizophrenia,1,1
+5450,"Reliable Rexall",22,"Guillain–Barré syndrome",1,2
+5450,"Reliable Rexall",13,"Chronic obstructive pulmonary disease",1,1
+5450,"Reliable Rexall",35,Sarcoidosis,1,1
+5480,"Kerr Drug",7,"Attention deficit hyperactivity disorder",1,1
+5480,"Kerr Drug",25,Lupus,1,1
+5480,"Kerr Drug",27,"Multiple sclerosis",1,1
+5527,"Providence Plaza",13,"Chronic obstructive pulmonary disease",2,1
+5527,"Providence Plaza",29,Obesity,1,2
+5527,"Providence Plaza",4,"Anxiety disorder",1,1
+5527,"Providence Plaza",10,"Bipolar disorder",1,1
+5527,"Providence Plaza",12,"Chronic fatigue syndrome",1,1
+5527,"Providence Plaza",14,"Crohn's disease",1,1
+5531,Wellocity,22,"Guillain–Barré syndrome",2,1
+5531,Wellocity,3,"Anorexia nervosa",1,2
+5531,Wellocity,18,"Diabetes mellitus type 1",1,2
+5531,Wellocity,19,"Diabetes mellitus type 2",1,2
+5531,Wellocity,5,Asthma,1,1
+5531,Wellocity,6,Atherosclerosis,1,1
+5531,Wellocity,7,"Attention deficit hyperactivity disorder",1,1
+5531,Wellocity,37,Stroke,1,1
+5531,Wellocity,39,"Tourette syndrome",1,1
+5564,"Publix Pharmacy",21,Epilepsy,2,1
+5564,"Publix Pharmacy",3,"Anorexia nervosa",1,1
+5564,"Publix Pharmacy",18,"Diabetes mellitus type 1",1,1
+5564,"Publix Pharmacy",38,"Thromboangiitis obliterans",1,1
+5565,"Health Hub",6,Atherosclerosis,2,1
+5565,"Health Hub",12,"Chronic fatigue syndrome",1,2
+5565,"Health Hub",8,Autism,1,1
+5565,"Health Hub",13,"Chronic obstructive pulmonary disease",1,1
+5598,"Southwest Pharmacy",8,Autism,3,1
+5598,"Southwest Pharmacy",1,"Alzheimer's disease",1,1
+5598,"Southwest Pharmacy",38,"Thromboangiitis obliterans",1,1
+5605,"Compass Health Care",35,Sarcoidosis,2,1
+5605,"Compass Health Care",8,Autism,1,1
+5605,"Compass Health Care",19,"Diabetes mellitus type 2",1,1
+5605,"Compass Health Care",28,"Myocardial infarction",1,1
+5605,"Compass Health Care",36,Schizophrenia,1,1
+5626,"Doc Your Dose Pharmacy",25,Lupus,2,1
+5626,"Doc Your Dose Pharmacy",6,Atherosclerosis,1,3
+5626,"Doc Your Dose Pharmacy",28,"Myocardial infarction",1,1
+5644,"Dakota Drug",8,Autism,1,1
+5644,"Dakota Drug",17,Depression,1,1
+5644,"Dakota Drug",40,Vasculitis,1,1
+5658,Goodness,30,"Obsessive–compulsive disorder",2,1
+5658,Goodness,2,"Amyotrophic lateral sclerosis",1,1
+5658,Goodness,15,"Coronary heart disease",1,1
+5658,Goodness,34,"Rheumatoid arthritis",1,1
+5659,"True Pill",6,Atherosclerosis,3,1
+5659,"True Pill",10,"Bipolar disorder",3,1
+5659,"True Pill",15,"Coronary heart disease",2,1
+5659,"True Pill",40,Vasculitis,2,1
+5659,"True Pill",1,"Alzheimer's disease",1,2
+5659,"True Pill",21,Epilepsy,1,2
+5659,"True Pill",8,Autism,1,1
+5659,"True Pill",11,Cancer,1,1
+5659,"True Pill",29,Obesity,1,1
+5683,"Med-X Drug",8,Autism,1,1
+5683,"Med-X Drug",17,Depression,1,1
+5683,"Med-X Drug",22,"Guillain–Barré syndrome",1,1
+5683,"Med-X Drug",25,Lupus,1,1
+5683,"Med-X Drug",31,"Panic disorder",1,1
+5683,"Med-X Drug",38,"Thromboangiitis obliterans",1,1
+5834,"Vista Pharmacy",19,"Diabetes mellitus type 2",1,1
+5834,"Vista Pharmacy",33,Psoriasis,1,1
+5866,Carepoint,6,Atherosclerosis,3,1
+5866,Carepoint,7,"Attention deficit hyperactivity disorder",2,1
+5866,Carepoint,22,"Guillain–Barré syndrome",2,1
+5866,Carepoint,12,"Chronic fatigue syndrome",1,3
+5866,Carepoint,9,"Autoimmune diseases",1,1
+5866,Carepoint,15,"Coronary heart disease",1,1
+5866,Carepoint,32,"Parkinson's disease",1,1
+5904,Neighborcare,1,"Alzheimer's disease",1,1
+5904,Neighborcare,3,"Anorexia nervosa",1,1
+5904,Neighborcare,5,Asthma,1,1
+5904,Neighborcare,15,"Coronary heart disease",1,1
+5904,Neighborcare,16,Dementia,1,1
+5904,Neighborcare,17,Depression,1,1
+5904,Neighborcare,19,"Diabetes mellitus type 2",1,1
+5904,Neighborcare,30,"Obsessive–compulsive disorder",1,1
+5904,Neighborcare,40,Vasculitis,1,1
+5929,"Alliance Community",36,Schizophrenia,2,3
+5929,"Alliance Community",18,"Diabetes mellitus type 1",2,1
+5929,"Alliance Community",9,"Autoimmune diseases",1,1
+5929,"Alliance Community",19,"Diabetes mellitus type 2",1,1
+5929,"Alliance Community",24,"Low back pain",1,1
+5929,"Alliance Community",35,Sarcoidosis,1,1
+5929,"Alliance Community",40,Vasculitis,1,1
+5947,"Union Center Pharmacy",40,Vasculitis,1,2
+5947,"Union Center Pharmacy",4,"Anxiety disorder",1,1
+5947,"Union Center Pharmacy",19,"Diabetes mellitus type 2",1,1
+5947,"Union Center Pharmacy",20,"Dilated cardiomyopathy",1,1
+5947,"Union Center Pharmacy",38,"Thromboangiitis obliterans",1,1
+5953,"Brennen Drugs Co",4,"Anxiety disorder",1,2
+5953,"Brennen Drugs Co",9,"Autoimmune diseases",1,1
+5953,"Brennen Drugs Co",17,Depression,1,1
+5953,"Brennen Drugs Co",32,"Parkinson's disease",1,1
+5960,CareFirst,30,"Obsessive–compulsive disorder",2,2
+5960,CareFirst,18,"Diabetes mellitus type 1",1,1
+5960,CareFirst,19,"Diabetes mellitus type 2",1,1
+5976,"Pride Pharmacy",12,"Chronic fatigue syndrome",1,1
+6004,"Longhorn Pharmacy",7,"Attention deficit hyperactivity disorder",1,1
+6004,"Longhorn Pharmacy",27,"Multiple sclerosis",1,1
+6004,"Longhorn Pharmacy",37,Stroke,1,1
+6018,"Jack’s Discount Pharmacy",39,"Tourette syndrome",2,2
+6018,"Jack’s Discount Pharmacy",38,"Thromboangiitis obliterans",1,4
+6018,"Jack’s Discount Pharmacy",19,"Diabetes mellitus type 2",1,2
+6018,"Jack’s Discount Pharmacy",30,"Obsessive–compulsive disorder",1,1
+6018,"Jack’s Discount Pharmacy",34,"Rheumatoid arthritis",1,1
+6029,"Northport Pharmacy",6,Atherosclerosis,1,1
+6029,"Northport Pharmacy",9,"Autoimmune diseases",1,1
+6029,"Northport Pharmacy",11,Cancer,1,1
+6194,"Bartell Drugs",11,Cancer,1,1
+6194,"Bartell Drugs",15,"Coronary heart disease",1,1
+6194,"Bartell Drugs",25,Lupus,1,1
+6194,"Bartell Drugs",28,"Myocardial infarction",1,1
+6305,"First Pharmacy",14,"Crohn's disease",1,2
+6330,"North East Pharmacy",14,"Crohn's disease",2,1
+6330,"North East Pharmacy",6,Atherosclerosis,1,1
+6330,"North East Pharmacy",9,"Autoimmune diseases",1,1
+6330,"North East Pharmacy",15,"Coronary heart disease",1,1
+6330,"North East Pharmacy",27,"Multiple sclerosis",1,1
+6444,Postmeds,26,"Metabolic syndrome",3,1
+6444,Postmeds,25,Lupus,2,1
+6444,Postmeds,38,"Thromboangiitis obliterans",2,1
+6444,Postmeds,40,Vasculitis,2,1
+6444,Postmeds,22,"Guillain–Barré syndrome",1,2
+6444,Postmeds,31,"Panic disorder",1,1
+6444,Postmeds,36,Schizophrenia,1,1
+6576,"Care Pharmacy",26,"Metabolic syndrome",2,3
+6576,"Care Pharmacy",1,"Alzheimer's disease",1,2
+6576,"Care Pharmacy",35,Sarcoidosis,1,2
+6576,"Care Pharmacy",27,"Multiple sclerosis",1,1
+6611,Medlife,14,"Crohn's disease",2,1
+6611,Medlife,3,"Anorexia nervosa",1,2
+6611,Medlife,2,"Amyotrophic lateral sclerosis",1,1
+6611,Medlife,16,Dementia,1,1
+6611,Medlife,20,"Dilated cardiomyopathy",1,1
+6611,Medlife,30,"Obsessive–compulsive disorder",1,1
+6674,"The Downtown Dispensary",36,Schizophrenia,1,2
+6674,"The Downtown Dispensary",29,Obesity,1,1
+6706,"Acculife Drug Stores",1,"Alzheimer's disease",1,2
+6706,"Acculife Drug Stores",11,Cancer,1,1
+6706,"Acculife Drug Stores",12,"Chronic fatigue syndrome",1,1
+6706,"Acculife Drug Stores",40,Vasculitis,1,1
+6717,"DFW Wellness",14,"Crohn's disease",1,2
+6717,"DFW Wellness",11,Cancer,1,1
+6717,"DFW Wellness",29,Obesity,1,1
+6717,"DFW Wellness",31,"Panic disorder",1,1
+6728,"GoGo Meds",19,"Diabetes mellitus type 2",1,1
+6728,"GoGo Meds",24,"Low back pain",1,1
+6728,"GoGo Meds",27,"Multiple sclerosis",1,1
+6728,"GoGo Meds",30,"Obsessive–compulsive disorder",1,1
+6840,"First Hill Pharmacy",38,"Thromboangiitis obliterans",1,2
+6840,"First Hill Pharmacy",3,"Anorexia nervosa",1,1
+6847,"Globe Pharmacy",13,"Chronic obstructive pulmonary disease",1,1
+6847,"Globe Pharmacy",30,"Obsessive–compulsive disorder",1,1
+6863,Wellcare,13,"Chronic obstructive pulmonary disease",2,1
+6863,Wellcare,5,Asthma,1,1
+6863,Wellcare,10,"Bipolar disorder",1,1
+6863,Wellcare,26,"Metabolic syndrome",1,1
+6863,Wellcare,28,"Myocardial infarction",1,1
+6863,Wellcare,40,Vasculitis,1,1
+6914,"Prescription Lifeline",36,Schizophrenia,2,2
+6914,"Prescription Lifeline",20,"Dilated cardiomyopathy",1,2
+6914,"Prescription Lifeline",7,"Attention deficit hyperactivity disorder",1,1
+6914,"Prescription Lifeline",25,Lupus,1,1
+6914,"Prescription Lifeline",26,"Metabolic syndrome",1,1
+6914,"Prescription Lifeline",28,"Myocardial infarction",1,1
+6914,"Prescription Lifeline",31,"Panic disorder",1,1
+6914,"Prescription Lifeline",32,"Parkinson's disease",1,1
+6914,"Prescription Lifeline",34,"Rheumatoid arthritis",1,1
+6914,"Prescription Lifeline",35,Sarcoidosis,1,1
+6931,Wellpharma,4,"Anxiety disorder",2,1
+6931,Wellpharma,10,"Bipolar disorder",1,2
+6931,Wellpharma,8,Autism,1,1
+6931,Wellpharma,17,Depression,1,1
+6931,Wellpharma,25,Lupus,1,1
+6931,Wellpharma,36,Schizophrenia,1,1
+6957,"Express Food & Pharmacy",24,"Low back pain",2,1
+6957,"Express Food & Pharmacy",30,"Obsessive–compulsive disorder",2,1
+6957,"Express Food & Pharmacy",33,Psoriasis,1,1
+6957,"Express Food & Pharmacy",40,Vasculitis,1,1
+6971,"Hearty Mart",23,"Irritable bowel syndrome",3,1
+6971,"Hearty Mart",2,"Amyotrophic lateral sclerosis",1,1
+6971,"Hearty Mart",20,"Dilated cardiomyopathy",1,1
+6984,"Gateway Medical",8,Autism,1,1
+6984,"Gateway Medical",9,"Autoimmune diseases",1,1
+6984,"Gateway Medical",30,"Obsessive–compulsive disorder",1,1
+6998,Healthlink,31,"Panic disorder",1,2
+6998,Healthlink,8,Autism,1,1
+6998,Healthlink,23,"Irritable bowel syndrome",1,1
+6998,Healthlink,33,Psoriasis,1,1
+7016,"Southside Family Pharmacy",27,"Multiple sclerosis",1,3
+7016,"Southside Family Pharmacy",12,"Chronic fatigue syndrome",1,2
+7016,"Southside Family Pharmacy",37,Stroke,1,1
+7085,"Community Pharmacy",2,"Amyotrophic lateral sclerosis",2,1
+7085,"Community Pharmacy",18,"Diabetes mellitus type 1",2,1
+7182,"Health Hexa Drugs",24,"Low back pain",1,2
+7182,"Health Hexa Drugs",30,"Obsessive–compulsive disorder",1,2
+7182,"Health Hexa Drugs",15,"Coronary heart disease",1,1
+7182,"Health Hexa Drugs",29,Obesity,1,1
+7202,"Essura Pharmacy",9,"Autoimmune diseases",1,2
+7202,"Essura Pharmacy",17,Depression,1,1
+7357,MedShoppe,20,"Dilated cardiomyopathy",1,3
+7357,MedShoppe,11,Cancer,1,2
+7357,MedShoppe,19,"Diabetes mellitus type 2",1,1
+7357,MedShoppe,25,Lupus,1,1
+7435,"Good Life Rx",24,"Low back pain",1,1
+7435,"Good Life Rx",30,"Obsessive–compulsive disorder",1,1
+7448,"Central Drug Store",31,"Panic disorder",3,1
+7448,"Central Drug Store",17,Depression,2,1
+7448,"Central Drug Store",18,"Diabetes mellitus type 1",2,1
+7448,"Central Drug Store",40,Vasculitis,1,2
+7448,"Central Drug Store",13,"Chronic obstructive pulmonary disease",1,1
+7448,"Central Drug Store",23,"Irritable bowel syndrome",1,1
+7448,"Central Drug Store",26,"Metabolic syndrome",1,1
+7448,"Central Drug Store",29,Obesity,1,1
+7448,"Central Drug Store",36,Schizophrenia,1,1
+7454,"The Pill Club",19,"Diabetes mellitus type 2",2,1
+7454,"The Pill Club",6,Atherosclerosis,1,2
+7454,"The Pill Club",13,"Chronic obstructive pulmonary disease",1,1
+7454,"The Pill Club",39,"Tourette syndrome",1,1
+7472,"Absolute Care",21,Epilepsy,1,2
+7472,"Absolute Care",5,Asthma,1,1
+7472,"Absolute Care",20,"Dilated cardiomyopathy",1,1
+7472,"Absolute Care",22,"Guillain–Barré syndrome",1,1
+7532,"Sure Save",9,"Autoimmune diseases",1,2
+7532,"Sure Save",16,Dementia,1,1
+7532,"Sure Save",20,"Dilated cardiomyopathy",1,1
+7532,"Sure Save",39,"Tourette syndrome",1,1
+7637,"City Drug",33,Psoriasis,2,1
+7637,"City Drug",15,"Coronary heart disease",1,1
+7637,"City Drug",28,"Myocardial infarction",1,1
+7649,"Friends & Family Pharmacy",3,"Anorexia nervosa",2,1
+7649,"Friends & Family Pharmacy",34,"Rheumatoid arthritis",2,1
+7649,"Friends & Family Pharmacy",38,"Thromboangiitis obliterans",1,2
+7649,"Friends & Family Pharmacy",30,"Obsessive–compulsive disorder",1,1
+7683,Lifezest,2,"Amyotrophic lateral sclerosis",2,1
+7683,Lifezest,13,"Chronic obstructive pulmonary disease",1,1
+7683,Lifezest,33,Psoriasis,1,1
+7683,Lifezest,40,Vasculitis,1,1
+7701,Protowell,22,"Guillain–Barré syndrome",1,2
+7701,Protowell,2,"Amyotrophic lateral sclerosis",1,1
+7701,Protowell,6,Atherosclerosis,1,1
+7701,Protowell,7,"Attention deficit hyperactivity disorder",1,1
+7701,Protowell,20,"Dilated cardiomyopathy",1,1
+7701,Protowell,21,Epilepsy,1,1
+7701,Protowell,24,"Low back pain",1,1
+7701,Protowell,26,"Metabolic syndrome",1,1
+7701,Protowell,30,"Obsessive–compulsive disorder",1,1
+7759,"Beyond Health",1,"Alzheimer's disease",2,2
+7759,"Beyond Health",2,"Amyotrophic lateral sclerosis",1,1
+7759,"Beyond Health",12,"Chronic fatigue syndrome",1,1
+7759,"Beyond Health",27,"Multiple sclerosis",1,1
+7759,"Beyond Health",36,Schizophrenia,1,1
+7865,OptumRx,32,"Parkinson's disease",1,1
+7887,"The Rx Advocates",19,"Diabetes mellitus type 2",2,1
+7887,"The Rx Advocates",34,"Rheumatoid arthritis",2,1
+7887,"The Rx Advocates",4,"Anxiety disorder",1,1
+7887,"The Rx Advocates",9,"Autoimmune diseases",1,1
+7887,"The Rx Advocates",13,"Chronic obstructive pulmonary disease",1,1
+7887,"The Rx Advocates",15,"Coronary heart disease",1,1
+7887,"The Rx Advocates",32,"Parkinson's disease",1,1
+7985,Centrico,1,"Alzheimer's disease",1,1
+7985,Centrico,2,"Amyotrophic lateral sclerosis",1,1
+7985,Centrico,7,"Attention deficit hyperactivity disorder",1,1
+7985,Centrico,34,"Rheumatoid arthritis",1,1
+7985,Centrico,39,"Tourette syndrome",1,1
+7999,"Cherry Street Pharmacy",8,Autism,1,1
+7999,"Cherry Street Pharmacy",19,"Diabetes mellitus type 2",1,1
+7999,"Cherry Street Pharmacy",29,Obesity,1,1
+7999,"Cherry Street Pharmacy",32,"Parkinson's disease",1,1
+8109,"Premier Long Term Care Pharm",8,Autism,2,1
+8142,"RX Universal",12,"Chronic fatigue syndrome",2,1
+8142,"RX Universal",25,Lupus,2,1
+8142,"RX Universal",13,"Chronic obstructive pulmonary disease",1,2
+8142,"RX Universal",10,"Bipolar disorder",1,1
+8142,"RX Universal",18,"Diabetes mellitus type 1",1,1
+8142,"RX Universal",23,"Irritable bowel syndrome",1,1
+8142,"RX Universal",34,"Rheumatoid arthritis",1,1
+8173,"Innovia Drug Stores",8,Autism,1,2
+8184,Apotheco,27,"Multiple sclerosis",2,1
+8184,Apotheco,23,"Irritable bowel syndrome",1,2
+8184,Apotheco,28,"Myocardial infarction",1,2
+8184,Apotheco,13,"Chronic obstructive pulmonary disease",1,1
+8184,Apotheco,18,"Diabetes mellitus type 1",1,1
+8184,Apotheco,34,"Rheumatoid arthritis",1,1
+8265,"Pharmacy Alliance",2,"Amyotrophic lateral sclerosis",3,2
+8265,"Pharmacy Alliance",15,"Coronary heart disease",1,1
+8265,"Pharmacy Alliance",27,"Multiple sclerosis",1,1
+8265,"Pharmacy Alliance",37,Stroke,1,1
+8315,RefillWise,13,"Chronic obstructive pulmonary disease",1,2
+8315,RefillWise,12,"Chronic fatigue syndrome",1,1
+8315,RefillWise,19,"Diabetes mellitus type 2",1,1
+8320,"Adams Drugs",2,"Amyotrophic lateral sclerosis",2,2
+8320,"Adams Drugs",18,"Diabetes mellitus type 1",2,2
+8320,"Adams Drugs",6,Atherosclerosis,1,2
+8349,"Grand Medicine",23,"Irritable bowel syndrome",1,1
+8349,"Grand Medicine",24,"Low back pain",1,1
+8349,"Grand Medicine",26,"Metabolic syndrome",1,1
+8404,"Atlas Drugs",22,"Guillain–Barré syndrome",2,2
+8404,"Atlas Drugs",3,"Anorexia nervosa",1,1
+8404,"Atlas Drugs",37,Stroke,1,1
+8404,"Atlas Drugs",38,"Thromboangiitis obliterans",1,1
+8442,"Wellman’s Pharmacy",6,Atherosclerosis,1,2
+8442,"Wellman’s Pharmacy",18,"Diabetes mellitus type 1",1,2
+8442,"Wellman’s Pharmacy",2,"Amyotrophic lateral sclerosis",1,1
+8442,"Wellman’s Pharmacy",11,Cancer,1,1
+8442,"Wellman’s Pharmacy",20,"Dilated cardiomyopathy",1,1
+8442,"Wellman’s Pharmacy",33,Psoriasis,1,1
+8549,"Cash Saver Pharmacy",4,"Anxiety disorder",2,1
+8549,"Cash Saver Pharmacy",31,"Panic disorder",1,2
+8549,"Cash Saver Pharmacy",29,Obesity,1,1
+8594,"Right Drugs",9,"Autoimmune diseases",1,2
+8594,"Right Drugs",8,Autism,1,1
+8594,"Right Drugs",13,"Chronic obstructive pulmonary disease",1,1
+8594,"Right Drugs",18,"Diabetes mellitus type 1",1,1
+8594,"Right Drugs",28,"Myocardial infarction",1,1
+8628,Zenrx,14,"Crohn's disease",1,1
+8628,Zenrx,17,Depression,1,1
+8628,Zenrx,19,"Diabetes mellitus type 2",1,1
+8669,"Greensburg Family Pharmacy",35,Sarcoidosis,2,1
+8669,"Greensburg Family Pharmacy",6,Atherosclerosis,1,2
+8669,"Greensburg Family Pharmacy",7,"Attention deficit hyperactivity disorder",1,2
+8669,"Greensburg Family Pharmacy",24,"Low back pain",1,1
+8718,"Family Fare",14,"Crohn's disease",3,1
+8718,"Family Fare",10,"Bipolar disorder",2,1
+8718,"Family Fare",8,Autism,1,1
+8718,"Family Fare",12,"Chronic fatigue syndrome",1,1
+8718,"Family Fare",16,Dementia,1,1
+8718,"Family Fare",25,Lupus,1,1
+8718,"Family Fare",26,"Metabolic syndrome",1,1
+8718,"Family Fare",38,"Thromboangiitis obliterans",1,1
+8737,"RX Express",8,Autism,2,1
+8737,"RX Express",24,"Low back pain",1,2
+8737,"RX Express",23,"Irritable bowel syndrome",1,1
+8737,"RX Express",35,Sarcoidosis,1,1
+8737,"RX Express",38,"Thromboangiitis obliterans",1,1
+8760,"Discount Drugs",16,Dementia,2,1
+8760,"Discount Drugs",14,"Crohn's disease",1,2
+8760,"Discount Drugs",26,"Metabolic syndrome",1,1
+8760,"Discount Drugs",30,"Obsessive–compulsive disorder",1,1
+8795,"Rejuvva Drugs",4,"Anxiety disorder",1,1
+8795,"Rejuvva Drugs",7,"Attention deficit hyperactivity disorder",1,1
+8795,"Rejuvva Drugs",23,"Irritable bowel syndrome",1,1
+8795,"Rejuvva Drugs",28,"Myocardial infarction",1,1
+8795,"Rejuvva Drugs",29,Obesity,1,1
+8824,"Holloway Pharmacy",12,"Chronic fatigue syndrome",2,1
+8824,"Holloway Pharmacy",39,"Tourette syndrome",2,1
+8824,"Holloway Pharmacy",22,"Guillain–Barré syndrome",1,2
+8824,"Holloway Pharmacy",3,"Anorexia nervosa",1,1
+8824,"Holloway Pharmacy",8,Autism,1,1
+8824,"Holloway Pharmacy",18,"Diabetes mellitus type 1",1,1
+8824,"Holloway Pharmacy",24,"Low back pain",1,1
+8824,"Holloway Pharmacy",27,"Multiple sclerosis",1,1
+8829,"Lyfe Pharmacy",1,"Alzheimer's disease",2,1
+8829,"Lyfe Pharmacy",14,"Crohn's disease",1,2
+8829,"Lyfe Pharmacy",21,Epilepsy,1,1
+8829,"Lyfe Pharmacy",27,"Multiple sclerosis",1,1
+8852,"Envolve Health",23,"Irritable bowel syndrome",3,1
+8852,"Envolve Health",7,"Attention deficit hyperactivity disorder",1,1
+8852,"Envolve Health",9,"Autoimmune diseases",1,1
+8852,"Envolve Health",11,Cancer,1,1
+8852,"Envolve Health",14,"Crohn's disease",1,1
+8891,Neighbors,6,Atherosclerosis,1,2
+8891,Neighbors,13,"Chronic obstructive pulmonary disease",1,2
+8891,Neighbors,17,Depression,1,1
+8891,Neighbors,21,Epilepsy,1,1
+8891,Neighbors,27,"Multiple sclerosis",1,1
+8891,Neighbors,34,"Rheumatoid arthritis",1,1
+8897,MedSavvy,35,Sarcoidosis,1,2
+8897,MedSavvy,1,"Alzheimer's disease",1,1
+8897,MedSavvy,6,Atherosclerosis,1,1
+8897,MedSavvy,8,Autism,1,1
+8897,MedSavvy,24,"Low back pain",1,1
+8910,"Pure Care Pharmacy",26,"Metabolic syndrome",2,1
+8910,"Pure Care Pharmacy",37,Stroke,2,1
+8910,"Pure Care Pharmacy",38,"Thromboangiitis obliterans",1,1
+8911,"Assured Rx",16,Dementia,2,1
+8911,"Assured Rx",7,"Attention deficit hyperactivity disorder",1,1
+8911,"Assured Rx",33,Psoriasis,1,1
+8933,"Cashway Pharmacy",32,"Parkinson's disease",1,1
+8933,"Cashway Pharmacy",33,Psoriasis,1,1
+8933,"Cashway Pharmacy",37,Stroke,1,1
+8933,"Cashway Pharmacy",38,"Thromboangiitis obliterans",1,1
+8982,"Roosevelt Clinic",26,"Metabolic syndrome",2,1
+8982,"Roosevelt Clinic",1,"Alzheimer's disease",1,1
+8982,"Roosevelt Clinic",4,"Anxiety disorder",1,1
+8982,"Roosevelt Clinic",11,Cancer,1,1
+8982,"Roosevelt Clinic",19,"Diabetes mellitus type 2",1,1
+8982,"Roosevelt Clinic",22,"Guillain–Barré syndrome",1,1
+8982,"Roosevelt Clinic",37,Stroke,1,1
+9010,"Pavilions Pharmacy",23,"Irritable bowel syndrome",1,1
+9139,"Revco Discount Drugs",17,Depression,1,2
+9139,"Revco Discount Drugs",40,Vasculitis,1,2
+9139,"Revco Discount Drugs",4,"Anxiety disorder",1,1
+9139,"Revco Discount Drugs",13,"Chronic obstructive pulmonary disease",1,1
+9139,"Revco Discount Drugs",18,"Diabetes mellitus type 1",1,1
+9169,"Lowry’s Prescriptions",31,"Panic disorder",1,3
+9169,"Lowry’s Prescriptions",26,"Metabolic syndrome",1,2
+9169,"Lowry’s Prescriptions",1,"Alzheimer's disease",1,1
+9239,ScriptSave,4,"Anxiety disorder",1,2
+9239,ScriptSave,18,"Diabetes mellitus type 1",1,1
+9239,ScriptSave,36,Schizophrenia,1,1
+9255,PrecisionMed,33,Psoriasis,2,1
+9255,PrecisionMed,12,"Chronic fatigue syndrome",1,1
+9255,PrecisionMed,13,"Chronic obstructive pulmonary disease",1,1
+9296,"Gem Drugs",7,"Attention deficit hyperactivity disorder",2,1
+9296,"Gem Drugs",1,"Alzheimer's disease",1,2
+9296,"Gem Drugs",14,"Crohn's disease",1,2
+9296,"Gem Drugs",3,"Anorexia nervosa",1,1
+9296,"Gem Drugs",4,"Anxiety disorder",1,1
+9296,"Gem Drugs",13,"Chronic obstructive pulmonary disease",1,1
+9296,"Gem Drugs",19,"Diabetes mellitus type 2",1,1
+9296,"Gem Drugs",24,"Low back pain",1,1
+9296,"Gem Drugs",28,"Myocardial infarction",1,1
+9296,"Gem Drugs",31,"Panic disorder",1,1
+9296,"Gem Drugs",33,Psoriasis,1,1
+9296,"Gem Drugs",34,"Rheumatoid arthritis",1,1
+9296,"Gem Drugs",37,Stroke,1,1
+9324,"Geneva Woods",21,Epilepsy,2,2
+9324,"Geneva Woods",9,"Autoimmune diseases",1,1
+9324,"Geneva Woods",22,"Guillain–Barré syndrome",1,1
+9324,"Geneva Woods",30,"Obsessive–compulsive disorder",1,1
+9324,"Geneva Woods",36,Schizophrenia,1,1
+9325,"Sharp Specialty Pharmacy",1,"Alzheimer's disease",3,1
+9325,"Sharp Specialty Pharmacy",12,"Chronic fatigue syndrome",1,1
+9325,"Sharp Specialty Pharmacy",15,"Coronary heart disease",1,1
+9325,"Sharp Specialty Pharmacy",36,Schizophrenia,1,1
+9387,"Rocky’s Drug",12,"Chronic fatigue syndrome",2,2
+9387,"Rocky’s Drug",34,"Rheumatoid arthritis",1,3
+9387,"Rocky’s Drug",11,Cancer,1,2
+9387,"Rocky’s Drug",4,"Anxiety disorder",1,1
+9387,"Rocky’s Drug",17,Depression,1,1
+9387,"Rocky’s Drug",21,Epilepsy,1,1
+9403,"Pharmaca Integrative",20,"Dilated cardiomyopathy",2,1
+9403,"Pharmaca Integrative",6,Atherosclerosis,1,1
+9403,"Pharmaca Integrative",25,Lupus,1,1
+9403,"Pharmaca Integrative",30,"Obsessive–compulsive disorder",1,1
+9403,"Pharmaca Integrative",33,Psoriasis,1,1
+9405,"Priority Pharmacy",4,"Anxiety disorder",3,1
+9405,"Priority Pharmacy",2,"Amyotrophic lateral sclerosis",1,2
+9405,"Priority Pharmacy",15,"Coronary heart disease",1,1
+9405,"Priority Pharmacy",22,"Guillain–Barré syndrome",1,1
+9405,"Priority Pharmacy",25,Lupus,1,1
+9405,"Priority Pharmacy",28,"Myocardial infarction",1,1
+9405,"Priority Pharmacy",29,Obesity,1,1
+9517,"Pharmacy Partners",15,"Coronary heart disease",1,2
+9517,"Pharmacy Partners",2,"Amyotrophic lateral sclerosis",1,1
+9517,"Pharmacy Partners",16,Dementia,1,1
+9517,"Pharmacy Partners",33,Psoriasis,1,1
+9517,"Pharmacy Partners",38,"Thromboangiitis obliterans",1,1
+9580,"Health Corner",9,"Autoimmune diseases",1,1
+9580,"Health Corner",17,Depression,1,1
+9580,"Health Corner",21,Epilepsy,1,1
+9580,"Health Corner",38,"Thromboangiitis obliterans",1,1
+9580,"Health Corner",40,Vasculitis,1,1
+9645,"Frost Medical Pharmacy",7,"Attention deficit hyperactivity disorder",1,1
+9645,"Frost Medical Pharmacy",18,"Diabetes mellitus type 1",1,1
+9645,"Frost Medical Pharmacy",22,"Guillain–Barré syndrome",1,1
+9645,"Frost Medical Pharmacy",32,"Parkinson's disease",1,1
+9647,"Covenant Pharmacy",28,"Myocardial infarction",2,1
+9647,"Covenant Pharmacy",4,"Anxiety disorder",1,1
+9647,"Covenant Pharmacy",6,Atherosclerosis,1,1
+9647,"Covenant Pharmacy",7,"Attention deficit hyperactivity disorder",1,1
+9647,"Covenant Pharmacy",18,"Diabetes mellitus type 1",1,1
+9659,"Express Scripts",26,"Metabolic syndrome",3,2
+9659,"Express Scripts",7,"Attention deficit hyperactivity disorder",1,1
+9659,"Express Scripts",13,"Chronic obstructive pulmonary disease",1,1
+9659,"Express Scripts",19,"Diabetes mellitus type 2",1,1
+9659,"Express Scripts",20,"Dilated cardiomyopathy",1,1
+9659,"Express Scripts",31,"Panic disorder",1,1
+9675,"Customceutical Compounding",24,"Low back pain",2,1
+9675,"Customceutical Compounding",39,"Tourette syndrome",1,2
+9675,"Customceutical Compounding",18,"Diabetes mellitus type 1",1,1
+9675,"Customceutical Compounding",26,"Metabolic syndrome",1,1
+9675,"Customceutical Compounding",30,"Obsessive–compulsive disorder",1,1
+9675,"Customceutical Compounding",34,"Rheumatoid arthritis",1,1
+9681,"Be Well",23,"Irritable bowel syndrome",2,1
+9681,"Be Well",32,"Parkinson's disease",1,2
+9681,"Be Well",20,"Dilated cardiomyopathy",1,1
+9681,"Be Well",22,"Guillain–Barré syndrome",1,1
+9681,"Be Well",36,Schizophrenia,1,1
+9707,"Better You",26,"Metabolic syndrome",1,1
+9790,"Wellness Craft",7,"Attention deficit hyperactivity disorder",4,1
+9790,"Wellness Craft",15,"Coronary heart disease",2,3
+9790,"Wellness Craft",18,"Diabetes mellitus type 1",1,3
+9790,"Wellness Craft",31,"Panic disorder",1,2
+9790,"Wellness Craft",24,"Low back pain",1,1
+9790,"Wellness Craft",36,Schizophrenia,1,1
+9790,"Wellness Craft",38,"Thromboangiitis obliterans",1,1
+9790,"Wellness Craft",39,"Tourette syndrome",1,1
+9800,"Maplewood Pharmacy",24,"Low back pain",2,1
+9800,"Maplewood Pharmacy",22,"Guillain–Barré syndrome",1,1
+9869,"Health Aura",4,"Anxiety disorder",2,1
+9869,"Health Aura",22,"Guillain–Barré syndrome",1,2
+9869,"Health Aura",11,Cancer,1,1
+9869,"Health Aura",37,Stroke,1,1
+9938,MedImpact,7,"Attention deficit hyperactivity disorder",1,1
+9969,"Good Neighbor Pharmacy",34,"Rheumatoid arthritis",2,2
+9969,"Good Neighbor Pharmacy",17,Depression,2,1
+9969,"Good Neighbor Pharmacy",7,"Attention deficit hyperactivity disorder",1,1
+9969,"Good Neighbor Pharmacy",18,"Diabetes mellitus type 1",1,1
+9969,"Good Neighbor Pharmacy",35,Sarcoidosis,1,1
+9999,"Planet Health",5,Asthma,1,1
+9999,"Planet Health",23,"Irritable bowel syndrome",1,1
+9999,"Planet Health",36,Schizophrenia,1,1

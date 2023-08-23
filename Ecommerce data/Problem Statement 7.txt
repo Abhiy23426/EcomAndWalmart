@@ -1,0 +1,21 @@
+Problem Statement 7:
+
+Which seller sold more?
+Which seller got more rating?
+
+
+create external table op7_1 (seller_id string, products_sold int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op7_1';
+
+insert overwrite table op7_1
+select seller_id, sum(quantity) from ecom_data_orc group by seller_id;
+
+
+
+create external table op7_2 (seller_id string, average_rating float, order_count int) row format delimited fields terminated by ',' location '/user/hive/warehouse/ecom_op/op7_2';
+
+insert overwrite table op7_2
+select seller_id, round(avg(rating),2) as arating, count(order_id) as orders from ecom_data_orc group by seller_id;
+
+
+
+

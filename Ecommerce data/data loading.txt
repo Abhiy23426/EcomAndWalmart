@@ -1,0 +1,111 @@
+file saved as csv but actually it is an excel file so convert it to csv file
+
+hdfs dfs -put ecom_data.csv ecom
+
+create database ecom;
+
+use ecom;
+
+CREATE TABLE ecom_data
+(order_id STRING,
+customer_id STRING,
+quantity INT,
+price_MRP FLOAT,
+payment FLOAT,
+timestamp STRING,
+rating INT,
+product_category STRING,
+product_id STRING,
+payment_type STRING,
+order_status STRING,
+product_weight INT,
+product_length INT,
+product_height INT,
+product_width INT,
+customer_city STRING,
+customer_state STRING,
+seller_id STRING,
+seller_city STRING,
+payment_installments INT) row format delimited fields terminated by ',';
+
+alter table ecom_data set tblproperties('skip.header.line.count'='1');
+
+load data inpath 'ecom/ecom_data.csv' into table ecom_data;
+
+
+CREATE TABLE ecom_data_orc
+(order_id STRING,
+customer_id STRING,
+quantity INT,
+price_MRP FLOAT,
+payment FLOAT,
+timestamp STRING,
+rating INT,
+product_category STRING,
+product_id STRING,
+payment_type STRING,
+order_status STRING,
+product_weight INT,
+product_length INT,
+product_height INT,
+product_width INT,
+customer_city STRING,
+customer_state STRING,
+seller_id STRING,
+seller_city STRING,
+payment_installments INT) stored as orc;
+
+insert overwrite table ecom_data_orc select order_id,
+customer_id ,
+max(quantity),
+price_MRP ,
+payment ,
+timestamp ,
+rating ,
+product_category ,
+product_id ,
+payment_type ,
+order_status ,
+product_weight ,
+product_length ,
+product_height ,
+product_width ,
+customer_city ,
+customer_state ,
+seller_id ,
+seller_city ,
+payment_installments from ecom_data 
+group by order_id, customer_id , price_MRP , payment ,
+timestamp , rating , product_category , product_id ,
+payment_type , order_status , product_weight , product_length ,
+product_height , product_width , customer_city , customer_state ,
+seller_id , seller_city , payment_installments ;
+
+
+
+CREATE TABLE ecom_data1
+(order_id STRING,
+customer_id STRING,
+quantity INT,
+price_MRP FLOAT,
+payment FLOAT,
+timestamp STRING,
+rating INT,
+product_category STRING,
+product_id STRING,
+payment_type STRING,
+order_status STRING,
+product_weight INT,
+product_length INT,
+product_height INT,
+product_width INT,
+customer_city STRING,
+customer_state STRING,
+seller_id STRING,
+seller_city STRING,
+payment_installments INT) row format delimited fields terminated by ',';
+
+insert into table ecom_data1 select * from ecom_data_orc;
+
+
+
